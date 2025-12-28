@@ -1,0 +1,32 @@
+####################################
+# Python / Virtual Environment
+####################################
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+.cache/
+
+####################################
+# OS / Editor files
+####################################
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+*.log
+*.tmp
+
+
+####################################
+# HuggingFace / Transformers cache
+####################################
+.cache/huggingface/
+.cache/torch/

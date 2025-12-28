@@ -1,0 +1,440 @@
+
+============================================================
+ID: A_LANG_000787
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 8%. It maintained stable net debt levels compared to the prior year. Additionally, the company increased capital expenditures related to facility upgrades.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 8%. It maintained stable net debt levels compared to the prior year. Additionally, the company increased capital expenditures related to facility upgrades. [/INST] In the fiscal year 2023, the company reported a 8% increase in year-over-year revenue growth. The net debt level remained constant compared to the previous year. There was an upward trend in capital expenditures, specifically in the area of facility upgrades.
+
+============================================================
+ID: A_LANG_000137
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company increased capital expenditures related to facility upgrades. It reported total revenue of USD 4.8 billion. Additionally, the company generated operating cash flow of USD 429 million.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company increased capital expenditures related to facility upgrades. It reported total revenue of USD 4.8 billion. Additionally, the company generated operating cash flow of USD 429 million. [/INST] In the fiscal year 2023, the company reported total revenue of USD 4.8 billion and generated operating cash flow of USD 429 million. Notably, there was an increase in capital expenditures for facility upgrades.
+
+============================================================
+ID: A_LANG_000032
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 11%. It experienced a decline in operating income due to higher costs. Additionally, the company generated operating cash flow of USD 403 million.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 11%. It experienced a decline in operating income due to higher costs. Additionally, the company generated operating cash flow of USD 403 million. [/INST] In the fiscal year 2023, the company reported an 11% increase in year-over-year revenue. However, there was a decrease in operating income as a result of higher costs. The company's operating cash flow amounted to USD 403 million.
+
+============================================================
+ID: A_LANG_000935
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company experienced a decline in operating income due to higher costs. It increased capital expenditures related to facility upgrades. Additionally, the company generated operating cash flow of USD 549 million.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company experienced a decline in operating income due to higher costs. It increased capital expenditures related to facility upgrades. Additionally, the company generated operating cash flow of USD 549 million. [/INST] In the fiscal year 2023, the company reported a decrease in operating income, which was attributed to increased costs and capital expenditures for facility upgrades. The company's operating cash flow amounted to USD 549 million.
+
+============================================================
+ID: A_LANG_000356
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 11%. It increased capital expenditures related to facility upgrades. Additionally, the company maintained stable net debt levels compared to the prior year.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 11%. It increased capital expenditures related to facility upgrades. Additionally, the company maintained stable net debt levels compared to the prior year. [/INST] In the fiscal year 2023, the company reported an 11% increase in year-over-year revenue growth. Concurrently, capital expenditures were raised for facility upgrades. Notably, the company kept net debt levels constant as compared to the previous year.
+
+============================================================
+ID: A_LANG_000315
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 13%. It generated operating cash flow of USD 640 million. Additionally, the company maintained stable net debt levels compared to the prior year.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 13%. It generated operating cash flow of USD 640 million. Additionally, the company maintained stable net debt levels compared to the prior year. [/INST] In the fiscal year 2023, the company reported a 13% increase in year-over-year revenue. The business generated an operating cash flow of USD 640 million. Notably, net debt levels remained constant compared to the previous year.
+
+============================================================
+ID: A_LANG_000285
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company experienced a decline in operating income due to higher costs. It maintained stable net debt levels compared to the prior year. Additionally, the company continued investment in digital infrastructure.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company experienced a decline in operating income due to higher costs. It maintained stable net debt levels compared to the prior year. Additionally, the company continued investment in digital infrastructure. [/INST] In the fiscal year 2023, the company reported a decrease in operating income, which can be attributed to increased costs. Despite this decline, the company kept net debt constant compared to the previous year. Furthermore, the company continued to invest in digital infrastructure.
+
+============================================================
+ID: A_LANG_000187
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company maintained stable net debt levels compared to the prior year. It experienced a decline in operating income due to higher costs. Additionally, the company reported total revenue of USD 3.9 billion.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company maintained stable net debt levels compared to the prior year. It experienced a decline in operating income due to higher costs. Additionally, the company reported total revenue of USD 3.9 billion. [/INST] In the fiscal year 2023, the company's net debt remained constant compared to the previous year. However, there was a decrease in operating income as a result of increased costs. The company reported a total revenue of USD 3.9 billion for the same period.
+
+============================================================
+ID: A_LANG_000928
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company maintained stable net debt levels compared to the prior year. It increased capital expenditures related to facility upgrades. Additionally, the company reported total revenue of USD 4.5 billion.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company maintained stable net debt levels compared to the prior year. It increased capital expenditures related to facility upgrades. Additionally, the company reported total revenue of USD 4.5 billion. [/INST] In the fiscal year 2023, the company's net debt remained constant compared to the previous year. There was an increase in capital expenditures, specifically for facility upgrades. The company reported a total revenue of USD 4.5 billion.
+
+============================================================
+ID: A_LANG_000127
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company generated operating cash flow of USD 505 million. It maintained stable net debt levels compared to the prior year. Additionally, the company increased capital expenditures related to facility upgrades.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company generated operating cash flow of USD 505 million. It maintained stable net debt levels compared to the prior year. Additionally, the company increased capital expenditures related to facility upgrades. [/INST] In the fiscal year 2023, the company reported an operating cash flow of USD 505 million. This figure represents a cash inflow generated by the company's primary business operations. The company's net debt levels remained constant compared to the previous year. Simultaneously, capital expenditures were increased for facility upgrades.
+
+============================================================
+ID: A_LANG_000793
+============================================================
+INSTRUCTION: Extract the key financial points from the following text. Return the result as concise bullet points.
+
+INPUT:
+The company generated operating cash flow of USD 1183 million during the period. Capital expenditures increased to USD 582 million due to infrastructure investments. Net debt remained stable year over year.
+
+RESPONSE:
+[INST] Extract the key financial points from the following text. Return the result as concise bullet points.
+
+The company generated operating cash flow of USD 1183 million during the period. Capital expenditures increased to USD 582 million due to infrastructure investments. Net debt remained stable year over year. [/INST] * Operating cash flow: USD 1183 million
+* Capital expenditures: USD 582 million (increase due to infrastructure investments)
+* Net debt: stable year over year.
+
+============================================================
+ID: A_LANG_000109
+============================================================
+INSTRUCTION: Extract the key financial points from the following text. Return the result as concise bullet points.
+
+INPUT:
+The company generated operating cash flow of USD 760 million during the period. Capital expenditures increased to USD 512 million due to infrastructure investments. Net debt remained stable year over year.
+
+RESPONSE:
+[INST] Extract the key financial points from the following text. Return the result as concise bullet points.
+
+The company generated operating cash flow of USD 760 million during the period. Capital expenditures increased to USD 512 million due to infrastructure investments. Net debt remained stable year over year. [/INST] * Operating cash flow: USD 760 million
+* Capital expenditures: USD 512 million (increase due to infrastructure investments)
+* Net debt: stable year over year.
+
+============================================================
+ID: A_LANG_000853
+============================================================
+INSTRUCTION: Extract the key financial points from the following text. Return the result as concise bullet points.
+
+INPUT:
+The company generated operating cash flow of USD 878 million during the period. Capital expenditures increased to USD 252 million due to infrastructure investments. Net debt remained stable year over year.
+
+RESPONSE:
+[INST] Extract the key financial points from the following text. Return the result as concise bullet points.
+
+The company generated operating cash flow of USD 878 million during the period. Capital expenditures increased to USD 252 million due to infrastructure investments. Net debt remained stable year over year. [/INST] * Operating cash flow: USD 878 million
+* Capital expenditures: USD 252 million (increase due to infrastructure investments)
+* Net debt: stable year over year.
+
+============================================================
+ID: A_LANG_000601
+============================================================
+INSTRUCTION: Extract the key financial points from the following text. Return the result as concise bullet points.
+
+INPUT:
+The company generated operating cash flow of USD 1417 million during the period. Capital expenditures increased to USD 192 million due to infrastructure investments. Net debt remained stable year over year.
+
+RESPONSE:
+[INST] Extract the key financial points from the following text. Return the result as concise bullet points.
+
+The company generated operating cash flow of USD 1417 million during the period. Capital expenditures increased to USD 192 million due to infrastructure investments. Net debt remained stable year over year. [/INST] * Operating cash flow: USD 1417 million
+* Capital expenditures: USD 192 million (increase due to infrastructure investments)
+* Net debt: stable year over year.
+
+============================================================
+ID: A_LANG_000045
+============================================================
+INSTRUCTION: Extract the key financial points from the following text. Return the result as concise bullet points.
+
+INPUT:
+The company generated operating cash flow of USD 1469 million during the period. Capital expenditures increased to USD 395 million due to infrastructure investments. Net debt remained stable year over year.
+
+RESPONSE:
+[INST] Extract the key financial points from the following text. Return the result as concise bullet points.
+
+The company generated operating cash flow of USD 1469 million during the period. Capital expenditures increased to USD 395 million due to infrastructure investments. Net debt remained stable year over year. [/INST] * Operating cash flow: USD 1469 million
+* Capital expenditures: USD 395 million (increase due to infrastructure investments)
+* Net debt: stable year over year.
+
+============================================================
+ID: A_LANG_000041
+============================================================
+INSTRUCTION: Extract the key financial points from the following text. Return the result as concise bullet points.
+
+INPUT:
+The company generated operating cash flow of USD 547 million during the period. Capital expenditures increased to USD 226 million due to infrastructure investments. Net debt remained stable year over year.
+
+RESPONSE:
+[INST] Extract the key financial points from the following text. Return the result as concise bullet points.
+
+The company generated operating cash flow of USD 547 million during the period. Capital expenditures increased to USD 226 million due to infrastructure investments. Net debt remained stable year over year. [/INST] * Operating cash flow: USD 547 million
+* Capital expenditures: USD 226 million (increase due to infrastructure investments)
+* Net debt: stable year over year.
+
+============================================================
+ID: A_LANG_000117
+============================================================
+INSTRUCTION: Extract the key financial points from the following text. Return the result as concise bullet points.
+
+INPUT:
+The company generated operating cash flow of USD 1333 million during the period. Capital expenditures increased to USD 318 million due to infrastructure investments. Net debt remained stable year over year.
+
+RESPONSE:
+[INST] Extract the key financial points from the following text. Return the result as concise bullet points.
+
+The company generated operating cash flow of USD 1333 million during the period. Capital expenditures increased to USD 318 million due to infrastructure investments. Net debt remained stable year over year. [/INST] * Operating cash flow: USD 1333 million
+* Capital expenditures: USD 318 million (increase due to infrastructure investments)
+* Net debt: stable year over year.
+
+============================================================
+ID: A_LANG_000284
+============================================================
+INSTRUCTION: Extract the key financial points from the following text. Return the result as concise bullet points.
+
+INPUT:
+The company generated operating cash flow of USD 434 million during the period. Capital expenditures increased to USD 164 million due to infrastructure investments. Net debt remained stable year over year.
+
+RESPONSE:
+[INST] Extract the key financial points from the following text. Return the result as concise bullet points.
+
+The company generated operating cash flow of USD 434 million during the period. Capital expenditures increased to USD 164 million due to infrastructure investments. Net debt remained stable year over year. [/INST] * Operating cash flow: USD 434 million
+* Capital expenditures: USD 164 million (increase due to infrastructure investments)
+* Net debt: stable year over year.
+
+============================================================
+ID: A_LANG_000297
+============================================================
+INSTRUCTION: Extract the key financial points from the following text. Return the result as concise bullet points.
+
+INPUT:
+The company generated operating cash flow of USD 1166 million during the period. Capital expenditures increased to USD 544 million due to infrastructure investments. Net debt remained stable year over year.
+
+RESPONSE:
+[INST] Extract the key financial points from the following text. Return the result as concise bullet points.
+
+The company generated operating cash flow of USD 1166 million during the period. Capital expenditures increased to USD 544 million due to infrastructure investments. Net debt remained stable year over year. [/INST] * Operating cash flow: USD 1166 million
+* Capital expenditures: USD 544 million (increase due to infrastructure investments)
+* Net debt: stable year over year.
+
+============================================================
+ID: A_LANG_000715
+============================================================
+INSTRUCTION: Extract the key financial points from the following text. Return the result as concise bullet points.
+
+INPUT:
+The company generated operating cash flow of USD 1084 million during the period. Capital expenditures increased to USD 571 million due to infrastructure investments. Net debt remained stable year over year.
+
+RESPONSE:
+[INST] Extract the key financial points from the following text. Return the result as concise bullet points.
+
+The company generated operating cash flow of USD 1084 million during the period. Capital expenditures increased to USD 571 million due to infrastructure investments. Net debt remained stable year over year. [/INST] * Operating cash flow: USD 1084 million
+* Capital expenditures: USD 571 million (increase due to infrastructure investments)
+* Net debt: stable year over year.
+
+============================================================
+ID: A_LANG_000691
+============================================================
+INSTRUCTION: Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+INPUT:
+The company faces several risks, including regulatory changes increasing compliance costs, potential supply chain disruptions, and macroeconomic uncertainty affecting demand.
+
+RESPONSE:
+[INST] Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+The company faces several risks, including regulatory changes increasing compliance costs, potential supply chain disruptions, and macroeconomic uncertainty affecting demand. [/INST] 1. Regulatory changes increasing compliance costs
+2. Supply chain disruptions
+3. Macroeconomic uncertainty affecting demand
+
+============================================================
+ID: A_LANG_000028
+============================================================
+INSTRUCTION: Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+INPUT:
+The company faces several risks, including exposure to foreign exchange volatility, rising interest rates impacting financing costs, and regulatory changes increasing compliance costs.
+
+RESPONSE:
+[INST] Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+The company faces several risks, including exposure to foreign exchange volatility, rising interest rates impacting financing costs, and regulatory changes increasing compliance costs. [/INST] 1. Foreign exchange volatility
+2. Rising interest rates
+3. Regulatory changes
+4. Increasing compliance costs (due to regulatory changes)
+
+These risks may impact the financial performance of the company. Foreign exchange volatility refers to the fluctuation in exchange rates between different currencies, which can affect the value of the company's international transactions. Rising interest rates can increase financing costs for the company, making it more expensive to borrow money. Regulatory changes can result in additional costs for the company to comply with new regulations.
+
+============================================================
+ID: A_LANG_000648
+============================================================
+INSTRUCTION: Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+INPUT:
+The company faces several risks, including exposure to foreign exchange volatility, macroeconomic uncertainty affecting demand, and potential supply chain disruptions.
+
+RESPONSE:
+[INST] Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+The company faces several risks, including exposure to foreign exchange volatility, macroeconomic uncertainty affecting demand, and potential supply chain disruptions. [/INST] 1. Foreign exchange volatility
+2. Macroeconomic uncertainty
+3. Supply chain disruptions
+
+============================================================
+ID: A_LANG_000247
+============================================================
+INSTRUCTION: Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+INPUT:
+The company faces several risks, including regulatory changes increasing compliance costs, potential supply chain disruptions, and rising interest rates impacting financing costs.
+
+RESPONSE:
+[INST] Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+The company faces several risks, including regulatory changes increasing compliance costs, potential supply chain disruptions, and rising interest rates impacting financing costs. [/INST] 1. Regulatory changes increasing compliance costs
+2. Supply chain disruptions
+3. Rising interest rates impacting financing costs
+
+============================================================
+ID: A_LANG_000789
+============================================================
+INSTRUCTION: Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+INPUT:
+The company faces several risks, including rising interest rates impacting financing costs, potential supply chain disruptions, and exposure to foreign exchange volatility.
+
+RESPONSE:
+[INST] Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+The company faces several risks, including rising interest rates impacting financing costs, potential supply chain disruptions, and exposure to foreign exchange volatility. [/INST] 1. Rising interest rates impacting financing costs
+2. Supply chain disruptions
+3. Exposure to foreign exchange volatility
+
+============================================================
+ID: A_LANG_000731
+============================================================
+INSTRUCTION: Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+INPUT:
+The company faces several risks, including rising interest rates impacting financing costs, macroeconomic uncertainty affecting demand, and regulatory changes increasing compliance costs.
+
+RESPONSE:
+[INST] Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+The company faces several risks, including rising interest rates impacting financing costs, macroeconomic uncertainty affecting demand, and regulatory changes increasing compliance costs. [/INST] 1. Rising interest rates impacting financing costs
+2. Macroeconomic uncertainty affecting demand
+3. Regulatory changes increasing compliance costs
+
+============================================================
+ID: A_LANG_000778
+============================================================
+INSTRUCTION: Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+INPUT:
+The company faces several risks, including rising interest rates impacting financing costs, regulatory changes increasing compliance costs, and exposure to foreign exchange volatility.
+
+RESPONSE:
+[INST] Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+The company faces several risks, including rising interest rates impacting financing costs, regulatory changes increasing compliance costs, and exposure to foreign exchange volatility. [/INST] 1. Rising interest rates impacting financing costs
+2. Regulatory changes increasing compliance costs
+3. Exposure to foreign exchange volatility
+
+============================================================
+ID: A_LANG_000611
+============================================================
+INSTRUCTION: Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+INPUT:
+The company faces several risks, including regulatory changes increasing compliance costs, potential supply chain disruptions, and rising interest rates impacting financing costs.
+
+RESPONSE:
+[INST] Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+The company faces several risks, including regulatory changes increasing compliance costs, potential supply chain disruptions, and rising interest rates impacting financing costs. [/INST] 1. Regulatory changes increasing compliance costs
+2. Supply chain disruptions
+3. Rising interest rates impacting financing costs
+
+============================================================
+ID: A_LANG_000466
+============================================================
+INSTRUCTION: Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+INPUT:
+The company faces several risks, including macroeconomic uncertainty affecting demand, regulatory changes increasing compliance costs, and rising interest rates impacting financing costs.
+
+RESPONSE:
+[INST] Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+The company faces several risks, including macroeconomic uncertainty affecting demand, regulatory changes increasing compliance costs, and rising interest rates impacting financing costs. [/INST] 1. Macroeconomic uncertainty affecting demand
+2. Regulatory changes increasing compliance costs
+3. Rising interest rates impacting financing costs
+
+============================================================
+ID: A_LANG_000266
+============================================================
+INSTRUCTION: Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+INPUT:
+The company faces several risks, including exposure to foreign exchange volatility, regulatory changes increasing compliance costs, and rising interest rates impacting financing costs.
+
+RESPONSE:
+[INST] Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+The company faces several risks, including exposure to foreign exchange volatility, regulatory changes increasing compliance costs, and rising interest rates impacting financing costs. [/INST] 1. Foreign exchange volatility
+2. Regulatory changes and increasing compliance costs
+3. Rising interest rates
+4. Impact of financing costs
+
+These risks refer to:
+
+1. Fluctuations in currency exchange rates affecting the company's international operations and financial performance.
+2. Changes in regulations and the resulting increased costs for the company to comply.
+3. Higher interest rates leading to increased borrowing costs for the company.

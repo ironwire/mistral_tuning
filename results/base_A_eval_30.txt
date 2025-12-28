@@ -1,0 +1,512 @@
+
+===== A_LANG_000787 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.62s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.73s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.43s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.50s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 8%. It maintained stable net debt levels compared to the prior year. Additionally, the company increased capital expenditures related to facility upgrades. [/INST]
+
+===== MODEL OUTPUT =====
+In the fiscal year 2023, the company reported a 8% increase in year-over-year revenue growth. The net debt level remained constant compared to the previous year. There was an upward trend in capital expenditures, specifically in the area of facility upgrades.
+
+===== A_LANG_000137 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.70s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.79s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.46s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.54s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company increased capital expenditures related to facility upgrades. It reported total revenue of USD 4.8 billion. Additionally, the company generated operating cash flow of USD 429 million. [/INST]
+
+===== MODEL OUTPUT =====
+In the fiscal year 2023, the company reported total revenue of USD 4.8 billion and generated operating cash flow of USD 429 million. Notably, there was an increase in capital expenditures for facility upgrades.
+
+===== A_LANG_000032 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.69s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.75s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.45s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.52s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 11%. It experienced a decline in operating income due to higher costs. Additionally, the company generated operating cash flow of USD 403 million. [/INST]
+
+===== MODEL OUTPUT =====
+In the fiscal year 2023, the company reported an 11% increase in year-over-year revenue. However, there was a decrease in operating income as a result of higher costs. The company's operating cash flow amounted to USD 403 million.
+
+===== A_LANG_000935 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.66s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.76s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.41s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.50s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company experienced a decline in operating income due to higher costs. It increased capital expenditures related to facility upgrades. Additionally, the company generated operating cash flow of USD 549 million. [/INST]
+
+===== MODEL OUTPUT =====
+In the fiscal year 2023, the company reported a decrease in operating income, which was attributed to increased costs and capital expenditures for facility upgrades. The company's operating cash flow amounted to USD 549 million.
+
+===== A_LANG_000356 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.69s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.76s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.41s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.50s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 11%. It increased capital expenditures related to facility upgrades. Additionally, the company maintained stable net debt levels compared to the prior year. [/INST]
+
+===== MODEL OUTPUT =====
+In the fiscal year 2023, the company reported an 11% increase in year-over-year revenue growth. Concurrently, capital expenditures were raised for facility upgrades. Notably, the company kept net debt levels constant as compared to the previous year.
+
+===== A_LANG_000315 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.69s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.71s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.40s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.48s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 13%. It generated operating cash flow of USD 640 million. Additionally, the company maintained stable net debt levels compared to the prior year. [/INST]
+
+===== MODEL OUTPUT =====
+In the fiscal year 2023, the company reported a 13% increase in year-over-year revenue. The business generated an operating cash flow of USD 640 million. Notably, net debt levels remained constant compared to the previous year.
+
+===== A_LANG_000285 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.56s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.69s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.41s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.47s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company experienced a decline in operating income due to higher costs. It maintained stable net debt levels compared to the prior year. Additionally, the company continued investment in digital infrastructure. [/INST]
+
+===== MODEL OUTPUT =====
+In the fiscal year 2023, the company reported a decrease in operating income, which can be attributed to increased costs. Despite this decline, the company kept net debt constant compared to the previous year. Furthermore, the company continued to invest in digital infrastructure.
+
+===== A_LANG_000187 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.51s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.62s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.37s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.43s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company maintained stable net debt levels compared to the prior year. It experienced a decline in operating income due to higher costs. Additionally, the company reported total revenue of USD 3.9 billion. [/INST]
+
+===== MODEL OUTPUT =====
+In the fiscal year 2023, the company's net debt remained constant compared to the previous year. However, there was a decrease in operating income as a result of increased costs. The company reported a total revenue of USD 3.9 billion for the same period.
+
+===== A_LANG_000928 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.58s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.70s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.42s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.48s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company maintained stable net debt levels compared to the prior year. It increased capital expenditures related to facility upgrades. Additionally, the company reported total revenue of USD 4.5 billion. [/INST]
+
+===== MODEL OUTPUT =====
+In the fiscal year 2023, the company's net debt remained constant compared to the previous year. There was an increase in capital expenditures, specifically for facility upgrades. The company reported a total revenue of USD 4.5 billion.
+
+===== A_LANG_000127 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.61s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.74s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.43s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.50s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company generated operating cash flow of USD 505 million. It maintained stable net debt levels compared to the prior year. Additionally, the company increased capital expenditures related to facility upgrades. [/INST]
+
+===== MODEL OUTPUT =====
+In the fiscal year 2023, the company reported an operating cash flow of USD 505 million. This figure represents a cash inflow generated by the company's primary business operations. The company's net debt levels remained constant compared to the previous year. Simultaneously, capital expenditures were increased for facility upgrades.
+
+===== A_LANG_000793 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.70s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.78s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.44s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.52s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Extract the key financial points from the following text. Return the result as concise bullet points.
+
+The company generated operating cash flow of USD 1183 million during the period. Capital expenditures increased to USD 582 million due to infrastructure investments. Net debt remained stable year over year. [/INST]
+
+===== MODEL OUTPUT =====
+* Operating cash flow: USD 1183 million
+* Capital expenditures: USD 582 million (increase due to infrastructure investments)
+* Net debt: stable year over year.
+
+===== A_LANG_000109 =====
+'(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /mistralai/Mistral-7B-Instruct-v0.2/resolve/main/config.json (Caused by NameResolutionError("HTTPSConnection(host=\'huggingface.co\', port=443): Failed to resolve \'huggingface.co\' ([Errno -3] Temporary failure in name resolution)"))'), '(Request ID: 748e9bab-1982-49cc-a69e-21391436beb6)')' thrown while requesting HEAD https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2/resolve/main/config.json
+Retrying in 1s [Retry 1/5].
+'(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /mistralai/Mistral-7B-Instruct-v0.2/resolve/main/config.json (Caused by NameResolutionError("HTTPSConnection(host=\'huggingface.co\', port=443): Failed to resolve \'huggingface.co\' ([Errno -3] Temporary failure in name resolution)"))'), '(Request ID: 73743ac9-f477-4f8e-bfa7-025f314db94e)')' thrown while requesting HEAD https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2/resolve/main/config.json
+Retrying in 2s [Retry 2/5].
+'(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: 81f305e6-8b63-44a6-a0a7-3dfb30599968)')' thrown while requesting HEAD https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2/resolve/main/config.json
+Retrying in 4s [Retry 3/5].
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.69s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.79s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.52s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.58s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Extract the key financial points from the following text. Return the result as concise bullet points.
+
+The company generated operating cash flow of USD 760 million during the period. Capital expenditures increased to USD 512 million due to infrastructure investments. Net debt remained stable year over year. [/INST]
+
+===== MODEL OUTPUT =====
+* Operating cash flow: USD 760 million
+* Capital expenditures: USD 512 million (increase due to infrastructure investments)
+* Net debt: stable year over year.
+
+===== A_LANG_000853 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.71s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.76s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.44s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.52s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Extract the key financial points from the following text. Return the result as concise bullet points.
+
+The company generated operating cash flow of USD 878 million during the period. Capital expenditures increased to USD 252 million due to infrastructure investments. Net debt remained stable year over year. [/INST]
+
+===== MODEL OUTPUT =====
+* Operating cash flow: USD 878 million
+* Capital expenditures: USD 252 million (increase due to infrastructure investments)
+* Net debt: stable year over year.
+
+===== A_LANG_000601 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.65s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.71s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.37s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.46s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Extract the key financial points from the following text. Return the result as concise bullet points.
+
+The company generated operating cash flow of USD 1417 million during the period. Capital expenditures increased to USD 192 million due to infrastructure investments. Net debt remained stable year over year. [/INST]
+
+===== MODEL OUTPUT =====
+* Operating cash flow: USD 1417 million
+* Capital expenditures: USD 192 million (increase due to infrastructure investments)
+* Net debt: stable year over year.
+
+===== A_LANG_000045 =====
+'(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /mistralai/Mistral-7B-Instruct-v0.2/resolve/main/config.json (Caused by NameResolutionError("HTTPSConnection(host=\'huggingface.co\', port=443): Failed to resolve \'huggingface.co\' ([Errno -3] Temporary failure in name resolution)"))'), '(Request ID: ffcd0220-2e57-45af-af61-7de5abf3534c)')' thrown while requesting HEAD https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2/resolve/main/config.json
+Retrying in 1s [Retry 1/5].
+'(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: a30331bd-5f91-458b-9aa1-ab42ade22f5e)')' thrown while requesting HEAD https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2/resolve/main/config.json
+Retrying in 2s [Retry 2/5].
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.79s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.91s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:14<00:00,  4.63s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:14<00:00,  4.70s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Extract the key financial points from the following text. Return the result as concise bullet points.
+
+The company generated operating cash flow of USD 1469 million during the period. Capital expenditures increased to USD 395 million due to infrastructure investments. Net debt remained stable year over year. [/INST]
+
+===== MODEL OUTPUT =====
+* Operating cash flow: USD 1469 million
+* Capital expenditures: USD 395 million (increase due to infrastructure investments)
+* Net debt: stable year over year.
+
+===== A_LANG_000041 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.52s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.63s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.35s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.42s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Extract the key financial points from the following text. Return the result as concise bullet points.
+
+The company generated operating cash flow of USD 547 million during the period. Capital expenditures increased to USD 226 million due to infrastructure investments. Net debt remained stable year over year. [/INST]
+
+===== MODEL OUTPUT =====
+* Operating cash flow: USD 547 million
+* Capital expenditures: USD 226 million (increase due to infrastructure investments)
+* Net debt: stable year over year.
+
+===== A_LANG_000117 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.60s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.66s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.38s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.45s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Extract the key financial points from the following text. Return the result as concise bullet points.
+
+The company generated operating cash flow of USD 1333 million during the period. Capital expenditures increased to USD 318 million due to infrastructure investments. Net debt remained stable year over year. [/INST]
+
+===== MODEL OUTPUT =====
+* Operating cash flow: USD 1333 million
+* Capital expenditures: USD 318 million (increase due to infrastructure investments)
+* Net debt: stable year over year.
+
+===== A_LANG_000284 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.68s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.65s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.34s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.43s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Extract the key financial points from the following text. Return the result as concise bullet points.
+
+The company generated operating cash flow of USD 434 million during the period. Capital expenditures increased to USD 164 million due to infrastructure investments. Net debt remained stable year over year. [/INST]
+
+===== MODEL OUTPUT =====
+* Operating cash flow: USD 434 million
+* Capital expenditures: USD 164 million (increase due to infrastructure investments)
+* Net debt: stable year over year.
+
+===== A_LANG_000297 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.56s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.65s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.36s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.43s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Extract the key financial points from the following text. Return the result as concise bullet points.
+
+The company generated operating cash flow of USD 1166 million during the period. Capital expenditures increased to USD 544 million due to infrastructure investments. Net debt remained stable year over year. [/INST]
+
+===== MODEL OUTPUT =====
+* Operating cash flow: USD 1166 million
+* Capital expenditures: USD 544 million (increase due to infrastructure investments)
+* Net debt: stable year over year.
+
+===== A_LANG_000715 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.68s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.80s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.54s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.59s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Extract the key financial points from the following text. Return the result as concise bullet points.
+
+The company generated operating cash flow of USD 1084 million during the period. Capital expenditures increased to USD 571 million due to infrastructure investments. Net debt remained stable year over year. [/INST]
+
+===== MODEL OUTPUT =====
+* Operating cash flow: USD 1084 million
+* Capital expenditures: USD 571 million (increase due to infrastructure investments)
+* Net debt: stable year over year.
+
+===== A_LANG_000691 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.59s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.62s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.26s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.35s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+The company faces several risks, including regulatory changes increasing compliance costs, potential supply chain disruptions, and macroeconomic uncertainty affecting demand. [/INST]
+
+===== MODEL OUTPUT =====
+1. Regulatory changes increasing compliance costs
+2. Supply chain disruptions
+3. Macroeconomic uncertainty affecting demand
+
+===== A_LANG_000028 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.59s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.60s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.29s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.37s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+The company faces several risks, including exposure to foreign exchange volatility, rising interest rates impacting financing costs, and regulatory changes increasing compliance costs. [/INST]
+
+===== MODEL OUTPUT =====
+1. Foreign exchange volatility
+2. Rising interest rates
+3. Regulatory changes
+4. Increasing compliance costs (due to regulatory changes)
+
+These risks may impact the financial performance of the company. Foreign exchange volatility refers to the fluctuation in exchange rates between different currencies, which can affect the value of the company's international transactions. Rising interest rates can increase financing costs for the company, making it more expensive to borrow money. Regulatory changes can result in additional costs for the company to comply with new regulations.
+
+===== A_LANG_000648 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.59s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.67s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.36s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.43s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+The company faces several risks, including exposure to foreign exchange volatility, macroeconomic uncertainty affecting demand, and potential supply chain disruptions. [/INST]
+
+===== MODEL OUTPUT =====
+1. Foreign exchange volatility
+2. Macroeconomic uncertainty
+3. Supply chain disruptions
+
+===== A_LANG_000247 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.68s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.76s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.49s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.55s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+The company faces several risks, including regulatory changes increasing compliance costs, potential supply chain disruptions, and rising interest rates impacting financing costs. [/INST]
+
+===== MODEL OUTPUT =====
+1. Regulatory changes increasing compliance costs
+2. Supply chain disruptions
+3. Rising interest rates impacting financing costs
+
+===== A_LANG_000789 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.60s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.68s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.39s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.46s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+The company faces several risks, including rising interest rates impacting financing costs, potential supply chain disruptions, and exposure to foreign exchange volatility. [/INST]
+
+===== MODEL OUTPUT =====
+1. Rising interest rates impacting financing costs
+2. Supply chain disruptions
+3. Exposure to foreign exchange volatility
+
+===== A_LANG_000731 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.60s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.68s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.36s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.44s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+The company faces several risks, including rising interest rates impacting financing costs, macroeconomic uncertainty affecting demand, and regulatory changes increasing compliance costs. [/INST]
+
+===== MODEL OUTPUT =====
+1. Rising interest rates impacting financing costs
+2. Macroeconomic uncertainty affecting demand
+3. Regulatory changes increasing compliance costs
+
+===== A_LANG_000778 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.61s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.64s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.40s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.46s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+The company faces several risks, including rising interest rates impacting financing costs, regulatory changes increasing compliance costs, and exposure to foreign exchange volatility. [/INST]
+
+===== MODEL OUTPUT =====
+1. Rising interest rates impacting financing costs
+2. Regulatory changes increasing compliance costs
+3. Exposure to foreign exchange volatility
+
+===== A_LANG_000611 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.69s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.80s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.53s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.59s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+The company faces several risks, including regulatory changes increasing compliance costs, potential supply chain disruptions, and rising interest rates impacting financing costs. [/INST]
+
+===== MODEL OUTPUT =====
+1. Regulatory changes increasing compliance costs
+2. Supply chain disruptions
+3. Rising interest rates impacting financing costs
+
+===== A_LANG_000466 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.55s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.68s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.42s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.48s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+The company faces several risks, including macroeconomic uncertainty affecting demand, regulatory changes increasing compliance costs, and rising interest rates impacting financing costs. [/INST]
+
+===== MODEL OUTPUT =====
+1. Macroeconomic uncertainty affecting demand
+2. Regulatory changes increasing compliance costs
+3. Rising interest rates impacting financing costs
+
+===== A_LANG_000266 =====
+`torch_dtype` is deprecated! Use `dtype` instead!
+🔹 Loading base model...
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.55s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.60s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.27s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:13<00:00,  4.35s/it]
+'(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: a40cea78-6648-4241-b788-e6352ed5a7f8)')' thrown while requesting HEAD https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2/resolve/main/generation_config.json
+Retrying in 1s [Retry 1/5].
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+
+===== PROMPT =====
+<s>[INST] Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+The company faces several risks, including exposure to foreign exchange volatility, regulatory changes increasing compliance costs, and rising interest rates impacting financing costs. [/INST]
+
+===== MODEL OUTPUT =====
+1. Foreign exchange volatility
+2. Regulatory changes and increasing compliance costs
+3. Rising interest rates
+4. Impact of financing costs
+
+These risks refer to:
+
+1. Fluctuations in currency exchange rates affecting the company's international operations and financial performance.
+2. Changes in regulations and the resulting increased costs for the company to comply.
+3. Higher interest rates leading to increased borrowing costs for the company.
