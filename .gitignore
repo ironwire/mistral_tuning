@@ -3,6 +3,7 @@
 ####################################
 .venv/
 venv/
+outputs/
 __pycache__/
 *.pyc
 *.pyo

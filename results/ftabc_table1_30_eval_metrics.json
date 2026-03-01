@@ -1,0 +1,22 @@
+{
+  "total_samples": 30,
+  "exact_match": 0,
+  "exact_match_rate": 0.0,
+  "subtask_performance": {
+    "summary": {
+      "total": 10,
+      "exact_match": 0,
+      "exact_match_rate": 0.0
+    },
+    "risk_extraction": {
+      "total": 10,
+      "exact_match": 0,
+      "exact_match_rate": 0.0
+    },
+    "key_points": {
+      "total": 10,
+      "exact_match": 0,
+      "exact_match_rate": 0.0
+    }
+  }
+}

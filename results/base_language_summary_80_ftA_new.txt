@@ -1,0 +1,583 @@
+
+============================================================
+ID: SUM_S0_0018
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 15%. Operating margins remained stable due to demand softness. Net debt declined slightly. Capital expenditures decreased driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 15%. Operating margins remained stable due to demand softness. Net debt declined slightly. Capital expenditures decreased driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 15% increase in year-over-year revenue growth. Despite this revenue growth, operating margins remained constant due to decreased demand. The company's net debt experienced a slight decline. Capital expenditures decreased in the same period, primarily due to automation initiatives. Management emphasized a focus on disciplined cost control and cautious guidance for future financial performance.
+
+============================================================
+ID: SUM_S0_0032
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 15%. Operating margins remained stable due to supply constraints. Net debt declined slightly. Capital expenditures decreased driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 15%. Operating margins remained stable due to supply constraints. Net debt declined slightly. Capital expenditures decreased driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 15% increase in year-over-year revenue growth. Despite this growth, operating margins remained constant due to supply chain constraints. The company's net debt decreased slightly. Capital expenditures declined in the same period, primarily due to reduced capacity expansion spending. Management emphasized a focus on cost control and cautious guidance for future financial performance.
+
+============================================================
+ID: SUM_S1_0019
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 3827
+COGS: 1922
+Operating Cash Flow: 373
+Net Debt: 4550
+Capital Expenditures: 629
+
+In fiscal year 2023, the company reported revenue growth of 10% year-over-year.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 3827
+COGS: 1922
+Operating Cash Flow: 373
+Net Debt: 4550
+Capital Expenditures: 629
+
+In fiscal year 2023, the company reported revenue growth of 10% year-over-year. [/INST] The company generated revenue of $3,827 million in fiscal year 2023, representing a 10% increase from the previous year. Cost of goods sold (COGS) amounted to $1,922 million. Operating cash flow was $373 million, while net debt stood at $4,550 million. Capital expenditures totaled $629 million.
+
+============================================================
+ID: SUM_S0_0023
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 12%. Operating margins remained stable due to FX headwinds. Net debt remained stable. Capital expenditures remained stable driven by IT modernization. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 12%. Operating margins remained stable due to FX headwinds. Net debt remained stable. Capital expenditures remained stable driven by IT modernization. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 12% increase in year-over-year revenue growth. Operating margins remained constant despite foreign exchange headwinds. The net debt level remained unchanged. Capital expenditures were maintained at a steady level due to IT modernization initiatives. Management reiterated their focus on cost control and provided cautious guidance for future financial performance.
+
+============================================================
+ID: SUM_S0_0030
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins improved due to demand softness. Net debt increased modestly. Capital expenditures increased driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins improved due to demand softness. Net debt increased modestly. Capital expenditures increased driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 3% increase in year-over-year revenue. Operating margins enhanced due to decreased demand. The net debt grew slightly. Capital expenditures rose, primarily due to automation projects. Management emphasized strict cost control and conservative forecasts.
+
+============================================================
+ID: SUM_S1_0001
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 4098
+COGS: 2823
+Operating Cash Flow: 1689
+Net Debt: 2136
+Capital Expenditures: 402
+
+In fiscal year 2023, the company reported revenue growth of 3% year-over-year.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 4098
+COGS: 2823
+Operating Cash Flow: 1689
+Net Debt: 2136
+Capital Expenditures: 402
+
+In fiscal year 2023, the company reported revenue growth of 3% year-over-year. [/INST] The company generated revenue of $4,098 million in fiscal year 2023, representing a 3% increase from the previous year. The cost of goods sold (COGS) amounted to $2,823 million. Operating cash flow was recorded at $1,689 million. The net debt stood at $2,136 million, while capital expenditures totaled $402 million.
+
+============================================================
+ID: SUM_S0_0024
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 15%. Operating margins compressed due to demand softness. Net debt declined slightly. Capital expenditures increased driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 15%. Operating margins compressed due to demand softness. Net debt declined slightly. Capital expenditures increased driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 15% increase in year-over-year revenue growth. However, operating margins contracted as a result of softening demand. The company's net debt decreased slightly. Capital expenditures rose due to automation investments. Management expressed a focus on stringent cost control and conservative forecasts.
+
+============================================================
+ID: SUM_S1_0018
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 4944
+COGS: 2816
+Operating Cash Flow: 321
+Net Debt: 663
+Capital Expenditures: 510
+
+In fiscal year 2023, the company reported revenue growth of 8% year-over-year.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 4944
+COGS: 2816
+Operating Cash Flow: 321
+Net Debt: 663
+Capital Expenditures: 510
+
+In fiscal year 2023, the company reported revenue growth of 8% year-over-year. [/INST] In the fiscal year 2023, the company generated revenue of $4,944 million, representing an 8% increase from the previous year. The cost of goods sold (COGS) amounted to $2,816 million. The operating cash flow was $321 million, while net debt stood at $663 million. Capital expenditures totaled $510 million.
+
+============================================================
+ID: SUM_S1_0002
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 2358
+COGS: 1923
+Operating Cash Flow: 968
+Net Debt: 3556
+Capital Expenditures: 385
+
+In fiscal year 2023, the company reported revenue growth of 5% year-over-year.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 2358
+COGS: 1923
+Operating Cash Flow: 968
+Net Debt: 3556
+Capital Expenditures: 385
+
+In fiscal year 2023, the company reported revenue growth of 5% year-over-year. [/INST] In the fiscal year 2023, the company generated revenue of $2,358 million, representing a 5% increase from the previous year. The cost of goods sold (COGS) amounted to $1,923 million. The operating cash flow for the year was $968 million. The net debt stood at $3,556 million, while capital expenditures totaled $385 million.
+
+============================================================
+ID: SUM_S0_0005
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 10%. Operating margins improved due to higher input costs. Net debt increased modestly. Capital expenditures decreased driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 10%. Operating margins improved due to higher input costs. Net debt increased modestly. Capital expenditures decreased driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 10% increase in year-over-year revenue growth. Operating margins were enhanced as a result of higher input costs. The net debt experienced a modest increase. Capital expenditures decreased due to reduced capacity expansion. Management emphasized a stringent approach to cost control and issued cautious guidance.
+
+============================================================
+ID: SUM_S0_0029
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins improved due to FX headwinds. Net debt remained stable. Capital expenditures remained stable driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins improved due to FX headwinds. Net debt remained stable. Capital expenditures remained stable driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 3% increase in year-over-year revenue. Operating margins were enhanced, primarily due to favorable foreign exchange effects. The company's net debt remained unchanged. Capital expenditures were maintained at a constant level, primarily driven by capacity expansion initiatives. Management reiterated their commitment to cost control and issued cautious guidance for future periods.
+
+============================================================
+ID: SUM_S0_0004
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 12%. Operating margins remained stable due to demand softness. Net debt remained stable. Capital expenditures remained stable driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 12%. Operating margins remained stable due to demand softness. Net debt remained stable. Capital expenditures remained stable driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 12% increase in year-over-year revenue growth. Operating margins remained constant, attributed to decreased demand. The company's net debt remained unchanged. Capital expenditures were maintained at a steady level, primarily due to ongoing automation projects. Management reiterated their focus on stringent cost management and conservative forecasts.
+
+============================================================
+ID: SUM_S1_0006
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 4743
+COGS: 2535
+Operating Cash Flow: 1820
+Net Debt: 580
+Capital Expenditures: 347
+
+In fiscal year 2023, the company reported revenue growth of 10% year-over-year.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 4743
+COGS: 2535
+Operating Cash Flow: 1820
+Net Debt: 580
+Capital Expenditures: 347
+
+In fiscal year 2023, the company reported revenue growth of 10% year-over-year. [/INST] The company generated revenue of $4,743 million in fiscal year 2023, representing a 10% increase from the previous year. The cost of goods sold (COGS) amounted to $2,535 million. Operating cash flow was recorded at $1,820 million, while net debt stood at $580 million. Capital expenditures totaled $347 million.
+
+============================================================
+ID: SUM_S1_0039
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 1744
+COGS: 877
+Operating Cash Flow: 415
+Net Debt: 2274
+Capital Expenditures: 88
+
+In fiscal year 2023, the company reported revenue growth of 12% year-over-year.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 1744
+COGS: 877
+Operating Cash Flow: 415
+Net Debt: 2274
+Capital Expenditures: 88
+
+In fiscal year 2023, the company reported revenue growth of 12% year-over-year. [/INST] In the fiscal year 2023, the company generated revenue of $1,744 million, representing a 12% increase from the previous year. The cost of goods sold (COGS) amounted to $877 million. The operating cash flow was recorded at $415 million. The net debt stood at $2,274 million, and the company incurred capital expenditures of $88 million.
+
+============================================================
+ID: SUM_S0_0002
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 5%. Operating margins improved due to FX headwinds. Net debt remained stable. Capital expenditures remained stable driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 5%. Operating margins improved due to FX headwinds. Net debt remained stable. Capital expenditures remained stable driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 5% increase in year-over-year revenue. Operating margins were enhanced, despite negative impact from foreign exchange (FX) fluctuations. The net debt level remained constant. Capital expenditures were maintained at a steady level due to capacity expansion initiatives. Management reiterated their commitment to cost control and issued cautious guidance for future financial performance.
+
+============================================================
+ID: SUM_S1_0037
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 7880
+COGS: 3042
+Operating Cash Flow: 1633
+Net Debt: 2976
+Capital Expenditures: 1053
+
+In fiscal year 2023, the company reported revenue growth of 8% year-over-year.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 7880
+COGS: 3042
+Operating Cash Flow: 1633
+Net Debt: 2976
+Capital Expenditures: 1053
+
+In fiscal year 2023, the company reported revenue growth of 8% year-over-year. [/INST] In the fiscal year 2023, the company generated revenue of $7,880 million, representing an 8% increase from the previous year. The cost of goods sold (COGS) amounted to $3,042 million. The operating cash flow was recorded at $1,633 million. The net debt stood at $2,976 million, while capital expenditures totaled $1,053 million.
+
+============================================================
+ID: SUM_S0_0010
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 15%. Operating margins remained stable due to higher input costs. Net debt remained stable. Capital expenditures increased driven by IT modernization. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 15%. Operating margins remained stable due to higher input costs. Net debt remained stable. Capital expenditures increased driven by IT modernization. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 15% increase in year-over-year revenue growth. Despite this growth, operating margins remained constant due to higher input costs. The company's net debt remained unchanged. Capital expenditures rose in the same period, primarily due to IT modernization initiatives. Management reiterated their focus on cost control and provided cautious guidance for future financial performance.
+
+============================================================
+ID: SUM_S0_0003
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins improved due to higher input costs. Net debt remained stable. Capital expenditures increased driven by facility upgrades. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins improved due to higher input costs. Net debt remained stable. Capital expenditures increased driven by facility upgrades. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 3% increase in year-over-year revenue. Operating margins were enhanced as a result of higher input costs. The net debt level remained constant. Capital expenditures rose due to facility upgrades. Management emphasized a strict approach to cost control and issued cautious guidance.
+
+============================================================
+ID: SUM_S1_0033
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 2269
+COGS: 1474
+Operating Cash Flow: 1652
+Net Debt: 2132
+Capital Expenditures: 556
+
+In fiscal year 2023, the company reported revenue growth of 10% year-over-year.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 2269
+COGS: 1474
+Operating Cash Flow: 1652
+Net Debt: 2132
+Capital Expenditures: 556
+
+In fiscal year 2023, the company reported revenue growth of 10% year-over-year. [/INST] In the fiscal year 2023, the company generated revenue of $2,269 million, representing a 10% increase from the previous year. The cost of goods sold (COGS) amounted to $1,474 million. The operating cash flow was reported at $1,652 million. The net debt stood at $2,132 million, while capital expenditures totaled $556 million.
+
+============================================================
+ID: SUM_S0_0016
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins compressed due to demand softness. Net debt remained stable. Capital expenditures increased driven by IT modernization. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins compressed due to demand softness. Net debt remained stable. Capital expenditures increased driven by IT modernization. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 3% increase in year-over-year revenue growth. However, operating margins contracted as a result of decreased demand. The company's net debt remained unchanged. Capital expenditures rose, primarily due to IT modernization initiatives. Management expressed a focus on strict cost control and conservative forecasts.
+
+============================================================
+ID: SUM_S0_0017
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins remained stable due to supply constraints. Net debt remained stable. Capital expenditures remained stable driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins remained stable due to supply constraints. Net debt remained stable. Capital expenditures remained stable driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 3% increase in year-over-year revenue. Operating margins remained constant, attributable to supply chain constraints. The net debt level remained unchanged. Capital expenditures were maintained at a steady level, primarily due to automation projects. Management reiterated their focus on stringent cost management and conservative forecasts.
+
+============================================================
+ID: SUM_S0_0007
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins compressed due to supply constraints. Net debt declined slightly. Capital expenditures increased driven by IT modernization. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins compressed due to supply constraints. Net debt declined slightly. Capital expenditures increased driven by IT modernization. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 3% increase in year-over-year revenue growth. However, operating margins contracted as a result of supply constraints. The company's net debt decreased slightly. Notably, capital expenditures rose due to IT modernization initiatives. Management expressed a focus on stringent cost control and conservative forecasts.
+
+============================================================
+ID: SUM_S0_0022
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 12%. Operating margins compressed due to demand softness. Net debt remained stable. Capital expenditures decreased driven by IT modernization. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 12%. Operating margins compressed due to demand softness. Net debt remained stable. Capital expenditures decreased driven by IT modernization. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 12% increase in year-over-year revenue growth. However, operating margins contracted as a result of weak demand. The company's net debt remained unchanged. Capital expenditures decreased, primarily due to IT modernization initiatives. Management expressed a focus on stringent cost control and conservative forecasts.
+
+============================================================
+ID: SUM_S1_0004
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 1602
+COGS: 611
+Operating Cash Flow: 1385
+Net Debt: 220
+Capital Expenditures: 201
+
+In fiscal year 2023, the company reported revenue growth of 12% year-over-year.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 1602
+COGS: 611
+Operating Cash Flow: 1385
+Net Debt: 220
+Capital Expenditures: 201
+
+In fiscal year 2023, the company reported revenue growth of 12% year-over-year. [/INST] In the fiscal year 2023, the company generated revenue of $1,602 million, representing a 12% increase from the previous year. The cost of goods sold (COGS) amounted to $611 million. The operating cash flow was recorded at $1,385 million. The net debt stood at $220 million, while capital expenditures totaled $201 million.
+
+============================================================
+ID: SUM_S0_0031
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 8%. Operating margins compressed due to higher input costs. Net debt increased modestly. Capital expenditures remained stable driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 8%. Operating margins compressed due to higher input costs. Net debt increased modestly. Capital expenditures remained stable driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 8% increase in year-over-year revenue growth. However, operating margins decreased due to higher input costs. Net debt experienced a modest increase. Capital expenditures remained constant, primarily due to ongoing automation initiatives. Management expressed a focus on stringent cost control and conservative forecasts.
+
+============================================================
+ID: SUM_S1_0040
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 1688
+COGS: 1200
+Operating Cash Flow: 939
+Net Debt: 2669
+Capital Expenditures: 903
+
+In fiscal year 2023, the company reported revenue growth of 8% year-over-year.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 1688
+COGS: 1200
+Operating Cash Flow: 939
+Net Debt: 2669
+Capital Expenditures: 903
+
+In fiscal year 2023, the company reported revenue growth of 8% year-over-year. [/INST] In the fiscal year 2023, the company generated revenue of $1,688 million, representing an 8% increase from the previous year. The cost of goods sold (COGS) amounted to $1,200 million. The operating cash flow was recorded at $939 million. The net debt stood at $2,669 million, while capital expenditures totaled $903 million.
+
+============================================================
+ID: SUM_S0_0011
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins compressed due to supply constraints. Net debt remained stable. Capital expenditures increased driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins compressed due to supply constraints. Net debt remained stable. Capital expenditures increased driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 3% increase in year-over-year revenue growth. However, operating margins contracted as a result of supply constraints. The company's net debt remained unchanged. Capital expenditures rose due to capacity expansion efforts. Management expressed a focus on strict cost control and conservative forecasts.
+
+============================================================
+ID: SUM_S1_0012
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 5674
+COGS: 2263
+Operating Cash Flow: 1432
+Net Debt: 3407
+Capital Expenditures: 255
+
+In fiscal year 2023, the company reported revenue growth of 5% year-over-year.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 5674
+COGS: 2263
+Operating Cash Flow: 1432
+Net Debt: 3407
+Capital Expenditures: 255
+
+In fiscal year 2023, the company reported revenue growth of 5% year-over-year. [/INST] In the fiscal year 2023, the company generated revenue of $5,674 million, representing a 5% increase from the previous year. The cost of goods sold (COGS) amounted to $2,263 million. The operating cash flow was recorded at $1,432 million. The net debt stood at $3,407 million, while capital expenditures totaled $255 million.
+
+============================================================
+ID: SUM_S0_0035
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins remained stable due to FX headwinds. Net debt remained stable. Capital expenditures remained stable driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins remained stable due to FX headwinds. Net debt remained stable. Capital expenditures remained stable driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 3% increase in year-over-year revenue. Operating margins remained constant despite foreign exchange headwinds. The net debt level remained unchanged. Capital expenditures were maintained at a steady level due to automation initiatives. Management emphasized the importance of cost control and provided cautious guidance for future periods.
+
+============================================================
+ID: SUM_S0_0034
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 8%. Operating margins remained stable due to higher input costs. Net debt remained stable. Capital expenditures remained stable driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 8%. Operating margins remained stable due to higher input costs. Net debt remained stable. Capital expenditures remained stable driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 8% increase in year-over-year revenue. Operating margins were maintained despite higher input costs. The net debt remained unchanged. Capital expenditures were steady, primarily due to automation initiatives. Management reiterated their focus on cost control and provided cautious guidance.
+
+============================================================
+ID: SUM_S0_0038
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 5%. Operating margins improved due to FX headwinds. Net debt declined slightly. Capital expenditures decreased driven by facility upgrades. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 5%. Operating margins improved due to FX headwinds. Net debt declined slightly. Capital expenditures decreased driven by facility upgrades. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 5% increase in year-over-year revenue. Operating margins were enhanced due to favorable foreign exchange effects. The net debt exhibited a slight decrease. Capital expenditures diminished primarily due to facility upgrades. Management underscored their commitment to stringent cost control and conservative forecasts.
+
+============================================================
+ID: SUM_S0_0028
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 10%. Operating margins compressed due to supply constraints. Net debt remained stable. Capital expenditures increased driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 10%. Operating margins compressed due to supply constraints. Net debt remained stable. Capital expenditures increased driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 10% increase in year-over-year revenue growth. However, operating margins contracted as a result of supply chain constraints. The company's net debt remained unchanged. Capital expenditures rose due to automation investments. Management reiterated their focus on cost control and issued cautious guidance for future periods.
+
+============================================================
+ID: SUM_S0_0014
+============================================================
+INSTRUCTION: Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 12%. Operating margins improved due to demand softness. Net debt increased modestly. Capital expenditures increased driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+[INST] Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+In fiscal year 2023, the company achieved year-over-year revenue growth of 12%. Operating margins improved due to demand softness. Net debt increased modestly. Capital expenditures increased driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance. [/INST] In the 2023 fiscal year, the company reported a 12% increase in year-over-year revenue growth. Operating margins showed improvement despite soft demand. The net debt grew modestly, while capital expenditures rose due to capacity expansion. Management maintained a disciplined approach to cost control and issued cautious guidance.

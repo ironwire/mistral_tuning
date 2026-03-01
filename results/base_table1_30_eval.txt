@@ -1,0 +1,583 @@
+================================================================================
+EVALUATION RESULTS - Total Samples: 30
+================================================================================
+
+================================================================================
+Sample ID: A_LANG_000013
+Subtask: summary
+--------------------------------------------------------------------------------
+Instruction:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Input:
+During Q2 2024, the corporation achieved net income of USD 287 million, representing a 15% increase from the prior quarter. The improvement was primarily driven by higher sales volumes in the Asia-Pacific region and improved operational efficiency. However, the company also recorded one-time restructuring charges of USD 45 million.
+
+Expected Output:
+In Q2 2024, the corporation reported net income of USD 287 million, up 15% quarter-over-quarter. The growth was driven by increased sales in Asia-Pacific and operational improvements.
+
+Model Response:
+In Q2 2024, the corporation reported net income of $287 million, a 15% increase from the previous quarter. This growth was attributed to increased sales volumes in the Asia-Pacific region and operational efficiency improvements. The company incurred one-time restructuring charges amounting to $45 million during the quarter.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000014
+Subtask: summary
+--------------------------------------------------------------------------------
+Instruction:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Input:
+The acquisition of TechVenture Inc. was completed for a total consideration of USD 2.3 billion, comprising USD 1.8 billion in cash and USD 500 million in stock. The transaction is expected to be accretive to earnings within 18 months. The acquired company contributed USD 420 million in annual revenue.
+
+Expected Output:
+The company completed the acquisition of TechVenture Inc. for USD 2.3 billion (USD 1.8 billion cash, USD 500 million stock). The acquired entity generates USD 420 million in annual revenue.
+
+Model Response:
+The acquisition of TechVenture Inc. was finalized for a consideration of $2.3 billion, which included $1.8 billion in cash and $500 million in stock. The deal is projected to enhance earnings within an 18-month timeframe. TechVenture generated $420 million in annual revenue prior to the acquisition.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000015
+Subtask: summary
+--------------------------------------------------------------------------------
+Instruction:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Input:
+The company successfully refinanced its senior notes, extending the maturity profile by five years. The new issuance totaled USD 1.2 billion at a weighted average interest rate of 4.75%, compared to the previous rate of 6.25%. This refinancing is projected to reduce annual interest expenses by approximately USD 18 million.
+
+Expected Output:
+The company refinanced USD 1.2 billion in senior notes, extending maturity by five years at 4.75% interest rate. The refinancing is expected to reduce annual interest expenses by USD 18 million.
+
+Model Response:
+The company has completed a senior notes refinancing, extending the maturity period by five years with a total issuance of USD 1.2 billion. The new notes carry a weighted average interest rate of 4.75%, down from the previous rate of 6.25%. This refinancing is projected to decrease annual interest expenses by approximately USD 18 million.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000016
+Subtask: summary
+--------------------------------------------------------------------------------
+Instruction:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Input:
+Full-year 2023 results showed total assets of USD 8.7 billion, up from USD 7.9 billion in the previous year. Total liabilities stood at USD 5.2 billion. Shareholders' equity reached USD 3.5 billion, reflecting a return on equity of 14.2% for the year.
+
+Expected Output:
+For full-year 2023, the company reported total assets of USD 8.7 billion and shareholders' equity of USD 3.5 billion, achieving a return on equity of 14.2%.
+
+Model Response:
+The full-year 2023 financial results reported total assets of $8.7 billion, representing a $800 million increase from the previous year's $7.9 billion. Total liabilities amounted to $5.2 billion. Shareholders' equity reached $3.5 billion, resulting in a return on equity of 14.2% for the year.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000017
+Subtask: summary
+--------------------------------------------------------------------------------
+Instruction:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Input:
+The consumer electronics division reported revenue of USD 923 million in the third quarter, down 8% year-over-year due to softer consumer demand. Despite the revenue decline, the division maintained gross margins at 32% through effective cost management and favorable product mix.
+
+Expected Output:
+The consumer electronics division generated USD 923 million in Q3 revenue, declining 8% year-over-year. The division maintained gross margins at 32% through cost management.
+
+Model Response:
+The consumer electronics division generated revenue of $923 million in the third quarter, marking an 8% decrease compared to the same period last year. This decline was attributed to weaker consumer demand. Despite the revenue decrease, the division managed to maintain a gross margin of 32%. This was achieved through careful cost management and a favorable product mix.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000018
+Subtask: summary
+--------------------------------------------------------------------------------
+Instruction:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Input:
+The board of directors approved a quarterly dividend of USD 0.45 per share, representing a 7% increase from the prior quarter. Additionally, the company authorized a new share repurchase program of up to USD 750 million over the next 24 months. Year-to-date, the company has returned USD 620 million to shareholders.
+
+Expected Output:
+The company approved a quarterly dividend of USD 0.45 per share (up 7%) and authorized a USD 750 million share repurchase program. Year-to-date shareholder returns totaled USD 620 million.
+
+Model Response:
+The company's board of directors declared a quarterly dividend of $0.45 per share, marking a 7% rise from the previous quarter. Concurrently, the firm authorized a new share buyback program, capping it at $750 million over a 24-month period. To date, the company has returned $620 million to its shareholders in the current year.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000019
+Subtask: summary
+--------------------------------------------------------------------------------
+Instruction:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Input:
+Free cash flow for the first half of 2024 reached USD 562 million, compared to USD 489 million in the same period last year. The improvement reflects higher operating income and lower working capital requirements. The company deployed USD 210 million toward capital projects during this period.
+
+Expected Output:
+First-half 2024 free cash flow increased to USD 562 million from USD 489 million year-over-year, driven by higher operating income and improved working capital. Capital expenditures totaled USD 210 million.
+
+Model Response:
+In the first half of 2024, the company reported a free cash flow of USD 562 million, representing an increase from USD 489 million in the same period of the previous year. This growth can be attributed to higher operating income and reduced working capital needs. The firm invested USD 210 million in capital projects during this time frame.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000020
+Subtask: summary
+--------------------------------------------------------------------------------
+Instruction:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Input:
+The European operations segment delivered strong performance with revenue growth of 18% to EUR 1.34 billion. Operating margins expanded by 220 basis points to 21.4% due to operational leverage and productivity gains. The segment now represents 38% of total company revenue.
+
+Expected Output:
+European operations achieved EUR 1.34 billion in revenue, up 18%, with operating margins expanding to 21.4%. The segment accounts for 38% of total company revenue.
+
+Model Response:
+The European operations segment of the company reported a revenue increase of 18% to EUR 1.34 billion. This growth led to an expansion of operating margins by 220 basis points, reaching 21.4%. The segment now accounts for 38% of the company's total revenue.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000021
+Subtask: summary
+--------------------------------------------------------------------------------
+Instruction:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Input:
+The company completed the divestiture of its non-core industrial equipment business for USD 890 million in proceeds. The transaction resulted in a pre-tax gain of USD 145 million. Management indicated that proceeds will be used to reduce debt and fund strategic investments in core business areas.
+
+Expected Output:
+The company divested its industrial equipment business for USD 890 million, recording a pre-tax gain of USD 145 million. Proceeds will be allocated to debt reduction and core business investments.
+
+Model Response:
+The company realized USD 890 million in proceeds from the sale of its non-core industrial equipment business. This transaction generated a pre-tax gain of USD 145 million for the company. Management intends to utilize the proceeds to reduce outstanding debt and support investments in its core business sectors.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000022
+Subtask: summary
+--------------------------------------------------------------------------------
+Instruction:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Input:
+Adjusted EBITDA for the fiscal year totaled USD 1.82 billion, representing a margin of 24.3% on total revenue of USD 7.5 billion. Depreciation and amortization expenses amounted to USD 385 million. The company achieved EBITDA growth of 11% compared to the prior fiscal year.
+
+Expected Output:
+The company reported adjusted EBITDA of USD 1.82 billion (24.3% margin) on revenue of USD 7.5 billion, representing 11% year-over-year EBITDA growth.
+
+Model Response:
+The company reported an Adjusted EBITDA of $1.82 billion for the fiscal year, equivalent to a 24.3% margin on total revenue of $7.5 billion. Depreciation and amortization expenses were $385 million. The EBITDA grew by 11% compared to the previous fiscal year.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000023
+Subtask: risk_extraction
+--------------------------------------------------------------------------------
+Instruction:
+Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+Input:
+Our business operations are subject to various risks including regulatory changes in key markets, dependence on a limited number of major customers, and increasing raw material costs that may impact profitability.
+
+Expected Output:
+- Regulatory changes in key markets.
+- Dependence on limited number of major customers.
+- Increasing raw material costs impacting profitability.
+
+Model Response:
+1. Regulatory changes in key markets
+2. Dependence on a limited number of major customers
+3. Increasing raw material costs
+================================================================================
+================================================================================
+Sample ID: A_LANG_000024
+Subtask: risk_extraction
+--------------------------------------------------------------------------------
+Instruction:
+Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+Input:
+The company faces significant exposure to cybersecurity threats that could compromise customer data. Additionally, rapid technological changes may render existing products obsolete, and increased competition from emerging market players poses challenges to market share.
+
+Expected Output:
+- Cybersecurity threats compromising customer data.
+- Rapid technological changes rendering products obsolete.
+- Increased competition from emerging market players.
+
+Model Response:
+1. Cybersecurity threats and potential data breaches
+2. Rapid technological changes and obsolescence of existing products
+3. Increased competition from emerging market players.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000025
+Subtask: risk_extraction
+--------------------------------------------------------------------------------
+Instruction:
+Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+Input:
+Key risks include our substantial debt obligations which could limit financial flexibility, potential interest rate increases affecting borrowing costs, and the inability to access credit markets during periods of economic instability.
+
+Expected Output:
+- Substantial debt obligations limiting financial flexibility.
+- Potential interest rate increases affecting borrowing costs.
+- Inability to access credit markets during economic instability.
+
+Model Response:
+1. Substantial debt obligations limiting financial flexibility
+2. Potential interest rate increases affecting borrowing costs
+3. Inability to access credit markets during economic instability.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000026
+Subtask: risk_extraction
+--------------------------------------------------------------------------------
+Instruction:
+Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+Input:
+The organization is exposed to risks from pending litigation that may result in significant financial liabilities. Furthermore, changes in tax legislation could adversely affect our effective tax rate, and we face challenges in protecting our intellectual property rights in certain jurisdictions.
+
+Expected Output:
+- Pending litigation resulting in financial liabilities.
+- Changes in tax legislation affecting effective tax rate.
+- Challenges protecting intellectual property rights in certain jurisdictions.
+
+Model Response:
+1. Pending litigation and potential financial liabilities
+2. Changes in tax legislation and impact on effective tax rate
+3. Challenges in protecting intellectual property rights in certain jurisdictions.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000027
+Subtask: risk_extraction
+--------------------------------------------------------------------------------
+Instruction:
+Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+Input:
+Political instability in emerging markets where we operate could disrupt business continuity. Trade policy changes and tariffs may increase costs, and sanctions against certain countries could limit our ability to conduct business in affected regions.
+
+Expected Output:
+- Political instability in emerging markets disrupting business continuity.
+- Trade policy changes and tariffs increasing costs.
+- Sanctions limiting business operations in affected regions.
+
+Model Response:
+1. Political instability in emerging markets
+2. Disruption of business continuity
+3. Trade policy changes
+4. Tariffs increasing costs
+5. Sanctions limiting business ability in affected regions.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000028
+Subtask: risk_extraction
+--------------------------------------------------------------------------------
+Instruction:
+Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+Input:
+Environmental regulations continue to evolve and may require significant capital investments for compliance. Climate-related events could damage physical assets and disrupt operations. Additionally, failure to meet sustainability targets could harm our reputation.
+
+Expected Output:
+- Evolving environmental regulations requiring capital investments.
+- Climate-related events damaging assets and disrupting operations.
+- Failure to meet sustainability targets harming reputation.
+
+Model Response:
+1. Environmental regulations and compliance costs
+2. Climate-related events causing physical damage and operational disruption
+3. Reputational risk from failing to meet sustainability targets.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000029
+Subtask: risk_extraction
+--------------------------------------------------------------------------------
+Instruction:
+Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+Input:
+Operational risks include potential equipment failures leading to production downtime, challenges in recruiting and retaining skilled personnel, and integration difficulties following recent acquisitions.
+
+Expected Output:
+- Equipment failures leading to production downtime.
+- Challenges recruiting and retaining skilled personnel.
+- Integration difficulties following acquisitions.
+
+Model Response:
+1. Equipment failures leading to production downtime
+2. Challenges in recruiting and retaining skilled personnel
+3. Integration difficulties following recent acquisitions
+================================================================================
+================================================================================
+Sample ID: A_LANG_000030
+Subtask: risk_extraction
+--------------------------------------------------------------------------------
+Instruction:
+Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+Input:
+The company's credit rating could be downgraded if financial performance deteriorates, which would increase borrowing costs. We also face counterparty risks from financial institutions, and concentrated credit exposure to specific customers may result in significant losses.
+
+Expected Output:
+- Credit rating downgrade increasing borrowing costs.
+- Counterparty risks from financial institutions.
+- Concentrated credit exposure to specific customers.
+
+Model Response:
+1. Downgrade of credit rating and increased borrowing costs
+2. Counterparty risks from financial institutions
+3. Concentrated credit exposure to specific customers
+4. Financial performance deterioration leading to losses.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000031
+Subtask: risk_extraction
+--------------------------------------------------------------------------------
+Instruction:
+Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+Input:
+Strategic risks include potential failures in new product launches, difficulties in entering new geographic markets, and the risk that strategic partnerships may not deliver expected benefits.
+
+Expected Output:
+- Potential failures in new product launches.
+- Difficulties entering new geographic markets.
+- Strategic partnerships not delivering expected benefits.
+
+Model Response:
+1. Failure in new product launches
+2. Difficulties in entering new geographic markets
+3. Risk of strategic partnerships not delivering expected benefits.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000032
+Subtask: risk_extraction
+--------------------------------------------------------------------------------
+Instruction:
+Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+Input:
+We face risks related to data privacy regulations that could result in substantial fines for non-compliance. System outages or IT infrastructure failures could disrupt customer service, and third-party vendor dependencies create vulnerability to supply chain interruptions.
+
+Expected Output:
+- Data privacy regulation violations resulting in fines.
+- System outages or IT infrastructure failures disrupting service.
+- Third-party vendor dependencies creating supply chain vulnerabilities.
+
+Model Response:
+1. Data privacy regulation non-compliance and fines
+2. System outages or IT infrastructure failures
+3. Disruption of customer service
+4. Third-party vendor dependencies
+5. Supply chain interruptions
+================================================================================
+================================================================================
+Sample ID: A_LANG_000033
+Subtask: key_points
+--------------------------------------------------------------------------------
+Instruction:
+Extract the key financial points from the following text. Return the result as concise bullet points.
+
+Input:
+For the full year, revenue reached USD 4.8 billion, up 9% from the prior year. Gross profit margin improved to 42% from 39%. Operating expenses increased by USD 87 million primarily due to higher research and development investments.
+
+Expected Output:
+- Full-year revenue reached USD 4.8 billion, up 9% year-over-year.
+- Gross profit margin improved to 42% from 39%.
+- Operating expenses increased by USD 87 million due to R&D investments.
+
+Model Response:
+* Full-year revenue: USD 4.8 billion (9% increase from prior year)
+* Gross profit margin: 42% (up from 39%)
+* Operating expenses: USD 87 million higher than prior year
+* Reason for increased operating expenses: higher research and development investments.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000034
+Subtask: key_points
+--------------------------------------------------------------------------------
+Instruction:
+Extract the key financial points from the following text. Return the result as concise bullet points.
+
+Input:
+The company invested USD 520 million in acquisitions during the quarter. Proceeds from asset sales totaled USD 165 million. Total cash and cash equivalents at quarter-end stood at USD 892 million, providing strong liquidity.
+
+Expected Output:
+- Acquisition investments amounted to USD 520 million.
+- Asset sale proceeds totaled USD 165 million.
+- Cash and cash equivalents at quarter-end reached USD 892 million.
+
+Model Response:
+* Company invested USD 520 million in acquisitions
+* Proceeds from asset sales: USD 165 million
+* Total cash and cash equivalents: USD 892 million
+* Strong liquidity
+
+Key financial points:
+
+* USD 520 million spent on acquisitions
+* USD 165 million from asset sales
+* Total cash: USD 892 million
+* Liquidity: strong
+================================================================================
+================================================================================
+Sample ID: A_LANG_000035
+Subtask: key_points
+--------------------------------------------------------------------------------
+Instruction:
+Extract the key financial points from the following text. Return the result as concise bullet points.
+
+Input:
+Total debt decreased to USD 3.2 billion from USD 3.6 billion at the beginning of the year. The debt-to-equity ratio improved to 0.91 from 1.15. Interest coverage ratio strengthened to 8.5x compared to 6.2x in the prior period.
+
+Expected Output:
+- Total debt decreased to USD 3.2 billion from USD 3.6 billion.
+- Debt-to-equity ratio improved to 0.91 from 1.15.
+- Interest coverage ratio strengthened to 8.5x from 6.2x.
+
+Model Response:
+* Total debt decreased by USD 400 million
+* Debt-to-equity ratio improved from 1.15 to 0.91
+* Interest coverage ratio increased to 8.5x from 6.2x
+================================================================================
+================================================================================
+Sample ID: A_LANG_000036
+Subtask: key_points
+--------------------------------------------------------------------------------
+Instruction:
+Extract the key financial points from the following text. Return the result as concise bullet points.
+
+Input:
+Market share in the North American region increased to 23% from 19% year-over-year. Customer acquisition costs declined by 12% through improved digital marketing efficiency. The customer retention rate improved to 87% from 82%.
+
+Expected Output:
+- North American market share increased to 23% from 19%.
+- Customer acquisition costs declined by 12%.
+- Customer retention rate improved to 87% from 82%.
+
+Model Response:
+* Market share in North America grew from 19% to 23% year-over-year
+* Customer acquisition costs decreased by 12%
+* Improved digital marketing efficiency led to cost savings
+* Customer retention rate improved from 82% to 87%
+================================================================================
+================================================================================
+Sample ID: A_LANG_000037
+Subtask: key_points
+--------------------------------------------------------------------------------
+Instruction:
+Extract the key financial points from the following text. Return the result as concise bullet points.
+
+Input:
+Inventory turnover ratio improved to 6.8 times from 5.4 times. Days sales outstanding decreased to 42 days from 51 days, indicating better collection efficiency. Asset utilization rate increased to 1.35 from 1.18.
+
+Expected Output:
+- Inventory turnover ratio improved to 6.8 from 5.4.
+- Days sales outstanding decreased to 42 days from 51 days.
+- Asset utilization rate increased to 1.35 from 1.18.
+
+Model Response:
+* Inventory turnover ratio increased from 5.4 to 6.8 times
+* Days sales outstanding decreased from 51 to 42 days
+* Collection efficiency improved
+* Asset utilization rate increased from 1.18 to 1.35.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000038
+Subtask: key_points
+--------------------------------------------------------------------------------
+Instruction:
+Extract the key financial points from the following text. Return the result as concise bullet points.
+
+Input:
+The company deployed USD 310 million toward strategic technology investments. Infrastructure upgrades accounted for USD 125 million of total capital spending. Maintenance capital expenditures remained stable at USD 78 million.
+
+Expected Output:
+- Strategic technology investments totaled USD 310 million.
+- Infrastructure upgrades accounted for USD 125 million.
+- Maintenance capital expenditures remained stable at USD 78 million.
+
+Model Response:
+* The company invested USD 310 million in strategic technology investments.
+* Infrastructure upgrades accounted for USD 125 million of the total capital spending.
+* Maintenance capital expenditures remained stable at USD 78 million.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000039
+Subtask: key_points
+--------------------------------------------------------------------------------
+Instruction:
+Extract the key financial points from the following text. Return the result as concise bullet points.
+
+Input:
+Total shareholder distributions for the year reached USD 475 million. Dividend payments accounted for USD 285 million while share buybacks totaled USD 190 million. The dividend payout ratio stood at 38% of net income.
+
+Expected Output:
+- Total shareholder distributions reached USD 475 million.
+- Dividend payments totaled USD 285 million.
+- Share buybacks amounted to USD 190 million, with 38% dividend payout ratio.
+
+Model Response:
+* Total shareholder distributions: USD 475 million
+* Dividend payments: USD 285 million
+* Share buybacks: USD 190 million
+* Dividend payout ratio: 38% of net income
+================================================================================
+================================================================================
+Sample ID: A_LANG_000040
+Subtask: key_points
+--------------------------------------------------------------------------------
+Instruction:
+Extract the key financial points from the following text. Return the result as concise bullet points.
+
+Input:
+Total headcount increased to 12,450 employees, up 8% from year-end. Employee productivity measured by revenue per employee improved to USD 385,000 from USD 362,000. The company opened five new regional offices during the reporting period.
+
+Expected Output:
+- Total headcount increased to 12,450 employees, up 8%.
+- Revenue per employee improved to USD 385,000 from USD 362,000.
+- Five new regional offices were opened during the period.
+
+Model Response:
+* Total headcount: 12,450 employees (8% increase from year-end)
+* Employee productivity: USD 385,000 revenue per employee (up from USD 362,000)
+* Opened five new regional offices
+================================================================================
+================================================================================
+Sample ID: A_LANG_000041
+Subtask: key_points
+--------------------------------------------------------------------------------
+Instruction:
+Extract the key financial points from the following text. Return the result as concise bullet points.
+
+Input:
+The flagship product line generated USD 1.65 billion in revenue, representing 34% of total sales. New product launches contributed USD 287 million in incremental revenue. Legacy products declined by 15% but maintained positive margins.
+
+Expected Output:
+- Flagship product line generated USD 1.65 billion (34% of total sales).
+- New product launches contributed USD 287 million in revenue.
+- Legacy products declined 15% while maintaining positive margins.
+
+Model Response:
+* Flagship product line generated $1.65 billion in revenue
+* Represented 34% of total sales
+* New product launches contributed $287 million in incremental revenue
+* Legacy products declined by 15%
+* Maintained positive margins
+================================================================================
+================================================================================
+Sample ID: A_LANG_000042
+Subtask: key_points
+--------------------------------------------------------------------------------
+Instruction:
+Extract the key financial points from the following text. Return the result as concise bullet points.
+
+Input:
+The company launched a digital transformation initiative with a total budget of USD 450 million over three years. Cost optimization programs delivered USD 62 million in annualized savings. Strategic partnerships were established with three major technology providers.
+
+Expected Output:
+- Digital transformation initiative budgeted at USD 450 million over three years.
+- Cost optimization programs delivered USD 62 million in annualized savings.
+- Strategic partnerships established with three major technology providers.
+
+Model Response:
+* Company initiated a digital transformation project with a budget of USD 450 million over 3 years
+* Cost optimization programs yielded annualized savings of USD 62 million
+* Three major technology partnerships were formed
+================================================================================

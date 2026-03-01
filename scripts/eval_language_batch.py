@@ -52,7 +52,7 @@ def run_inference(model, tokenizer, samples, output_file, max_new_tokens, temper
             # out.write(f"# Adapter: {args.adapter or 'None (Base)'}\n")
             # out.write(f"# Temperature: {args.temperature}\n")
             # out.write(f"# Max new tokens: {args.max_new_tokens}\n\n")
-            
+
             out.write(f"\n{'='*60}\n")
             out.write(f"ID: {item['id']}\n")
             out.write(f"{'='*60}\n")
@@ -64,6 +64,7 @@ def run_inference(model, tokenizer, samples, output_file, max_new_tokens, temper
 def main():
     parser = argparse.ArgumentParser(description="高效批量评估")
     parser.add_argument("--eval_file", required=True, help="评估样本文件路径")
+    parser.add_argument("--model_type", choices=["base", "ft"], default="base", help="Evaluate base model or Fine-tuned model")
     parser.add_argument("--out_dir", default="results", help="输出目录")
     parser.add_argument("--base_model", default="mistralai/Mistral-7B-Instruct-v0.2")
     parser.add_argument("--adapter", default=None, help="Adapter路径（可选）")
@@ -78,6 +79,11 @@ def main():
     # 加载样本
     print(f"📂 Loading evaluation samples from: {args.eval_file}")
     samples = load_samples(args.eval_file)
+    print("🔹 Loading tokenizer...")
+    tokenizer = AutoTokenizer.from_pretrained(args.base_model, use_fast=True)
+    if tokenizer.pad_token is None:
+        tokenizer.pad_token = tokenizer.eos_token
+
     print(f"   Loaded {len(samples)} samples\n")
     
     # 4-bit 量化配置
@@ -89,26 +95,42 @@ def main():
     )
     
     # ===== 1. Base Model 评估 =====
-    print("🔹 Loading BASE model...")
-    base_model = AutoModelForCausalLM.from_pretrained(
+    # print("🔹 Loading BASE model...")
+    # base_model = AutoModelForCausalLM.from_pretrained(
+    #     args.base_model,
+    #     quantization_config=bnb_config,
+    #     device_map="auto",
+    #     torch_dtype=torch.float16,
+    # )
+    # tokenizer = AutoTokenizer.from_pretrained(args.base_model, use_fast=True)
+    # if tokenizer.pad_token is None:
+    #     tokenizer.pad_token = tokenizer.eos_token
+    
+    # base_model.eval()
+    print(f"🔹 Loading model type: {args.model_type.upper()}")
+
+    model = AutoModelForCausalLM.from_pretrained(
         args.base_model,
         quantization_config=bnb_config,
         device_map="auto",
         torch_dtype=torch.float16,
     )
-    tokenizer = AutoTokenizer.from_pretrained(args.base_model, use_fast=True)
-    if tokenizer.pad_token is None:
-        tokenizer.pad_token = tokenizer.eos_token
-    
-    base_model.eval()
-    
-    base_output = OUT_DIR / f"base_language_{args.prefix}.txt"
-    print(f"▶ Running BASE model inference → {base_output}")
-    run_inference(base_model, tokenizer, samples, base_output, 
+
+    if args.model_type == "ft":
+        assert args.adapter is not None, "FT mode requires --adapter"
+        model = PeftModel.from_pretrained(model, args.adapter)
+
+    model.eval()
+
+
+    #base_output = OUT_DIR / f"base_language_{args.prefix}.txt"
+    output_file = OUT_DIR / f"{args.model_type}_language_{args.prefix}.txt"
+    #print(f"▶ Running BASE model inference → {base_output}")
+    run_inference(model, tokenizer, samples, output_file, 
                   args.max_new_tokens, args.temperature)
     print("✅ Base model done.\n")
     
-    del base_model
+    #del base_model
     torch.cuda.empty_cache()
     
     # ===== 2. Fine-tuned Model 评估（如果提供adapter）=====
@@ -123,10 +145,21 @@ def main():
         ft_model = PeftModel.from_pretrained(ft_model, args.adapter)
         ft_model.eval()
         
-        ft_output = OUT_DIR / f"ft_{args.prefix}.txt"
-        print(f"▶ Running FINE-TUNED model inference → {ft_output}")
-        run_inference(ft_model, tokenizer, samples, ft_output,
-                      args.max_new_tokens, args.temperature)
+        #ft_output = OUT_DIR / f"ft_{args.prefix}.txt"
+        output_file = OUT_DIR / f"{args.model_type}_language_{args.prefix}.txt"
+        #print(f"▶ Running FINE-TUNED model inference → {ft_output}")
+        print(f"▶ Running {args.model_type.upper()} inference → {output_file}")
+        run_inference(
+            model,
+            tokenizer,
+            samples,
+            output_file,
+            args.max_new_tokens,
+            args.temperature
+        )
+        #run_inference(ft_model, tokenizer, samples, ft_output,
+        #              args.max_new_tokens, args.temperature)
+        
         print("✅ Fine-tuned model done.\n")
     
     print("🎉 All evaluations completed!")

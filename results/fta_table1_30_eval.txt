@@ -1,0 +1,660 @@
+================================================================================
+EVALUATION RESULTS - Total Samples: 30
+================================================================================
+
+================================================================================
+Sample ID: A_LANG_000013
+Subtask: summary
+--------------------------------------------------------------------------------
+Instruction:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Input:
+During Q2 2024, the corporation achieved net income of USD 287 million, representing a 15% increase from the prior quarter. The improvement was primarily driven by higher sales volumes in the Asia-Pacific region and improved operational efficiency. However, the company also recorded one-time restructuring charges of USD 45 million.
+
+Expected Output:
+In Q2 2024, the corporation reported net income of USD 287 million, up 15% quarter-over-quarter. The growth was driven by increased sales in Asia-Pacific and operational improvements.
+
+Model Response:
+In Q2 2024, the corporation reported revenue of USD 1.3 billion and achieved year-over-year growth of 10%. The company generated operating cash flow of USD 1033 million. Additionally, it maintained stable net debt levels compared to the prior year. The corporation achieved year-over-year revenue growth of 10%. The company reported revenue of USD 1.3 billion. The corporation generated operating cash flow of USD 1033 million. Furthermore, it maintained stable net debt levels compared to the prior year. During the quarter, the corporation achieved year-over-year revenue growth of 10%. The company reported revenue of USD 1.3 billion. The corporation generated operating cash flow of USD 1033 million. Additionally, it maintained stable net debt levels compared to the prior year. The corporation reported revenue of USD 1.3 billion. The company achieved year-over-year revenue growth of 10%. The corporation generated operating cash flow of USD 1033 million. Furthermore, it maintained stable net debt levels compared to the prior year. The corporation reported revenue of USD 1.3 billion. The company achieved year-over-year revenue growth
+================================================================================
+================================================================================
+Sample ID: A_LANG_000014
+Subtask: summary
+--------------------------------------------------------------------------------
+Instruction:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Input:
+The acquisition of TechVenture Inc. was completed for a total consideration of USD 2.3 billion, comprising USD 1.8 billion in cash and USD 500 million in stock. The transaction is expected to be accretive to earnings within 18 months. The acquired company contributed USD 420 million in annual revenue.
+
+Expected Output:
+The company completed the acquisition of TechVenture Inc. for USD 2.3 billion (USD 1.8 billion cash, USD 500 million stock). The acquired entity generates USD 420 million in annual revenue.
+
+Model Response:
+In fiscal year 2023, the company reported revenue of USD 1.5 billion and achieved year-over-year growth of 11%. Additionally, it generated operating cash flow of USD 1033 million. The company achieved year-over-year revenue growth of 11%. In fiscal year 2023, the company reported revenue of USD 1.5 billion and achieved year-over-year growth of 11%. The company generated operating cash flow of USD 1033 million. The company reported total revenue of USD 1.5 billion. It achieved year-over-year revenue growth of 11%. The company reported revenue of USD 1.5 billion and achieved year-over-year growth of 11%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 1.5 billion. The company reported total revenue of USD 1.5 billion. The company reported revenue of USD 1.5 billion. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 1.5 billion. The company reported total revenue of USD 1.5 billion. The
+================================================================================
+================================================================================
+Sample ID: A_LANG_000015
+Subtask: summary
+--------------------------------------------------------------------------------
+Instruction:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Input:
+The company successfully refinanced its senior notes, extending the maturity profile by five years. The new issuance totaled USD 1.2 billion at a weighted average interest rate of 4.75%, compared to the previous rate of 6.25%. This refinancing is projected to reduce annual interest expenses by approximately USD 18 million.
+
+Expected Output:
+The company refinanced USD 1.2 billion in senior notes, extending maturity by five years at 4.75% interest rate. The refinancing is expected to reduce annual interest expenses by USD 18 million.
+
+Model Response:
+In fiscal year 2023, the company reported revenue of USD 1.3 billion and achieved year-over-year growth of 11%. Additionally, the company generated operating cash flow of USD 1133 million. The company achieved year-over-year operating income growth of 13%. The company generated operating cash flow of USD 1133 million. In fiscal year 2023, the company reported revenue of USD 1.3 billion and achieved year-over-year growth of 11%. Furthermore, the company generated operating cash flow of USD 1133 million. The company achieved year-over-year operating income growth of 13%. The company reported total revenue of USD 1.3 billion and achieved year-over-year growth of 11%. Lastly, the company successfully refinanced its senior notes, extending the maturity profile by five years. The new issuance totaled USD 1.2 billion at a weighted average interest rate of 4.75%, compared to the previous rate of 6.25%. This refinancing is projected to reduce annual interest expenses by approximately USD 18 million.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000016
+Subtask: summary
+--------------------------------------------------------------------------------
+Instruction:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Input:
+Full-year 2023 results showed total assets of USD 8.7 billion, up from USD 7.9 billion in the previous year. Total liabilities stood at USD 5.2 billion. Shareholders' equity reached USD 3.5 billion, reflecting a return on equity of 14.2% for the year.
+
+Expected Output:
+For full-year 2023, the company reported total assets of USD 8.7 billion and shareholders' equity of USD 3.5 billion, achieving a return on equity of 14.2%.
+
+Model Response:
+In fiscal year 2023, the company reported revenue of USD 1.3 billion and achieved year-over-year growth of 11%. The company generated operating cash flow of USD 1033 million. Additionally, it achieved year-over-year operating income growth of 13%. The company experienced a decline in operating income due to higher costs. The company achieved year-over-year revenue growth of 11%. Furthermore, it reported total revenue of USD 1.3 billion. The company generated operating cash flow of USD 1033 million. Lastly, the company achieved year-over-year operating income growth of 13%.
+
+The company reported revenue of USD 1.3 billion and achieved year-over-year growth of 11%. It generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 1.3 billion. The company achieved year-over-year revenue growth of 11%. Furthermore, it generated operating cash flow of USD 1033 million. In fiscal year 2023, the company reported revenue of USD 1.3 billion and achieved year-over-year growth of
+================================================================================
+================================================================================
+Sample ID: A_LANG_000017
+Subtask: summary
+--------------------------------------------------------------------------------
+Instruction:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Input:
+The consumer electronics division reported revenue of USD 923 million in the third quarter, down 8% year-over-year due to softer consumer demand. Despite the revenue decline, the division maintained gross margins at 32% through effective cost management and favorable product mix.
+
+Expected Output:
+The consumer electronics division generated USD 923 million in Q3 revenue, declining 8% year-over-year. The division maintained gross margins at 32% through cost management.
+
+Model Response:
+In the third quarter, the consumer electronics division reported revenue of USD 923 million and achieved year-over-year growth of 1%. The division generated operating cash flow of USD 103 million. Additionally, the division reported year-over-year operating income growth of 13%. The division experienced a decline in revenue of 8% due to softer consumer demand. Despite the revenue decline, the division maintained gross margins at 32%.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000018
+Subtask: summary
+--------------------------------------------------------------------------------
+Instruction:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Input:
+The board of directors approved a quarterly dividend of USD 0.45 per share, representing a 7% increase from the prior quarter. Additionally, the company authorized a new share repurchase program of up to USD 750 million over the next 24 months. Year-to-date, the company has returned USD 620 million to shareholders.
+
+Expected Output:
+The company approved a quarterly dividend of USD 0.45 per share (up 7%) and authorized a USD 750 million share repurchase program. Year-to-date shareholder returns totaled USD 620 million.
+
+Model Response:
+In the first quarter, the company reported revenue of USD 1.3 billion and achieved year-over-year growth of 13%. The company generated operating cash flow of USD 1033 million. The board of directors declared a quarterly dividend of USD 0.45 per share. The company achieved year-over-year revenue growth of 13%. Additionally, the company reported revenue of USD 1.3 billion. The company generated operating cash flow of USD 1033 million. The board of directors declared a quarterly dividend of USD 0.45 per share. The company reported revenue of USD 1.3 billion. The company achieved year-over-year revenue growth of 13%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 1.3 billion. The company achieved year-over-year revenue growth of 13%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 1.3 billion. The company reported revenue of USD 1.3 billion. The company achieved year-over-year revenue growth of 13%. The company generated operating cash
+================================================================================
+================================================================================
+Sample ID: A_LANG_000019
+Subtask: summary
+--------------------------------------------------------------------------------
+Instruction:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Input:
+Free cash flow for the first half of 2024 reached USD 562 million, compared to USD 489 million in the same period last year. The improvement reflects higher operating income and lower working capital requirements. The company deployed USD 210 million toward capital projects during this period.
+
+Expected Output:
+First-half 2024 free cash flow increased to USD 562 million from USD 489 million year-over-year, driven by higher operating income and improved working capital. Capital expenditures totaled USD 210 million.
+
+Model Response:
+In the first half of 2024, the company reported revenue of USD 1.3 billion and achieved year-over-year growth of 10%. Additionally, the company generated operating cash flow of USD 1033 million. The company achieved year-over-year revenue growth of 10%. Furthermore, it reported total revenue of USD 1.3 billion. The company generated operating cash flow of USD 1033 million. The company achieved year-over-year revenue growth of 10%. The company reported total revenue of USD 1.3 billion. The company generated operating cash flow of USD 1033 million. The company reported total revenue of USD 1.3 billion. The company achieved year-over-year revenue growth of 10%. The company reported total revenue of USD 1.3 billion. The company generated operating cash flow of USD 1033 million. The company reported total revenue of USD 1.3 billion. The company achieved year-over-year revenue growth of 10%. The company reported revenue of USD 1.3 billion and achieved year-over-year growth of 10%. The company generated operating cash flow of USD
+================================================================================
+================================================================================
+Sample ID: A_LANG_000020
+Subtask: summary
+--------------------------------------------------------------------------------
+Instruction:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Input:
+The European operations segment delivered strong performance with revenue growth of 18% to EUR 1.34 billion. Operating margins expanded by 220 basis points to 21.4% due to operational leverage and productivity gains. The segment now represents 38% of total company revenue.
+
+Expected Output:
+European operations achieved EUR 1.34 billion in revenue, up 18%, with operating margins expanding to 21.4%. The segment accounts for 38% of total company revenue.
+
+Model Response:
+In fiscal year 2023, the company reported revenue of EUR 5.1 billion and achieved year-over-year growth of 10%. Additionally, the company generated operating cash flow of EUR 1033 million. The European operations segment achieved revenue of EUR 1.34 billion and reported year-over-year growth of 18%. It generated operating cash flow of EUR 388 million. The segment delivered strong performance with revenue of EUR 1.34 billion and achieved year-over-year growth of 18%. The segment generated operating cash flow of EUR 388 million. The European operations segment reported revenue of EUR 1.34 billion and achieved year-over-year growth of 18%. It generated operating cash flow of EUR 388 million. The segment achieved year-over-year revenue growth of 18% to EUR 1.34 billion. The segment generated operating cash flow of EUR 388 million. The European operations segment reported revenue of EUR 1.34 billion and achieved year-over-year growth of 18%. It generated operating cash flow of EUR
+================================================================================
+================================================================================
+Sample ID: A_LANG_000021
+Subtask: summary
+--------------------------------------------------------------------------------
+Instruction:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Input:
+The company completed the divestiture of its non-core industrial equipment business for USD 890 million in proceeds. The transaction resulted in a pre-tax gain of USD 145 million. Management indicated that proceeds will be used to reduce debt and fund strategic investments in core business areas.
+
+Expected Output:
+The company divested its industrial equipment business for USD 890 million, recording a pre-tax gain of USD 145 million. Proceeds will be allocated to debt reduction and core business investments.
+
+Model Response:
+The company generated operating cash flow of USD 1035 million during the period. It reported total revenue of USD 3.3 billion. Additionally, the company achieved year-over-year revenue growth of 10%. The company generated operating cash flow of USD 1035 million during the period. It reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 10%. The company reported revenue of USD 3.3 billion and achieved year-over-year growth of 10%. The company generated operating cash flow of USD 1035 million. The company reported revenue of USD 3.3 billion and achieved year-over-year growth of 10%. The company reported revenue of USD 3.3 billion and achieved year-over-year growth of 10%. The company reported revenue of USD 3.3 billion and achieved year-over-year growth of 10%. The company reported revenue of USD 3.3 billion and achieved year-over-year growth of 10%. The company generated operating cash flow of USD 1035 million. The company reported total revenue of USD 3.3 billion. The
+================================================================================
+================================================================================
+Sample ID: A_LANG_000022
+Subtask: summary
+--------------------------------------------------------------------------------
+Instruction:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+Input:
+Adjusted EBITDA for the fiscal year totaled USD 1.82 billion, representing a margin of 24.3% on total revenue of USD 7.5 billion. Depreciation and amortization expenses amounted to USD 385 million. The company achieved EBITDA growth of 11% compared to the prior fiscal year.
+
+Expected Output:
+The company reported adjusted EBITDA of USD 1.82 billion (24.3% margin) on revenue of USD 7.5 billion, representing 11% year-over-year EBITDA growth.
+
+Model Response:
+In fiscal year 2023, the company reported revenue of USD 7.5 billion and achieved year-over-year growth of 10%. The company generated operating cash flow of USD 1033 million. Additionally, the company achieved EBITDA growth of 11% to USD 1.13 billion. The company reported total revenue of USD 7.5 billion. The company generated operating cash flow of USD 1033 million. The company achieved year-over-year revenue growth of 10%. The company reported revenue of USD 7.5 billion. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 7.5 billion. The company achieved year-over-year revenue growth of 10%. The company reported revenue of USD 7.5 billion. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 7.5 billion. The company achieved year-over-year revenue growth of 10%. The company reported revenue of USD 7.5 billion. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD
+================================================================================
+================================================================================
+Sample ID: A_LANG_000023
+Subtask: risk_extraction
+--------------------------------------------------------------------------------
+Instruction:
+Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+Input:
+Our business operations are subject to various risks including regulatory changes in key markets, dependence on a limited number of major customers, and increasing raw material costs that may impact profitability.
+
+Expected Output:
+- Regulatory changes in key markets.
+- Dependence on limited number of major customers.
+- Increasing raw material costs impacting profitability.
+
+Model Response:
+- Regulatory changes in key markets.
+- Dependence on a limited number of major customers.
+- Increasing raw material costs that may impact profitability.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000024
+Subtask: risk_extraction
+--------------------------------------------------------------------------------
+Instruction:
+Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+Input:
+The company faces significant exposure to cybersecurity threats that could compromise customer data. Additionally, rapid technological changes may render existing products obsolete, and increased competition from emerging market players poses challenges to market share.
+
+Expected Output:
+- Cybersecurity threats compromising customer data.
+- Rapid technological changes rendering products obsolete.
+- Increased competition from emerging market players.
+
+Model Response:
+- Exposure to cybersecurity threats that could compromise customer data.
+- Rapid technological changes may render existing products obsolete.
+- Increased competition from emerging market players poses challenges to market share.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000025
+Subtask: risk_extraction
+--------------------------------------------------------------------------------
+Instruction:
+Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+Input:
+Key risks include our substantial debt obligations which could limit financial flexibility, potential interest rate increases affecting borrowing costs, and the inability to access credit markets during periods of economic instability.
+
+Expected Output:
+- Substantial debt obligations limiting financial flexibility.
+- Potential interest rate increases affecting borrowing costs.
+- Inability to access credit markets during economic instability.
+
+Model Response:
+- Substantial debt obligations which could limit financial flexibility.
+- Potential interest rate increases affecting borrowing costs.
+- The inability to access credit markets during periods of economic instability.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000026
+Subtask: risk_extraction
+--------------------------------------------------------------------------------
+Instruction:
+Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+Input:
+The organization is exposed to risks from pending litigation that may result in significant financial liabilities. Furthermore, changes in tax legislation could adversely affect our effective tax rate, and we face challenges in protecting our intellectual property rights in certain jurisdictions.
+
+Expected Output:
+- Pending litigation resulting in financial liabilities.
+- Changes in tax legislation affecting effective tax rate.
+- Challenges protecting intellectual property rights in certain jurisdictions.
+
+Model Response:
+- Pending litigation that may result in significant financial liabilities.
+- Changes in tax legislation could adversely affect the effective tax rate.
+- Challenges in protecting intellectual property rights in certain jurisdictions.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000027
+Subtask: risk_extraction
+--------------------------------------------------------------------------------
+Instruction:
+Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+Input:
+Political instability in emerging markets where we operate could disrupt business continuity. Trade policy changes and tariffs may increase costs, and sanctions against certain countries could limit our ability to conduct business in affected regions.
+
+Expected Output:
+- Political instability in emerging markets disrupting business continuity.
+- Trade policy changes and tariffs increasing costs.
+- Sanctions limiting business operations in affected regions.
+
+Model Response:
+- Political instability in emerging markets could disrupt business continuity.
+- Trade policy changes and tariffs may increase costs.
+- Sanctions against certain countries could limit business in affected regions.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000028
+Subtask: risk_extraction
+--------------------------------------------------------------------------------
+Instruction:
+Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+Input:
+Environmental regulations continue to evolve and may require significant capital investments for compliance. Climate-related events could damage physical assets and disrupt operations. Additionally, failure to meet sustainability targets could harm our reputation.
+
+Expected Output:
+- Evolving environmental regulations requiring capital investments.
+- Climate-related events damaging assets and disrupting operations.
+- Failure to meet sustainability targets harming reputation.
+
+Model Response:
+- Environmental regulations may require significant capital investments for compliance.
+- Climate-related events could damage physical assets and disrupt operations.
+- Failure to meet sustainability targets could harm our reputation.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000029
+Subtask: risk_extraction
+--------------------------------------------------------------------------------
+Instruction:
+Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+Input:
+Operational risks include potential equipment failures leading to production downtime, challenges in recruiting and retaining skilled personnel, and integration difficulties following recent acquisitions.
+
+Expected Output:
+- Equipment failures leading to production downtime.
+- Challenges recruiting and retaining skilled personnel.
+- Integration difficulties following acquisitions.
+
+Model Response:
+- Operational risks related to potential equipment failures leading to production downtime.
+- Challenges in recruiting and retaining skilled personnel.
+- Integration difficulties following recent acquisitions.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000030
+Subtask: risk_extraction
+--------------------------------------------------------------------------------
+Instruction:
+Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+Input:
+The company's credit rating could be downgraded if financial performance deteriorates, which would increase borrowing costs. We also face counterparty risks from financial institutions, and concentrated credit exposure to specific customers may result in significant losses.
+
+Expected Output:
+- Credit rating downgrade increasing borrowing costs.
+- Counterparty risks from financial institutions.
+- Concentrated credit exposure to specific customers.
+
+Model Response:
+- Financial performance deterioration could lead to a credit rating downgrade and higher borrowing costs.
+- Exposure to specific customers could result in significant losses due to concentration risk.
+- The company faces counterparty risks from financial institutions.
+
+The main risk factors mentioned in the financial disclosure are financial performance deterioration leading to a potential credit rating downgrade, exposure to specific customers resulting in significant losses due to concentration risk, and counterparty risks from financial institutions.
+
+Returning a concise list of risks without additional explanation, the main risks mentioned are:
+
+- Financial performance deterioration leading to a potential credit rating downgrade.
+- Exposure to specific customers resulting in significant losses due to concentration risk.
+- Counterparty risks from financial institutions.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000031
+Subtask: risk_extraction
+--------------------------------------------------------------------------------
+Instruction:
+Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+Input:
+Strategic risks include potential failures in new product launches, difficulties in entering new geographic markets, and the risk that strategic partnerships may not deliver expected benefits.
+
+Expected Output:
+- Potential failures in new product launches.
+- Difficulties entering new geographic markets.
+- Strategic partnerships not delivering expected benefits.
+
+Model Response:
+- Potential failures in new product launches.
+- Difficulties in entering new geographic markets.
+- The risk that strategic partnerships may not deliver expected benefits.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000032
+Subtask: risk_extraction
+--------------------------------------------------------------------------------
+Instruction:
+Identify the main risk factors mentioned in the following financial disclosure. Return a concise list of risks without additional explanation.
+
+Input:
+We face risks related to data privacy regulations that could result in substantial fines for non-compliance. System outages or IT infrastructure failures could disrupt customer service, and third-party vendor dependencies create vulnerability to supply chain interruptions.
+
+Expected Output:
+- Data privacy regulation violations resulting in fines.
+- System outages or IT infrastructure failures disrupting service.
+- Third-party vendor dependencies creating supply chain vulnerabilities.
+
+Model Response:
+- Data privacy regulations and potential fines for non-compliance.
+- System outages or IT infrastructure failures.
+- Third-party vendor dependencies and supply chain interruptions.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000033
+Subtask: key_points
+--------------------------------------------------------------------------------
+Instruction:
+Extract the key financial points from the following text. Return the result as concise bullet points.
+
+Input:
+For the full year, revenue reached USD 4.8 billion, up 9% from the prior year. Gross profit margin improved to 42% from 39%. Operating expenses increased by USD 87 million primarily due to higher research and development investments.
+
+Expected Output:
+- Full-year revenue reached USD 4.8 billion, up 9% year-over-year.
+- Gross profit margin improved to 42% from 39%.
+- Operating expenses increased by USD 87 million due to R&D investments.
+
+Model Response:
+- Revenue reached USD 4.8 billion and increased to USD 5.0 billion.
+- Revenue grew year over year by 10%.
+- Gross profit margin improved to 42%.
+- Operating income remained stable year over year.
+- Operating expenses increased by USD 87 million.
+- Capital expenditures increased to USD 135 million due to infrastructure investments.
+- Net debt remained stable year over year.
+- Total debt remained below USD 1.0 billion.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000034
+Subtask: key_points
+--------------------------------------------------------------------------------
+Instruction:
+Extract the key financial points from the following text. Return the result as concise bullet points.
+
+Input:
+The company invested USD 520 million in acquisitions during the quarter. Proceeds from asset sales totaled USD 165 million. Total cash and cash equivalents at quarter-end stood at USD 892 million, providing strong liquidity.
+
+Expected Output:
+- Acquisition investments amounted to USD 520 million.
+- Asset sale proceeds totaled USD 165 million.
+- Cash and cash equivalents at quarter-end reached USD 892 million.
+
+Model Response:
+- The company generated operating cash flow of USD 1038 million.
+- Total revenue declined by 5% year over year.
+- Capital expenditures increased to USD 138 million due to infrastructure investments.
+- Net debt remained stable year over year.
+- The company reported quarterly revenue of USD 1.3 billion.
+- Total revenue declined by 5% year over year.
+- Operating income increased to USD 338 million.
+- Net income remained stable year over year.
+
+The key financial points are as follows:
+
+- The company reported quarterly revenue of USD 1.3 billion.
+- Total revenue declined by 5% year over year.
+- Operating income increased to USD 338 million.
+- Net income remained stable year over year.
+- The company generated operating cash flow of USD 1038 million.
+- Total revenue declined by 5% year over year.
+- Capital expenditures increased to USD 138 million due to infrastructure investments.
+- Net debt remained stable year over year.
+- The company achieved year-over-year revenue growth of 1%.
+- The company generated operating
+================================================================================
+================================================================================
+Sample ID: A_LANG_000035
+Subtask: key_points
+--------------------------------------------------------------------------------
+Instruction:
+Extract the key financial points from the following text. Return the result as concise bullet points.
+
+Input:
+Total debt decreased to USD 3.2 billion from USD 3.6 billion at the beginning of the year. The debt-to-equity ratio improved to 0.91 from 1.15. Interest coverage ratio strengthened to 8.5x compared to 6.2x in the prior period.
+
+Expected Output:
+- Total debt decreased to USD 3.2 billion from USD 3.6 billion.
+- Debt-to-equity ratio improved to 0.91 from 1.15.
+- Interest coverage ratio strengthened to 8.5x from 6.2x.
+
+Model Response:
+- Total debt decreased to USD 3.2 billion.
+- Debt-to-equity ratio improved to 0.91.
+- Interest coverage ratio strengthened to 8.5x.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000036
+Subtask: key_points
+--------------------------------------------------------------------------------
+Instruction:
+Extract the key financial points from the following text. Return the result as concise bullet points.
+
+Input:
+Market share in the North American region increased to 23% from 19% year-over-year. Customer acquisition costs declined by 12% through improved digital marketing efficiency. The customer retention rate improved to 87% from 82%.
+
+Expected Output:
+- North American market share increased to 23% from 19%.
+- Customer acquisition costs declined by 12%.
+- Customer retention rate improved to 87% from 82%.
+
+Model Response:
+- Market share in the North American region increased to 23% from 19%.
+- Customer acquisition costs declined by 12%.
+- The customer retention rate improved to 87% from 82%.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000037
+Subtask: key_points
+--------------------------------------------------------------------------------
+Instruction:
+Extract the key financial points from the following text. Return the result as concise bullet points.
+
+Input:
+Inventory turnover ratio improved to 6.8 times from 5.4 times. Days sales outstanding decreased to 42 days from 51 days, indicating better collection efficiency. Asset utilization rate increased to 1.35 from 1.18.
+
+Expected Output:
+- Inventory turnover ratio improved to 6.8 from 5.4.
+- Days sales outstanding decreased to 42 days from 51 days.
+- Asset utilization rate increased to 1.35 from 1.18.
+
+Model Response:
+- Inventory turnover ratio improved to 6.8 times.
+- Days sales outstanding decreased to 42 days.
+- Asset utilization rate increased to 1.35.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000038
+Subtask: key_points
+--------------------------------------------------------------------------------
+Instruction:
+Extract the key financial points from the following text. Return the result as concise bullet points.
+
+Input:
+The company deployed USD 310 million toward strategic technology investments. Infrastructure upgrades accounted for USD 125 million of total capital spending. Maintenance capital expenditures remained stable at USD 78 million.
+
+Expected Output:
+- Strategic technology investments totaled USD 310 million.
+- Infrastructure upgrades accounted for USD 125 million.
+- Maintenance capital expenditures remained stable at USD 78 million.
+
+Model Response:
+- The company reported capital expenditures of USD 78 million.
+- It achieved year-over-year revenue growth of 10%.
+- The company generated operating cash flow of USD 1033 million.
+- It experienced a decline in operating income due to higher costs.
+- The company achieved year-over-year revenue growth of 10%.
+- The company generated operating cash flow of USD 1033 million.
+- The company reported total revenue of USD 3.3 billion.
+- The company achieved year-over-year revenue growth of 10%.
+- The company generated operating cash flow of USD 1033 million.
+- The company reported total revenue of USD 3.3 billion.
+- The company generated operating cash flow of USD 1033 million.
+- The company reported total revenue of USD 3.3 billion.
+- The company achieved year-over-year revenue growth of 10%.
+- The company generated operating cash flow of USD 1033 million.
+- The company reported total revenue of USD 3.3 billion.
+
+The following are the key financial points from the text.
+================================================================================
+================================================================================
+Sample ID: A_LANG_000039
+Subtask: key_points
+--------------------------------------------------------------------------------
+Instruction:
+Extract the key financial points from the following text. Return the result as concise bullet points.
+
+Input:
+Total shareholder distributions for the year reached USD 475 million. Dividend payments accounted for USD 285 million while share buybacks totaled USD 190 million. The dividend payout ratio stood at 38% of net income.
+
+Expected Output:
+- Total shareholder distributions reached USD 475 million.
+- Dividend payments totaled USD 285 million.
+- Share buybacks amounted to USD 190 million, with 38% dividend payout ratio.
+
+Model Response:
+- Dividend payments amounted to USD 285 million.
+- Share buybacks totaled USD 190 million.
+- Total shareholder distributions reached USD 475 million.
+- Operating income increased to USD 538 million.
+- Net income remained stable year over year.
+- The company generated operating cash flow of USD 1038 million.
+- Capital expenditures increased to USD 138 million due to infrastructure investments.
+
+Key financial points:
+
+- Dividend payments amounted to USD 285 million.
+- Share buybacks totaled USD 190 million.
+- Total shareholder distributions reached USD
+================================================================================
+================================================================================
+Sample ID: A_LANG_000040
+Subtask: key_points
+--------------------------------------------------------------------------------
+Instruction:
+Extract the key financial points from the following text. Return the result as concise bullet points.
+
+Input:
+Total headcount increased to 12,450 employees, up 8% from year-end. Employee productivity measured by revenue per employee improved to USD 385,000 from USD 362,000. The company opened five new regional offices during the reporting period.
+
+Expected Output:
+- Total headcount increased to 12,450 employees, up 8%.
+- Revenue per employee improved to USD 385,000 from USD 362,000.
+- Five new regional offices were opened during the period.
+
+Model Response:
+- The company reported revenue of USD 1.5 billion.
+- It achieved year-over-year revenue growth of 13%.
+- The company generated operating cash flow of USD 1033 million.
+- Total revenue increased to USD 1.5 billion.
+- Net income remained stable year-over-year at USD 138 million.
+- The company achieved year-over-year revenue growth of 13%.
+- It reported revenue of USD 1.5 billion.
+- The company generated operating cash flow of USD 1033 million.
+- Net income remained stable year-over-year at USD 138 million.
+- Total headcount increased to 12,450 employees, up 8% from year-end.
+- Employee productivity measured by revenue per employee improved to USD 385,000 from USD 362,000.
+- The company opened five new regional offices during the reporting period.
+
+Key financial points:
+
+- The company reported revenue of USD 1.5 billion and achieved year-over-year growth of 13%.
+- It generated operating cash flow of
+================================================================================
+================================================================================
+Sample ID: A_LANG_000041
+Subtask: key_points
+--------------------------------------------------------------------------------
+Instruction:
+Extract the key financial points from the following text. Return the result as concise bullet points.
+
+Input:
+The flagship product line generated USD 1.65 billion in revenue, representing 34% of total sales. New product launches contributed USD 287 million in incremental revenue. Legacy products declined by 15% but maintained positive margins.
+
+Expected Output:
+- Flagship product line generated USD 1.65 billion (34% of total sales).
+- New product launches contributed USD 287 million in revenue.
+- Legacy products declined 15% while maintaining positive margins.
+
+Model Response:
+- Generated USD 1.65 billion in revenue.
+- Achieved total revenue of USD 4.9 billion.
+- Reported year-over-year revenue growth of 1%.
+- Maintained stable net debt levels.
+- Generated operating cash flow of USD 1038 million.
+- Reported year-over-year operating income growth of 13%.
+- Achieved operating income of USD 538 million.
+- Experienced a decline in operating income due to higher costs.
+- Reported net income of USD 338 million.
+
+The key financial points from the text are as follows:
+
+- Reported revenue of USD 4.9 billion.
+- Achieved year-over-year revenue growth of 1%.
+- Generated operating cash flow of USD 1038 million.
+- Reported net income of USD 338 million.
+- Maintained stable net debt levels.
+- Reported year-over-year operating income growth of 13%.
+- Achieved operating income of USD 538 million.
+- Experienced a decline in operating income due
+================================================================================
+================================================================================
+Sample ID: A_LANG_000042
+Subtask: key_points
+--------------------------------------------------------------------------------
+Instruction:
+Extract the key financial points from the following text. Return the result as concise bullet points.
+
+Input:
+The company launched a digital transformation initiative with a total budget of USD 450 million over three years. Cost optimization programs delivered USD 62 million in annualized savings. Strategic partnerships were established with three major technology providers.
+
+Expected Output:
+- Digital transformation initiative budgeted at USD 450 million over three years.
+- Cost optimization programs delivered USD 62 million in annualized savings.
+- Strategic partnerships established with three major technology providers.
+
+Model Response:
+- The company reported annual revenue of USD 3.3 billion.
+- It generated operating cash flow of USD 1033 million.
+- The company achieved year-over-year revenue growth of 10%.
+- It experienced a decline in operating income due to higher costs.
+- The company generated operating cash flow of USD 1033 million.
+- It achieved year-over-year revenue growth of 10%.
+- The company reported total revenue of USD 3.3 billion.
+- It generated operating cash flow of USD 1033 million.
+- The company achieved year-over-year revenue growth of 10%.
+
+The given text did not provide any key financial points. Therefore, the return should be empty.
+================================================================================

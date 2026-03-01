@@ -24,4 +24,4 @@ def eval_file(pred_file, tol=0.01):
     }
 
 if __name__ == "__main__":
-    print(eval_file("outputs/ft_A_B_C/numeracy_preds.jsonl"))
+    print(eval_file("outputs/base_preds.jsonl"))
