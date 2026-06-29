@@ -1,0 +1,28 @@
+# Base模型
+CUDA_VISIBLE_DEVICES=0 python3 ./scripts/infer_summarization.py \
+    --model  mistralai/Mistral-7B-Instruct-v0.2 \
+    --eval   eval_all_240.jsonl \
+    --output results_base_240.txt \
+    --limit 5
+
+CUDA_VISIBLE_DEVICES=0 python3 ./scripts/infer_summarization.py \
+    --model  mistralai/Mistral-7B-Instruct-v0.2 \
+    --eval   eval_all_240.jsonl \
+    --output results_base_240.txt \
+    --max_new_tokens 1024
+
+# FT-A模型
+CUDA_VISIBLE_DEVICES=0 python3 ./scripts/infer_summarization.py \
+    --model   mistralai/Mistral-7B-Instruct-v0.2 \
+    --adapter outputs/ft_A \
+    --eval    eval_all_240.jsonl \
+    --output  results_ftA_240.txt \
+    --max_new_tokens 1024
+
+# FT-ABC模型
+CUDA_VISIBLE_DEVICES=0 python3 ./scripts/infer_summarization.py \
+    --model   mistralai/Mistral-7B-Instruct-v0.2 \
+    --adapter outputs/ft_A_B_C_new \
+    --eval    eval_all_240.jsonl \
+    --output  results_ftABC_240.txt \
+    --max_new_tokens 1024

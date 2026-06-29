@@ -1,0 +1,1538 @@
+
+============================================================
+ID: SUM_S0_0018
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 15%. Operating margins remained stable due to demand softness. Net debt declined slightly. Capital expenditures decreased driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 15%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. Furthermore, the company reported revenue of USD 3.3 billion. In fiscal year 2023, the company achieved year-over-year revenue growth of 15%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. The company achieved year-over-year revenue growth of 15%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company reported revenue of USD 3.3 billion and achieved year-over-year growth of 15%. The company generated operating cash
+
+============================================================
+ID: SUM_S0_0032
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 15%. Operating margins remained stable due to supply constraints. Net debt declined slightly. Capital expenditures decreased driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 15%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth
+
+============================================================
+ID: SUM_S1_0019
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 3827
+COGS: 1922
+Operating Cash Flow: 373
+Net Debt: 4550
+Capital Expenditures: 629
+
+In fiscal year 2023, the company reported revenue growth of 10% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3827 million and achieved year-over-year growth of 10%. The company generated operating cash flow of USD 373 million. Additionally, the company reported revenue of USD 3827 million and achieved year-over-year growth of 10%. The company reported total revenue of USD 4.5 billion. It generated operating cash flow of USD 373 million. The company reported net income of USD 138 million. Furthermore, the company achieved year-over-year revenue growth of 10%. The company reported revenue of USD 3827 million. The company reported total revenue of USD 4.5 billion. It generated operating cash flow of USD 373 million. The company reported net income of USD 138 million. Additionally, the company reported revenue of USD 3827 million. The company reported total revenue of USD 4.5 billion. It generated operating cash flow of USD 373 million. The company reported net income of USD 138 million. The company reported net debt of USD 4550 million. It achieved year-over
+
+============================================================
+ID: SUM_S0_0023
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 12%. Operating margins remained stable due to FX headwinds. Net debt remained stable. Capital expenditures remained stable driven by IT modernization. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 12%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. The company generated operating cash flow of USD 1033 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. The company reported revenue of USD 3.3 billion. In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 12%. The company generated operating cash flow of USD 1033 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-
+
+============================================================
+ID: SUM_S0_0030
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins improved due to demand softness. Net debt increased modestly. Capital expenditures increased driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1033 million. Furthermore, the company reported revenue of USD 3.3 billion. In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1
+
+============================================================
+ID: SUM_S1_0001
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 4098
+COGS: 2823
+Operating Cash Flow: 1689
+Net Debt: 2136
+Capital Expenditures: 402
+
+In fiscal year 2023, the company reported revenue growth of 3% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 4098 million and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1689 million. Additionally, the company reported revenue of USD 4098 million and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1689 million. The company reported revenue of USD 4098 million and achieved year-over-year growth of 3%. The company reported revenue of USD 4098 million and achieved year-over-year growth of 3%. The company reported revenue of USD 4098 million and achieved year-over-year growth of 3%. The company reported revenue of USD 4098 million and achieved year-over-year growth of 3%. The company reported revenue of USD 4098 million and achieved year-over-year growth of 3%. The company reported revenue of USD 4098 million and achieved year-over-year growth of 3%. The company reported revenue of USD 4098 million and achieved year-over-year growth of 3
+
+============================================================
+ID: SUM_S0_0024
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 15%. Operating margins compressed due to demand softness. Net debt declined slightly. Capital expenditures increased driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 15%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. Furthermore, the company reported net revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company reported revenue of USD 3.3 billion. Additionally, the company reported total revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. The company achieved year-over-year revenue growth of 15%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company reported revenue of USD 3.3
+
+============================================================
+ID: SUM_S1_0018
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 4944
+COGS: 2816
+Operating Cash Flow: 321
+Net Debt: 663
+Capital Expenditures: 510
+
+In fiscal year 2023, the company reported revenue growth of 8% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 4944 million and achieved year-over-year growth of 8%. The company generated operating cash flow of USD 321 million. Additionally, the company reported revenue of USD 4944 million and achieved year-over-year growth of 8%. The company reported total revenue of USD 1968 million. It generated operating cash flow of USD 321 million. The company reported net income of USD 138 million. Furthermore, the company reported operating income of USD 238 million. The company achieved year-over-year revenue growth of 8%. The company reported revenue of USD 4944 million. Additionally, the company reported total revenue of USD 1968 million. It generated operating cash flow of USD 321 million. The company reported net income of USD 138 million and achieved operating income of USD 238 million. The company reported revenue of USD 4944 million. It generated operating cash flow of USD 321 million. The company reported net income of USD 138 million and achieved operating income of USD 238
+
+============================================================
+ID: SUM_S1_0002
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 2358
+COGS: 1923
+Operating Cash Flow: 968
+Net Debt: 3556
+Capital Expenditures: 385
+
+In fiscal year 2023, the company reported revenue growth of 5% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 2358 million and achieved year-over-year growth of 5%. The company generated operating cash flow of USD 968 million. Additionally, the company reported revenue of USD 2358 million and achieved year-over-year growth of 5%. The company reported total revenue of USD 9383 million. It generated operating cash flow of USD 968 million. The company reported net income of USD 138 million. Furthermore, the company achieved year-over-year revenue growth of 5%. The company reported revenue of USD 2358 million. Additionally, the company reported total revenue of USD 9383 million. The company reported net income of USD 138 million. The company reported net debt of USD 3556 million. It generated operating cash flow of USD 968 million. The company reported net income of USD 138 million. The company reported net income of USD 138 million. The company reported net income of USD 138 million. The company reported net debt of USD 3556 million. It reported capital expendit
+
+============================================================
+ID: SUM_S0_0005
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 10%. Operating margins improved due to higher input costs. Net debt increased modestly. Capital expenditures decreased driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 10%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 10%. Furthermore, it generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. In fiscal year 2023, the company achieved year-over-year revenue growth of 10%. Additionally, it reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. The company achieved year-over-year revenue growth of 10%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 10%. The company reported revenue of USD 3.3 billion. The company generated operating cash
+
+============================================================
+ID: SUM_S0_0029
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins improved due to FX headwinds. Net debt remained stable. Capital expenditures remained stable driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1038 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1038 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1038 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1038 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1038 million. The company reported revenue of USD 3.3 billion
+
+============================================================
+ID: SUM_S0_0004
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 12%. Operating margins remained stable due to demand softness. Net debt remained stable. Capital expenditures remained stable driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 12%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. The company generated operating cash flow of USD 1033 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. The company generated operating cash flow of USD 1033 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth
+
+============================================================
+ID: SUM_S1_0006
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 4743
+COGS: 2535
+Operating Cash Flow: 1820
+Net Debt: 580
+Capital Expenditures: 347
+
+In fiscal year 2023, the company reported revenue growth of 10% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 4743 million and achieved year-over-year growth of 10%. The company generated operating cash flow of USD 1820 million. Additionally, the company reported revenue of USD 4743 million and achieved year-over-year growth of 10%. The company reported total revenue of USD 1838 million. It generated operating cash flow of USD 1820 million. The company reported net income of USD 138 million. Furthermore, the company achieved year-over-year revenue growth of 10%. The company reported revenue of USD 4743 million. It reported total revenue of USD 1838 million. The company generated operating cash flow of USD 1820 million. The company reported net income of USD 138 million. Additionally, the company reported revenue of USD 4743 million. It reported total revenue of USD 1838 million. The company generated operating cash flow of USD 1820 million. The company reported net income of USD 138 million. The company reported revenue of USD 4743 million
+
+============================================================
+ID: SUM_S1_0039
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 1744
+COGS: 877
+Operating Cash Flow: 415
+Net Debt: 2274
+Capital Expenditures: 88
+
+In fiscal year 2023, the company reported revenue growth of 12% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 1744 million and achieved year-over-year growth of 12%. The company generated operating cash flow of USD 415 million. Additionally, the company reported revenue of USD 1744 million and achieved year-over-year growth of 12%. The company reported total revenue of USD 1744 million and achieved year-over-year growth of 12%. The company generated operating cash flow of USD 415 million. The company reported revenue of USD 1744 million and achieved year-over-year growth of 12%. The company reported revenue of USD 1744 million and achieved year-over-year growth of 12%. The company reported total revenue of USD 1744 million and achieved year-over-year growth of 12%. The company reported revenue of USD 1744 million and achieved year-over-year growth of 12%. The company reported revenue of USD 1744 million and achieved year-over-year growth of 12%. The company reported revenue of USD 1744 million and achieved year
+
+============================================================
+ID: SUM_S0_0002
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 5%. Operating margins improved due to FX headwinds. Net debt remained stable. Capital expenditures remained stable driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 5%. The company generated operating cash flow of USD 1038 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 5%. The company generated operating cash flow of USD 1038 million. Furthermore, the company reported operating income of USD 388 million. In fiscal year 2023, the company achieved year-over-year revenue growth of 5%. The company generated operating cash flow of USD 1038 million. Additionally, the company reported operating income of USD 388 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 5%. The company generated operating cash flow of USD 1038 million. Furthermore, the company reported operating income of USD 388 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 5%. The company generated operating cash flow of USD 1038
+
+============================================================
+ID: SUM_S1_0037
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 7880
+COGS: 3042
+Operating Cash Flow: 1633
+Net Debt: 2976
+Capital Expenditures: 1053
+
+In fiscal year 2023, the company reported revenue growth of 8% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 7880 million and achieved year-over-year growth of 8%. The company generated operating cash flow of USD 1633 million. Additionally, the company reported revenue of USD 7880 million and achieved year-over-year growth of 8%. The company generated operating cash flow of USD 1633 million. The company reported revenue of USD 7880 million and achieved year-over-year growth of 8%. The company reported revenue of USD 7880 million and achieved year-over-year growth of 8%. The company reported revenue of USD 7880 million and achieved year-over-year growth of 8%. The company reported revenue of USD 7880 million and achieved year-over-year growth of 8%. The company reported revenue of USD 7880 million and achieved year-over-year growth of 8%. The company reported revenue of USD 7880 million and achieved year-over-year growth of 8%. The company reported revenue of USD 7880 million and achieved year-over-year growth of 8
+
+============================================================
+ID: SUM_S0_0010
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 15%. Operating margins remained stable due to higher input costs. Net debt remained stable. Capital expenditures increased driven by IT modernization. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 15%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. Furthermore, the company reported net income of USD 138 million. In fiscal year 2023, the company achieved year-over-year revenue growth of 15%. The company reported revenue of USD 3.3 billion and achieved year-over-year growth of 15%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported net income of USD 138 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. Furthermore, the company reported net income of USD 138 million. The company reported net income of USD 138 million
+
+============================================================
+ID: SUM_S0_0003
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins improved due to higher input costs. Net debt remained stable. Capital expenditures increased driven by facility upgrades. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1038 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1038 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1038 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1038 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1038 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 3%. The
+
+============================================================
+ID: SUM_S1_0033
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 2269
+COGS: 1474
+Operating Cash Flow: 1652
+Net Debt: 2132
+Capital Expenditures: 556
+
+In fiscal year 2023, the company reported revenue growth of 10% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 2269 million and achieved year-over-year growth of 10%. The company generated operating cash flow of USD 1652 million. Additionally, the company reported revenue of USD 2269 million and achieved year-over-year growth of 10%. The company reported total revenue of USD 8783 million. It generated operating cash flow of USD 1652 million. The company reported net income of USD 138 million. Furthermore, the company achieved year-over-year revenue growth of 10%. The company reported revenue of USD 2269 million. It reported total revenue of USD 8783 million. The company reported net income of USD 138 million. Additionally, the company reported operating cash flow of USD 1652 million. The company generated operating cash flow of USD 1652 million. The company reported net debt of USD 2132 million. It achieved year-over-year revenue growth of 10%. The company reported revenue of USD 2269 million. It reported total revenue of USD 878
+
+============================================================
+ID: SUM_S0_0016
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins compressed due to demand softness. Net debt remained stable. Capital expenditures increased driven by IT modernization. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1038 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1038 million. Furthermore, the company reported net income of USD 138 million. In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. The company reported revenue of USD 3.3 billion and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1038 million. Additionally, the company reported net income of USD 138 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1038 million. Furthermore, the company reported net income of USD 138 million. In fiscal year 2023, the company reported revenue of USD 3
+
+============================================================
+ID: SUM_S0_0017
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins remained stable due to supply constraints. Net debt remained stable. Capital expenditures remained stable driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1038 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1038 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company reported revenue of USD 3.3 billion. In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. The company reported revenue of USD 3.3 billion and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1038 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1038 million. The company reported total revenue of USD 3.3
+
+============================================================
+ID: SUM_S0_0007
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins compressed due to supply constraints. Net debt declined slightly. Capital expenditures increased driven by IT modernization. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1038 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1038 million. Furthermore, the company reported revenue of USD 3.3 billion. In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1038 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1038 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1
+
+============================================================
+ID: SUM_S0_0022
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 12%. Operating margins compressed due to demand softness. Net debt remained stable. Capital expenditures decreased driven by IT modernization. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 12%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. The company generated operating cash flow of USD 1033 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. The company generated operating cash flow of USD 1033 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth
+
+============================================================
+ID: SUM_S1_0004
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 1602
+COGS: 611
+Operating Cash Flow: 1385
+Net Debt: 220
+Capital Expenditures: 201
+
+In fiscal year 2023, the company reported revenue growth of 12% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 1602 million and achieved year-over-year growth of 12%. The company generated operating cash flow of USD 1385 million. Additionally, the company reported revenue of USD 1602 million and achieved year-over-year growth of 12%. The company reported total revenue of USD 1602 million and achieved year-over-year growth of 12%. The company generated operating cash flow of USD 1385 million. The company reported revenue of USD 1602 million and achieved year-over-year growth of 12%. The company reported total revenue of USD 1602 million. The company reported revenue of USD 1602 million and achieved year-over-year growth of 12%. The company reported revenue of USD 1602 million and achieved year-over-year growth of 12%. The company reported revenue of USD 1602 million and achieved year-over-year growth of 12%. The company reported revenue of USD 1602 million and achieved year-over-year growth of 12%.
+
+============================================================
+ID: SUM_S0_0031
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 8%. Operating margins compressed due to higher input costs. Net debt increased modestly. Capital expenditures remained stable driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 8%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 8%. The company generated operating cash flow of USD 1033 million. Furthermore, the company reported revenue of USD 3.3 billion. In fiscal year 2023, the company achieved year-over-year revenue growth of 8%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. The company achieved year-over-year revenue growth of 8%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 8%. The company reported revenue of USD 3.3 billion and achieved year-over-year growth of 8%. The company generated operating cash flow of USD 10
+
+============================================================
+ID: SUM_S1_0040
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 1688
+COGS: 1200
+Operating Cash Flow: 939
+Net Debt: 2669
+Capital Expenditures: 903
+
+In fiscal year 2023, the company reported revenue growth of 8% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 1688 million and achieved year-over-year growth of 8%. The company generated operating cash flow of USD 939 million. Additionally, the company reported revenue of USD 1688 million and achieved year-over-year growth of 8%. The company generated operating cash flow of USD 939 million. The company reported revenue of USD 1688 million and achieved year-over-year growth of 8%. The company reported total revenue of USD 1688 million and achieved year-over-year growth of 8%. The company reported revenue of USD 1688 million and achieved year-over-year growth of 8%. The company reported revenue of USD 1688 million and achieved year-over-year growth of 8%. The company reported revenue of USD 1688 million and achieved year-over-year growth of 8%. The company reported revenue of USD 1688 million and achieved year-over-year growth of 8%. The company reported revenue of USD 1688 million and achieved year-over-year growth of 8%.
+
+============================================================
+ID: SUM_S0_0011
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins compressed due to supply constraints. Net debt remained stable. Capital expenditures increased driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1033 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of
+
+============================================================
+ID: SUM_S1_0012
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 5674
+COGS: 2263
+Operating Cash Flow: 1432
+Net Debt: 3407
+Capital Expenditures: 255
+
+In fiscal year 2023, the company reported revenue growth of 5% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 5674 million and achieved year-over-year growth of 5%. The company generated operating cash flow of USD 1432 million. Additionally, the company reported revenue of USD 5674 million and achieved year-over-year growth of 5%. The company generated operating cash flow of USD 1432 million. The company reported revenue of USD 5674 million and achieved year-over-year growth of 5%. The company reported revenue of USD 5674 million and achieved year-over-year growth of 5%. The company reported revenue of USD 5674 million and achieved year-over-year growth of 5%. The company reported revenue of USD 5674 million and achieved year-over-year growth of 5%. The company reported revenue of USD 5674 million and achieved year-over-year growth of 5%. The company reported revenue of USD 5674 million and achieved year-over-year growth of 5%. The company reported revenue of USD 5674 million and achieved year-over-year growth of 5
+
+============================================================
+ID: SUM_S0_0035
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins remained stable due to FX headwinds. Net debt remained stable. Capital expenditures remained stable driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1033 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion
+
+============================================================
+ID: SUM_S0_0034
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 8%. Operating margins remained stable due to higher input costs. Net debt remained stable. Capital expenditures remained stable driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 8%. The company generated operating cash flow of USD 1038 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 8%. The company generated operating cash flow of USD 1038 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 8%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1038 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 8%. The company generated operating cash flow of USD 1038 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 8%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1038 million. The company reported revenue of USD 3.3 billion
+
+============================================================
+ID: SUM_S0_0038
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 5%. Operating margins improved due to FX headwinds. Net debt declined slightly. Capital expenditures decreased driven by facility upgrades. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 5%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 5%. The company generated operating cash flow of USD 1033 million. Furthermore, the company reported operating income of USD 388 million. In fiscal year 2023, the company achieved year-over-year revenue growth of 5%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported operating income of USD 388 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 5%. The company generated operating cash flow of USD 1033 million. Furthermore, the company reported operating income of USD 388 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 5%. The company generated operating cash flow of USD 1033
+
+============================================================
+ID: SUM_S0_0028
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 10%. Operating margins compressed due to supply constraints. Net debt remained stable. Capital expenditures increased driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 10%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 10%. The company generated operating cash flow of USD 1033 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 10%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 10%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 10%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 10%. The
+
+============================================================
+ID: SUM_S0_0014
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 12%. Operating margins improved due to demand softness. Net debt increased modestly. Capital expenditures increased driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 12%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. Furthermore, it reported operating income of USD 388 million. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. In fiscal year 2023, the company achieved year-over-year revenue growth of 12%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%.
+
+The company reported revenue of USD 3.3 billion and achieved year-over-year growth of 12%. It generated operating cash flow of USD 1033 million. The company reported total revenue of USD 3.3 billion. In fiscal year 2023, the company reported revenue of USD
+
+============================================================
+ID: SUM_S1_0009
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 1279
+COGS: 1040
+Operating Cash Flow: 1556
+Net Debt: 599
+Capital Expenditures: 652
+
+In fiscal year 2023, the company reported revenue growth of 12% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 1279 million and achieved
+
+============================================================
+ID: SUM_S0_0039
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 15%. Operating margins compressed due to demand softness. Net debt declined slightly. Capital expenditures decreased driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 15%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. Furthermore, the company reported net revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company reported revenue of USD 3.3 billion. In fiscal year 2023, the company generated operating cash flow of USD 1033 million. The company achieved year-over-year revenue growth of 15%. The company reported revenue of USD 3.3 billion. The company reported revenue of USD 3.3 billion. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company reported
+
+============================================================
+ID: SUM_S1_0031
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 6263
+COGS: 2613
+Operating Cash Flow: 774
+Net Debt: 3429
+Capital Expenditures: 326
+
+In fiscal year 2023, the company reported revenue growth of 12% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 6263 million and achieved year-over-year growth of 12%. The company generated operating cash flow of USD 774 million. Additionally, the company reported revenue of USD 6263 million and achieved year-over-year growth of 12%. The company reported total revenue of USD 2.4 billion. It generated operating cash flow of USD 774 million. The company reported net income of USD 138 million. Furthermore, the company achieved year-over-year revenue growth of 12%. The company reported revenue of USD 6263 million. Additionally, the company reported total revenue of USD 2.4 billion. The company reported net income of USD 138 million. The company reported net debt of USD 3429 million. Capital expenditures increased to USD 326 million.
+
+============================================================
+ID: SUM_S1_0008
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 4265
+COGS: 3485
+Operating Cash Flow: 367
+Net Debt: 2530
+Capital Expenditures: 455
+
+In fiscal year 2023, the company reported revenue growth of 5% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 4265 million and achieved year-over-year growth of 5%. The company generated operating cash flow of USD 367 million. Additionally, the company reported revenue of USD 4265 million and achieved year-over-year growth of 5%. The company reported total revenue of USD 1683 million. It generated operating cash flow of USD 367 million. The company reported net debt of USD 2530 million and achieved year-over-year revenue growth of 5%. The company reported revenue of USD 4265 million and achieved year-over-year growth of 5%. The company reported total revenue of USD 1683 million. It generated operating cash flow of USD 367 million. The company reported net debt of USD 2530 million and achieved year-over-year revenue growth of 5%.
+
+============================================================
+ID: SUM_S1_0011
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 2089
+COGS: 847
+Operating Cash Flow: 1090
+Net Debt: 1622
+Capital Expenditures: 150
+
+In fiscal year 2023, the company reported revenue growth of 3% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 2089 million and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1090 million. Additionally, the company reported revenue of USD 2089 million and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1090 million. The company reported revenue of USD 2089 million and achieved year-over-year growth of 3%. The company reported revenue of USD 2089 million and achieved year-over-year growth of 3%. The company reported revenue of USD 2089 million and achieved year-over-year growth of 3%. The company reported revenue of USD 2089 million and achieved year-over-year growth of 3%. The company reported revenue of USD 2089 million and achieved year-over-year growth of 3%. The company reported revenue of USD 2089 million and achieved year-over-year growth of 3%. The company reported revenue of USD 2089 million and achieved year-over-year growth of 3
+
+============================================================
+ID: SUM_S1_0020
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 5810
+COGS: 4711
+Operating Cash Flow: 1133
+Net Debt: 4643
+Capital Expenditures: 623
+
+In fiscal year 2023, the company reported revenue growth of 3% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 5810 million and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1133 million. Additionally, the company reported revenue of USD 5810 million and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1133 million. The company reported revenue of USD 5810 million and achieved year-over-year growth of 3%. The company reported revenue of USD 5810 million and achieved year-over-year growth of 3%. The company reported revenue of USD 5810 million and achieved year-over-year growth of 3%. The company reported revenue of USD 5810 million and achieved year-over-year growth of 3%. The company reported revenue of USD 5810 million and achieved year-over-year growth of 3%. The company reported revenue of USD 5810 million and achieved year-over-year growth of 3%. The company reported revenue of USD 5810 million and achieved year-over-year growth of 3
+
+============================================================
+ID: SUM_S0_0037
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 15%. Operating margins remained stable due to higher input costs. Net debt declined slightly. Capital expenditures increased driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 15%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth
+
+============================================================
+ID: SUM_S1_0023
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 5754
+COGS: 2875
+Operating Cash Flow: 1519
+Net Debt: 1767
+Capital Expenditures: 550
+
+In fiscal year 2023, the company reported revenue growth of 8% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 5754 million and achieved year-over-year growth of 8%. The company generated operating cash flow of USD 1519 million. Additionally, the company reported revenue of USD 5754 million and achieved year-over-year growth of 8%. The company generated operating cash flow of USD 1519 million. The company reported revenue of USD 5754 million and achieved year-over-year growth of 8%. The company reported revenue of USD 5754 million and achieved year-over-year growth of 8%. The company reported revenue of USD 5754 million and achieved year-over-year growth of 8%. The company reported revenue of USD 5754 million and achieved year-over-year growth of 8%. The company reported revenue of USD 5754 million and achieved year-over-year growth of 8%. The company reported revenue of USD 5754 million and achieved year-over-year growth of 8%. The company reported revenue of USD 5754 million and achieved year-over-year growth of 8
+
+============================================================
+ID: SUM_S0_0012
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 15%. Operating margins compressed due to supply constraints. Net debt declined slightly. Capital expenditures increased driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 15%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. Furthermore, the company reported net income of USD 138 million. In fiscal year 2023, the company achieved year-over-year revenue growth of 15%. The company reported revenue of USD 3.3 billion and achieved year-over-year growth of 15%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported net income of USD 138 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. Furthermore, the company reported net income of USD 138 million. The company reported total revenue of USD 3.3 billion
+
+============================================================
+ID: SUM_S1_0035
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 2434
+COGS: 1793
+Operating Cash Flow: 766
+Net Debt: 1964
+Capital Expenditures: 466
+
+In fiscal year 2023, the company reported revenue growth of 8% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 2434 million and achieved year-over-year growth of
+
+============================================================
+ID: SUM_S1_0014
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 4234
+COGS: 2776
+Operating Cash Flow: 1964
+Net Debt: 1773
+Capital Expenditures: 653
+
+In fiscal year 2023, the company reported revenue growth of 8% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 4234 million and achieved year-over-year growth of 8%. The company generated operating cash flow of USD 1964 million. Additionally, the company reported revenue of USD 4234 million and achieved year-over-year growth of 8%. The company generated operating cash flow of USD 1964 million. The company reported revenue of USD 4234 million and achieved year-over-year growth of 8%. The company reported revenue of USD 4234 million and achieved year-over-year growth of 8%. The company reported revenue of USD 4234 million and achieved year-over-year growth of 8%. The company reported revenue of USD 4234 million and achieved year-over-year growth of 8%. The company reported revenue of USD 4234 million and achieved year-over-year growth of 8%. The company reported revenue of USD 4234 million and achieved year-over-year growth of 8%. The company reported revenue of USD 4234 million and achieved year-over-year growth of 8
+
+============================================================
+ID: SUM_S1_0013
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 5466
+COGS: 2921
+Operating Cash Flow: 1235
+Net Debt: 425
+Capital Expenditures: 177
+
+In fiscal year 2023, the company reported revenue growth of 12% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 5466 million and achieved year-over-year growth of 12%. The company generated operating cash flow of USD 1235 million. The company reported revenue of USD 2089 million. Additionally, the company reported total revenue of USD 2089 million. The company achieved year-over-year revenue growth of 12%. The company reported revenue of USD 5466 million. The
+
+============================================================
+ID: SUM_S0_0013
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 15%. Operating margins remained stable due to FX headwinds. Net debt declined slightly. Capital expenditures remained stable driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 15%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. Furthermore, the company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million
+
+============================================================
+ID: SUM_S1_0025
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 7594
+COGS: 3790
+Operating Cash Flow: 140
+Net Debt: 2832
+Capital Expenditures: 277
+
+In fiscal year 2023, the company reported revenue growth of 3% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 7594 million and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 140 million. Additionally, the company reported revenue of USD 7594 million and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 140 million. The company reported revenue of USD 7594 million and achieved year-over-year growth of 3%. The company reported total revenue of USD 7594 million and achieved year-over-year growth of 3%. The company reported revenue of USD 7594 million and achieved year-over-year growth of 3%. The company reported revenue of USD 7594 million and achieved year-over-year growth of 3%. The company reported revenue of USD 7594 million and achieved year-over-year growth of 3%. The company reported revenue of USD 7594 million and achieved year-over-year growth of 3%. The company reported revenue of USD 7594 million and achieved year-over-year growth of 3%.
+
+============================================================
+ID: SUM_S0_0036
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins improved due to higher input costs. Net debt remained stable. Capital expenditures decreased driven by IT modernization. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1038 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1038 million. Furthermore, the company reported net income of USD 138 million. In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. The company reported revenue of USD 3.3 billion and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1038 million. Additionally, the company reported net income of USD 138 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1038 million. Furthermore, the company reported net income of USD 138 million. In fiscal year 2023, the company reported revenue of USD 3
+
+============================================================
+ID: SUM_S0_0019
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 8%. Operating margins remained stable due to supply constraints. Net debt remained stable. Capital expenditures increased driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 8%. The company generated operating cash flow of USD 1038 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 8%. The company generated operating cash flow of USD 1038 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 8%. The company generated operating cash flow of USD 1038 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 8%. The company generated operating cash flow of USD 1038 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 8%. The company generated operating cash flow of USD 1038 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 8%. The
+
+============================================================
+ID: SUM_S1_0005
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 6973
+COGS: 5916
+Operating Cash Flow: 534
+Net Debt: 3429
+Capital Expenditures: 1004
+
+In fiscal year 2023, the company reported revenue growth of 5% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 6973 million and achieved year-over-year growth of 5%. The company generated operating cash flow of USD 534 million. Additionally, the company reported revenue of USD 6973 million and achieved year-over-year growth of 5%. The company reported total revenue of USD 2688 million. It generated operating cash flow of USD 534 million. The company reported net income of USD 138 million. Furthermore, the company achieved year-over-year revenue growth of 5%. The company reported revenue of USD 6973 million. Additionally, the company reported total revenue of USD 2688 million. The company reported net income of USD 138 million. The company reported net debt of USD 3429 million. Capital expenditures increased to USD 1004 million.
+
+============================================================
+ID: SUM_S1_0028
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 6460
+COGS: 2871
+Operating Cash Flow: 1167
+Net Debt: 3124
+Capital Expenditures: 1141
+
+In fiscal year 2023, the company reported revenue growth of 3% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 6460 million and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1167 million. Additionally, the company reported revenue of USD 6460 million and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1167 million. The company reported revenue of USD 6460 million and achieved year-over-year growth of 3%. The company reported revenue of USD 6460 million and achieved year-over-year growth of 3%. The company reported revenue of USD 6460 million and achieved year-over-year growth of 3%. The company reported revenue of USD 6460 million and achieved year-over-year growth of 3%. The company reported revenue of USD 6460 million and achieved year-over-year growth of 3%. The company reported revenue of USD 6460 million and achieved year-over-year growth of 3%. The company reported revenue of USD 6460 million and achieved year-over-year growth of 3
+
+============================================================
+ID: SUM_S1_0022
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 1676
+COGS: 1346
+Operating Cash Flow: 1183
+Net Debt: 2331
+Capital Expenditures: 587
+
+In fiscal year 2023, the company reported revenue growth of 5% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 1676 million and achieved year-over-year growth of 5%. The company generated operating cash flow of USD 1183 million. Additionally, the company reported revenue of USD 1676 million and achieved year-over-year growth of 5%. The company generated operating cash flow of USD 1183 million. The company reported revenue of USD 1676 million and achieved year-over-year growth of 5%. The company reported revenue of USD 1676 million and achieved year-over-year growth of 5%. The company reported revenue of USD 1676 million and achieved year-over-year growth of 5%. The company reported revenue of USD 1676 million and achieved year-over-year growth of 5%. The company reported revenue of USD 1676 million and achieved year-over-year growth of 5%. The company reported revenue of USD 1676 million and achieved year-over-year growth of 5%. The company reported revenue of USD 1676 million and achieved year-over-year growth of 5
+
+============================================================
+ID: SUM_S0_0027
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 8%. Operating margins remained stable due to FX headwinds. Net debt remained stable. Capital expenditures remained stable driven by IT modernization. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 8%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 8%. The company generated operating cash flow of USD 1033 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 8%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 8%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 8%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion
+
+============================================================
+ID: SUM_S1_0021
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 6234
+COGS: 2605
+Operating Cash Flow: 1972
+Net Debt: 2266
+Capital Expenditures: 246
+
+In fiscal year 2023, the company reported revenue growth of 5% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 6234 million and achieved year-over-year growth of 5%. The company generated operating cash flow of USD 1972 million. Additionally, the company reported revenue of USD 6234 million and achieved year-over-year growth of 5%. The company generated operating cash flow of USD 1972 million. The company reported revenue of USD 6234 million and achieved year-over-year growth of 5%. The company reported revenue of USD 6234 million and achieved year-over-year growth of 5%. The company reported revenue of USD 6234 million and achieved year-over-year growth of 5%. The company reported revenue of USD 6234 million and achieved year-over-year growth of 5%. The company reported revenue of USD 6234 million and achieved year-over-year growth of 5%. The company reported revenue of USD 6234 million and achieved year-over-year growth of 5%. The company reported revenue of USD 6234 million and achieved year-over-year growth of 5
+
+============================================================
+ID: SUM_S1_0017
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 5888
+COGS: 4366
+Operating Cash Flow: 254
+Net Debt: 4504
+Capital Expenditures: 446
+
+In fiscal year 2023, the company reported revenue growth of 3% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 5888 million and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 254 million. Additionally, the company reported revenue of USD 5888 million and achieved year-over-year growth of 3%. The company reported total revenue of USD 2338 million. It generated operating cash flow of USD 254 million. The company reported net revenue of USD 5888 million and achieved year-over-year growth of 3%. The company reported revenue of USD 5888 million and achieved year-over-year growth of 3%. The company reported total revenue of USD 2338 million. The company reported net income of USD 138 million. It reported operating income of USD 338 million. The company achieved year-over-year revenue growth of 3%. The company reported revenue of USD 5888 million. The company reported total revenue of USD 2338 million. The company generated operating cash flow of USD 254 million. The company reported net income of USD 138 million.
+
+============================================================
+ID: SUM_S1_0036
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 993
+COGS: 684
+Operating Cash Flow: 445
+Net Debt: 2789
+Capital Expenditures: 580
+
+In fiscal year 2023, the company reported revenue growth of 10% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 993 million and achieved year-over-year growth of 10%. The company generated operating cash flow of USD 445 million. Additionally, the company reported revenue of USD 993 million and achieved year-over-year growth of 10%. The company reported total revenue of USD 3.8 billion. The company generated operating cash flow of USD 445 million. Furthermore, the company reported net debt of USD 2789 million and achieved year-over-year revenue growth of 10%. The company reported total revenue of USD 3.8 billion. Additionally, the company reported capital expenditures of USD 580 million.
+
+============================================================
+ID: SUM_S0_0020
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 12%. Operating margins improved due to higher input costs. Net debt declined slightly. Capital expenditures decreased driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 12%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. The company generated operating cash flow of USD 1033 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. The company generated operating cash flow of USD 1033 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth
+
+============================================================
+ID: SUM_S1_0030
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 7321
+COGS: 6087
+Operating Cash Flow: 131
+Net Debt: 1820
+Capital Expenditures: 521
+
+In fiscal year 2023, the company reported revenue growth of 8% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 7321 million and achieved year-over-year growth of 8%. The company generated operating cash flow of USD 131 million. Additionally, the company reported revenue of USD 7321 million and achieved year-over-year growth of 8%. The company reported total revenue of USD 2783 million. It generated operating cash flow of USD 131 million. The company reported net income of USD 138 million. Furthermore, the company achieved year-over-year revenue growth of 8%. The company reported revenue of USD 7321 million. It reported total revenue of USD 2783 million. The company reported net income of USD 138 million. Additionally, the company reported operating cash flow of USD 131 million. The company reported revenue of USD 7321 million. It generated operating cash flow of USD 131 million. The company reported net income of USD 138 million. The company reported revenue of USD 7321 million. It reported net debt of USD 1820 million. The company reported capital expenditures
+
+============================================================
+ID: SUM_S0_0008
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins remained stable due to FX headwinds. Net debt increased modestly. Capital expenditures decreased driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1033 million. Furthermore, the company reported operating income of USD 388 million. In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported operating income of USD 388 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1033 million. Furthermore, the company reported operating income of USD 388 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1033
+
+============================================================
+ID: SUM_S1_0015
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 2755
+COGS: 1507
+Operating Cash Flow: 860
+Net Debt: 2557
+Capital Expenditures: 946
+
+In fiscal year 2023, the company reported revenue growth of 5% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3038 million and achieved year-over-year growth of 5%. The company generated operating cash flow of USD 860 million. The company reported revenue of USD 2755 million. The company achieved year-over-year growth of 5%. Additionally, the company reported revenue of USD 2755 million. The company reported revenue of USD 3038 million. The company reported net income
+
+============================================================
+ID: SUM_S1_0024
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 4940
+COGS: 3730
+Operating Cash Flow: 564
+Net Debt: 856
+Capital Expenditures: 877
+
+In fiscal year 2023, the company reported revenue growth of 3% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 4940 million and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 564 million. Additionally, the company reported revenue of USD 4940 million and achieved year-over-year growth of 3%. The company reported total revenue of USD 1968 million. The company generated operating cash flow of USD 564 million. Furthermore, the company reported net debt of USD 856 million and achieved year-over-year revenue growth of 3%. Additionally, the company reported capital expenditures of USD 877 million.
+
+============================================================
+ID: SUM_S0_0021
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins improved due to higher input costs. Net debt remained stable. Capital expenditures increased driven by capacity expansion. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1038 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1038 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1038 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1038 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1038 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 3%. The
+
+============================================================
+ID: SUM_S0_0040
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 15%. Operating margins remained stable due to FX headwinds. Net debt remained stable. Capital expenditures remained stable driven by facility upgrades. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 15%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 15%. The company generated operating cash flow of USD 1033 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. In fiscal year
+
+============================================================
+ID: SUM_S1_0003
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 3081
+COGS: 2025
+Operating Cash Flow: 561
+Net Debt: 3730
+Capital Expenditures: 1137
+
+In fiscal year 2023, the company reported revenue growth of 3% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3081 million and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 561 million. Additionally, the company reported revenue of USD 3081 million and achieved year-over-year growth of 3%. The company reported total revenue of USD 3568 million. It generated operating cash flow of USD 561 million. The company reported net income of USD 138 million. Furthermore, the company achieved year-over-year revenue growth of 3%. The company reported revenue of USD 3081 million. The company reported total revenue of USD 3568 million. It generated operating cash flow of USD 561 million. The company reported net income of USD 138 million. Additionally, the company reported operating income of USD 238 million. The company reported net debt of USD 3730 million. The company reported capital expenditures of USD 1137 million.
+
+============================================================
+ID: SUM_S0_0009
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 3%. Operating margins remained stable due to supply constraints. Net debt increased modestly. Capital expenditures decreased driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company generated operating cash flow of USD 1033 million. Furthermore, the company reported net revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 3%. The company reported revenue of USD 3.3 billion. In fiscal year 2023, the company generated operating cash flow of USD 1033 million. The company achieved year-over-year revenue growth of 3%. The company reported revenue of USD 3.3 billion. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. The company achieved year-over-year revenue growth of 3%. The company reported revenue of USD 3.3 billion. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD
+
+============================================================
+ID: SUM_S1_0032
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 2739
+COGS: 1290
+Operating Cash Flow: 1688
+Net Debt: 3477
+Capital Expenditures: 60
+
+In fiscal year 2023, the company reported revenue growth of 5% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 2739 million and achieved year-over-year growth of 5%. The company generated operating cash flow of USD 1688 million. Additionally, the company reported revenue of USD 2739 million and achieved year-over-year growth of 5%. The company generated operating cash flow of USD 1688 million. The company reported revenue of USD 2739 million and achieved year-over-year growth of 5%. The company reported revenue of USD 2739 million and achieved year-over-year growth of 5%. The company reported revenue of USD 2739 million and achieved year-over-year growth of 5%. The company reported revenue of USD 2739 million and achieved year-over-year growth of 5%. The company reported revenue of USD 2739 million and achieved year-over-year growth of 5%. The company reported revenue of USD 2739 million and achieved year-over-year growth of 5%. The company reported revenue of USD 2739 million and achieved year-over-year growth of 5
+
+============================================================
+ID: SUM_S1_0007
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 3904
+COGS: 1370
+Operating Cash Flow: 849
+Net Debt: 3827
+Capital Expenditures: 594
+
+In fiscal year 2023, the company reported revenue growth of 8% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3904 million and achieved year-over-year growth of 8%. The company generated operating cash flow of USD 849 million. Additionally, the company reported revenue of USD 3904 million and achieved year-over-year growth of 8%. The company reported total revenue of USD 4538 million. It generated operating cash flow of USD 849 million. The company reported net income of USD 138 million. Furthermore, the company achieved year-over-year revenue growth of 8%. The company reported revenue of USD 3904 million. It reported total revenue of USD 4538 million. The company reported net income of USD 138 million. Additionally, the company reported operating cash flow of USD 849 million. The company reported revenue of USD 3904 million. It generated operating cash flow of USD 849 million. The company reported net income of USD 138 million. The company reported revenue of USD 3904 million. It reported net debt of USD 3827 million. The company reported capital expenditures
+
+============================================================
+ID: SUM_S0_0026
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 12%. Operating margins compressed due to higher input costs. Net debt remained stable. Capital expenditures remained stable driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 12%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. The company generated operating cash flow of USD 1033 million. Furthermore, the company reported net income of USD 138 million. In fiscal year 2023, the company achieved year-over-year revenue growth of 12%. The company reported revenue of USD 3.3 billion and achieved year-over-year growth of 12%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported net income of USD 138 million. The company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. The company generated operating cash flow of USD 1033 million. Furthermore, the company reported net income of USD 138 million. The company reported net income of USD 138 million
+
+============================================================
+ID: SUM_S1_0029
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 2013
+COGS: 1144
+Operating Cash Flow: 311
+Net Debt: 2625
+Capital Expenditures: 756
+
+In fiscal year 2023, the company reported revenue growth of 3% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 1.3 billion and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 311 million. Additionally, the company reported revenue of USD 1.3 billion and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 311 million. The company reported revenue of USD 1.3 billion and achieved year-over-year growth of 3%. The company reported total revenue of USD 1.3 billion and achieved year-over-year growth of 3%. The company reported revenue of USD 1.3 billion and achieved year-over-year growth of 3%. The company reported revenue of USD 1.3 billion and achieved year-over-year growth of 3%. The company reported revenue of USD 1.3 billion and achieved year-over-year growth of 3%. The company reported revenue of USD 1.3 billion and achieved year-over-year growth of 3%. The company reported revenue of USD 1.3 billion and achieved year-over-year growth of 3%. The company reported total revenue of USD 1
+
+============================================================
+ID: SUM_S1_0027
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 6580
+COGS: 4054
+Operating Cash Flow: 1198
+Net Debt: 1016
+Capital Expenditures: 164
+
+In fiscal year 2023, the company reported revenue growth of 3% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 6580 million and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1198 million. Additionally, the company reported revenue of USD 6580 million and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1198 million. The company reported revenue of USD 6580 million and achieved year-over-year growth of 3%. The company reported revenue of USD 6580 million and achieved year-over-year growth of 3%. The company reported revenue of USD 6580 million and achieved year-over-year growth of 3%. The company reported revenue of USD 6580 million and achieved year-over-year growth of 3%. The company reported revenue of USD 6580 million and achieved year-over-year growth of 3%. The company reported revenue of USD 6580 million and achieved year-over-year growth of 3%. The company reported revenue of USD 6580 million and achieved year-over-year growth of 3
+
+============================================================
+ID: SUM_S0_0001
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 15%. Operating margins remained stable due to supply constraints. Net debt remained stable. Capital expenditures increased driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 15%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 15%. The company generated operating cash flow of USD 1033 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth
+
+============================================================
+ID: SUM_S1_0016
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 3390
+COGS: 2725
+Operating Cash Flow: 1966
+Net Debt: 176
+Capital Expenditures: 948
+
+In fiscal year 2023, the company reported revenue growth of 3% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3390 million and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1966 million. Additionally, the company reported revenue of USD 3390 million and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 1966 million. The company reported revenue of USD 3390 million and achieved year-over-year growth of 3%. The company reported revenue of USD 3390 million and achieved year-over-year growth of 3%. The company reported revenue of USD 3390 million and achieved year-over-year growth of 3%. The company reported revenue of USD 3390 million and achieved year-over-year growth of 3%. The company reported revenue of USD 3390 million and achieved year-over-year growth of 3%. The company reported revenue of USD 3390 million and achieved year-over-year growth of 3%. The company reported revenue of USD 3390 million and achieved year-over-year growth of 3
+
+============================================================
+ID: SUM_S0_0006
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 8%. Operating margins improved due to supply constraints. Net debt declined slightly. Capital expenditures increased driven by facility upgrades. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 8%. The company generated operating cash flow of USD 1038 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 8%. The company generated operating cash flow of USD 1038 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 8%. The company generated operating cash flow of USD 1038 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 8%. The company generated operating cash flow of USD 1038 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 8%. The company generated operating cash flow of USD 1038 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 8%. The
+
+============================================================
+ID: SUM_S0_0033
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 12%. Operating margins improved due to higher input costs. Net debt declined slightly. Capital expenditures increased driven by facility upgrades. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 12%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. The company generated operating cash flow of USD 1033 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 12%. The company generated operating cash flow of USD 1033 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth
+
+============================================================
+ID: SUM_S0_0025
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 10%. Operating margins remained stable due to supply constraints. Net debt remained stable. Capital expenditures remained stable driven by automation initiatives. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 10%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 10%. The company generated operating cash flow of USD 1033 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 10%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 10%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 10%. The company generated operating cash flow of USD 1033 million. In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth
+
+============================================================
+ID: SUM_S1_0034
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 2104
+COGS: 957
+Operating Cash Flow: 833
+Net Debt: 3955
+Capital Expenditures: 465
+
+In fiscal year 2023, the company reported revenue growth of 3% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 2104 million and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 833 million. Additionally, the company reported revenue of USD 2104 million and achieved year-over-year growth of 3%. The company reported total revenue of USD 2104 million and achieved year-over-year growth of 3%. The company generated operating cash flow of USD 833 million. The company reported revenue of USD 2104 million and achieved year-over-year growth of 3%. The company reported revenue of USD 2104 million and achieved year-over-year growth of 3%. The company reported revenue of USD 2104 million and achieved year-over-year growth of 3%. The company reported revenue of USD 2104 million and achieved year-over-year growth of 3%. The company reported revenue of USD 2104 million and achieved year-over-year growth of 3%. The company reported revenue of USD 2104 million and achieved year-over-year growth of 3%.
+
+============================================================
+ID: SUM_S1_0010
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 1268
+COGS: 494
+Operating Cash Flow: 1246
+Net Debt: 4219
+Capital Expenditures: 1097
+
+In fiscal year 2023, the company reported revenue growth of 10% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 1268 million and achieved year-over-year growth of 10%. The company generated operating cash flow of USD 1246 million. Additionally, the company reported revenue of USD 1268 million and achieved year-over-year growth of 10%. The company reported total revenue of USD 1335 million. It generated operating cash flow of USD 1246 million. The company reported net revenue of USD 1335 million and achieved year-over-year growth of 10%. The company reported revenue of USD 1268 million and achieved year-over-year growth of 10%. The company reported total revenue of USD 1335 million. The company reported net income of USD 133 million. It reported operating income of USD 238 million. The company achieved year-over-year revenue growth of 10%. The company reported revenue of USD 1268 million. The company generated operating cash flow of USD 1246 million. The company reported net income of USD 133 million and operating income of USD 2
+
+============================================================
+ID: SUM_S0_0015
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In fiscal year 2023, the company achieved year-over-year revenue growth of 8%. Operating margins remained stable due to higher input costs. Net debt increased modestly. Capital expenditures remained stable driven by IT modernization. Management emphasized disciplined cost control and cautious guidance.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 8%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 8%. The company generated operating cash flow of USD 1033 million. Furthermore, the company reported revenue of USD 3.3 billion. In fiscal year 2023, the company achieved year-over-year revenue growth of 8%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. The company achieved year-over-year revenue growth of 8%. The company reported revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 3.3 billion. The company achieved year-over-year revenue growth of 8%. The company reported revenue of USD 3.3 billion and achieved year-over-year growth of 8%. The company generated operating cash flow of USD 10
+
+============================================================
+ID: SUM_S1_0026
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 6019
+COGS: 3178
+Operating Cash Flow: 380
+Net Debt: 3719
+Capital Expenditures: 1139
+
+In fiscal year 2023, the company reported revenue growth of 15% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 6019 million and achieved year-over-year growth of 15%. The company generated operating cash flow of USD 380 million. Additionally, the company reported revenue of USD 6019 million and achieved year-over-year growth of 15%. The company reported total revenue of USD 2.3 billion. It generated operating cash flow of USD 380 million. The company reported net income of USD 138 million. Furthermore, the company achieved year-over-year revenue growth of 15%. The company reported revenue of USD 6019 million. The company reported total revenue of USD 2.3 billion. It generated operating cash flow of USD 380 million. The company reported net income of USD 138 million. Additionally, the company reported revenue of USD 6019 million. The company reported total revenue of USD 2.3 billion. It generated operating cash flow of USD 380 million. The company reported net income of USD 138 million. The company reported net debt of USD 3719 million. It achieved year-over
+
+============================================================
+ID: SUM_S1_0038
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Income Statement and Cash Flow Summary (USD, million)
+Revenue: 4074
+COGS: 2816
+Operating Cash Flow: 1777
+Net Debt: 2812
+Capital Expenditures: 66
+
+In fiscal year 2023, the company reported revenue growth of 12% year-over-year.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 4074 million and achieved year-over-year growth of 12%. The company generated operating cash flow of USD 1777 million. Additionally, the company reported revenue of USD 4074 million and achieved year-over-year growth of 12%. The company reported total revenue of USD 1598 million. It generated operating cash flow of USD 1777 million. The company reported net income of USD 138 million. Furthermore, the company achieved year-over-year revenue growth of 12%. The company reported revenue of USD 4074 million. It reported total revenue of USD 1598 million. The company generated operating cash flow of USD 1777 million. The company reported net income of USD 138 million. Additionally, the company reported revenue of USD 4074 million. It reported total revenue of USD 1598 million. The company generated operating cash flow of USD 1777 million. The company reported net income of USD 138 million. The company reported revenue of USD 4074 million
+
+============================================================
+ID: SUM_S1_1038
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Our principal sources of liquidity are cash flows generated from operations and our cash, cash equivalents, and marketable securities balances, which, at fair value, were $86.8 billion and $101.2 billion as of December 31, 2023 and 2024. Amounts held in foreign currencies were $23.5 billion and $25.5 billion as of December 31, 2023 and 2024. Our foreign currency balances include British Pounds, Canadian Dollars, Euros, Indian Rupees, and Japanese Yen.
+
+RESPONSE:
+The company reported total revenue of USD 11.3 billion in fiscal year 2024. It generated operating cash flow of USD 1133 million. The company achieved year-over-year revenue growth of 11%. Additionally, the company reported net income of USD 1133 million. The company had revenue of USD 4.5 billion during the fourth quarter. The company generated operating cash flow of USD 1133 million. The company reported total revenue of USD 11.3 billion in fiscal year 2024. The company achieved year-over-year revenue growth of 11%. The company generated operating cash flow of USD 1133 million. The company reported net income of USD 1133 million. The company reported net income of USD 1133 million. The company generated operating cash flow of USD 1133 million. The company reported total revenue of USD 11.3 billion in fiscal year 2024. The company achieved year-over-year revenue growth of 11%. The company generated operating cash flow of USD 1133 million. The company reported net income of USD 113
+
+============================================================
+ID: SUM_S0_1025
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+The Company sells its services in the same markets through its various service platforms. The Company also employs a variety of indirect distribution channels, such as third-party cellular network carriers and other resellers, for the sale of its products and certain of its services. During 2025, the Company’s net sales through its direct and indirect distribution channels accounted for 40% and 60%, respectively, of total net sales. 
+
+RESPONSE:
+In 2025, the Company reported net sales of USD 1.3 billion and achieved year-over-year growth of 11%. The Company generated operating cash flow of USD 1033 million. Additionally, the Company continued investment in digital infrastructure. The Company generated operating cash flow of USD 1033 million. The Company reported net sales of USD 1.3 billion and achieved year-over-year growth of 11%. The Company generated operating cash flow of USD 1033 million. The Company achieved year-over-year growth of 11%. The Company reported net sales of USD 1.3 billion. The Company generated operating cash flow of USD 1033 million. The Company reported net sales of USD 1.3 billion and achieved year-over-year growth of 11%. The Company reported net sales of USD 1.3 billion. The Company generated operating cash flow of USD 1033 million. The Company reported net sales of USD 1.3 billion. The Company achieved year-over-year growth of 11%. The Company reported net sales of USD 1.3 billion. The Company generated operating cash flow of USD
+
+============================================================
+ID: SUM_S1_2038
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+The proportion of our cloud services revenues relative to our total revenues has increased and we expect this trend to continue. Cloud services revenues represented 43%, 37% and 32% of our total revenues during fiscal 2025, 2024 and 2023, respectively.
+
+RESPONSE:
+In fiscal year 2023, the company reported revenue of USD 3.3 billion and achieved year-over-year growth of 13%. Additionally, the company generated operating cash flow of USD 1033 million. The company experienced a decline in operating income due to higher costs. The company achieved year-over-year revenue growth of 13%. Furthermore, the company reported total revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. The company achieved year-over-year revenue growth of 13%. The company experienced a decline in operating income due to higher costs. The company reported total revenue of USD 3.3 billion. The company generated operating cash flow of USD 1033 million. The company achieved year-over-year revenue growth of 13%.
+
+The company reported revenue of USD 3.3 billion and achieved year-over-year growth of 13%. The company generated operating cash flow of USD 1033 million. Additionally, the company reported total revenue of USD 3.3 billion.
+
+The company experienced a decline in operating income due to higher costs. It reported revenue of USD
+
+============================================================
+ID: SUM_S0_2025
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+International sales increased 9% in 2024, compared to the prior year. The sales growth primarily reflects increased unit sales, including sales by thirdparty sellers, advertising sales, and subscription services. Increased unit sales were driven largely by our continued focus on price, selection, and convenience for our customers, including from our fast shipping offers.AWS sales increased 19% in 2024, compared to the prior year. The sales growth primarily reflects increased customer usage, partially offset by pricing changes primarily driven by long-term customer contracts
+
+RESPONSE:
+In 2024, the company reported revenue of USD 11.3 billion and achieved year-over-year growth of 10%. The company generated operating cash flow of USD 1138 million. The company reported revenue of USD 11.3 billion and achieved year-over-year growth of 10%. Additionally, international sales increased 9% to USD 2.3 billion and achieved year-over-year growth of 11%. The company generated operating cash flow of USD 1138 million. The company reported revenue of USD 11.3
+
+============================================================
+ID: SUM_S1_3038
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Total revenues increased by $4.4 billion in reported currency in fiscal 2025 relative to fiscal 2024 due to a $4.8 billionincrease in cloud and license revenues, partially offset by a $198 million decrease in services revenues and a $130 million decrease in hardware revenues, in each case during fiscal 2025 relative to fiscal 2024. 
+
+RESPONSE:
+In fiscal year 2025, the company reported revenue of USD 11.3 billion and achieved year-over-year growth of 11%. The company generated operating cash flow of USD 1133 million. Additionally, total revenues increased to USD 11.3 billion. The company experienced a decline in hardware revenues. Furthermore, it reported year-over-year revenue growth of 11%. The company achieved year-over-year revenue growth of 11%. The company generated operating cash flow of USD 1133 million. The company reported revenue of USD 11.3 billion. The company experienced a decline in hardware revenues. The company reported year-over-year revenue growth of 11%. The company achieved year-over-year revenue growth of 11%. The company generated operating cash flow of USD 1133 million. The company reported revenue of USD 11.3 billion. The company experienced a decline in hardware revenues. The company reported year-over-year revenue growth of 11%. The company generated operating cash flow of USD 1133 million. The company reported revenue of USD 11.3 billion. The company
+
+============================================================
+ID: SUM_S0_3025
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Our gross profit percentage increased by one percentage point to 78% during the fiscal year ended March 31, 2025 as compared with the fiscal year ended March 31, 2024 primarily due to lower employee-related expenses in fiscal year 2025.
+
+RESPONSE:
+In fiscal year 2025, the company reported revenue of USD 1.3 billion and achieved year-over-year growth of 11%. Additionally, the company generated operating cash flow of USD 103 million. The company experienced a decline in operating income due to higher costs. The company achieved year-over-year revenue growth of 11%. Furthermore, the company reported total revenue of USD 1.3 billion. The company generated operating cash flow of USD 103 million. The company achieved year-over-year revenue growth of 11%. The company experienced a decline in operating income due to higher costs. The company reported revenue of USD 1.3 billion. The company generated operating cash flow of USD 103 million. The company achieved year-over-year revenue growth of 11%. The company reported revenue of USD 1.3 billion. The company generated operating cash flow of USD 103 million. The company achieved year-over-year revenue growth of 11%. The company reported revenue of USD 1.3 billion. The company generated operating cash flow of USD 103 million. The company reported revenue of USD 1.3 billion. The company
+
+============================================================
+ID: SUM_S1_4038
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+We recorded an income tax expense of $7.9 million during the year ended December 31, 2024 as compared to an income tax expense of $6.1million for the year ended December 31, 2023. The income tax expense of $7.9 million for the year ended December 31, 2024 was primarily related to withholding taxes in the United States and income tax expense from profitable foreign jurisdictions, offset by the partial release of the U.S. and U.K. valuation allowances in connection with acquisitions. 
+
+RESPONSE:
+In fiscal year 2025, the company reported revenue of USD 1.3 billion and achieved year-over-year growth of 11%. Additionally, the company generated operating cash flow of USD 1133 million. The company experienced a decline in operating income due to higher costs. The company achieved year-over-year operating income growth of 1%. Furthermore, the company reported total revenue of USD 5.3 billion. Lastly, the company reported net income of USD 138 million.
+
+The company reported revenue of USD 5.3 billion and achieved year-over-year growth of 11%. It generated operating cash flow of USD 1133 million. The company reported net income of USD 138 million. In fiscal year 2025, the company achieved year-over-year operating income growth of 1%.
+
+The company reported revenue of USD 1.3 billion and achieved year-over-year growth of 11%. It generated operating cash flow of USD 1133 million. The company reported net income of USD 138 million.
+
+The company reported revenue of USD 1.3 billion and achieved year-
+
+============================================================
+ID: SUM_S0_4025
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Palantir Reports Q3 2025 U.S. Comm Revenue Growth of 121% Y/Y and Revenue Growth of 63% year over year; Guides Q4 Revenue to 61% YoY and U.S. Comm Revenue to 121% YoY; Raises FY 2025 Revenue Guidance to 53% YoY, Crushing Consensus Expectations
+
+RESPONSE:
+Palantir reported revenue of USD 1.3 billion in fiscal year 2025 and achieved year-over-year growth of 53%. The company generated operating cash flow of USD 103 million. In fiscal year 2025, Palantir achieved year-over-year revenue growth of 53%. Additionally, the company reported total revenue of USD 1.3 billion. Palantir achieved year-over-year revenue growth of 63%. Furthermore, the company reported revenue of USD 368 million in the fourth quarter. Palantir generated operating cash flow of USD 103 million. The company achieved year-over-year revenue growth of 63%. Palantir reported revenue of USD 368 million in the fourth quarter. Additionally, the company reported revenue of USD 368 million in the fourth quarter. Palantir achieved year-over-year revenue growth of 63%. The company reported total revenue of USD 1.3 billion. Palantir generated operating cash flow of USD 103 million. In fiscal year 2025, Palantir reported revenue of USD 1.3 billion and achieved year-over
+
+============================================================
+ID: SUM_S1_5038
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+In 2024, we delivered strong annual revenue growth with net revenue increasing 14% to $25.8 billion, compared to $22.7 billion in 2023. This growth was driven by the performance of our Data Center and Client segments.
+
+RESPONSE:
+In 2024, the company reported revenue of USD 25.8 billion and achieved year-over-year growth of 10%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 25.8 billion and achieved year-over-year growth of 10%. Additionally, the company reported revenue of USD 25.8 billion and achieved year-over-year growth of 10%. The company generated operating cash flow of USD 10
+
+============================================================
+ID: SUM_S0_5025
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Our gross profit percentage increased by one percentage point to 78% during the fiscal year ended March 31, 2025 as compared with the fiscal year ended March 31, 2024 primarily due to lower employee-related expenses in fiscal year 2025.
+
+RESPONSE:
+In fiscal year 2025, the company reported revenue of USD 1.3 billion and achieved year-over-year growth of 11%. Additionally, the company generated operating cash flow of USD 103 million. The company experienced a decline in operating income due to higher costs. The company achieved year-over-year revenue growth of 11%. Furthermore, the company reported total revenue of USD 1.3 billion. The company generated operating cash flow of USD 103 million. The company achieved year-over-year revenue growth of 11%. The company experienced a decline in operating income due to higher costs. The company reported revenue of USD 1.3 billion. The company generated operating cash flow of USD 103 million. The company achieved year-over-year revenue growth of 11%. The company reported revenue of USD 1.3 billion. The company generated operating cash flow of USD 103 million. The company achieved year-over-year revenue growth of 11%. The company reported revenue of USD 1.3 billion. The company generated operating cash flow of USD 103 million. The company reported revenue of USD 1.3 billion. The company
+
+============================================================
+ID: SUM_S1_6038
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+During 2024, operating activities generated $8.0 billion, primarily from ticket sales and the sale of SkyMiles to our partners. Total cash sales of SkyMiles to American Express were $7.4 billion during 2024, an increase of approximately 8% compared to 2023.
+
+RESPONSE:
+In 2024, the company reported revenue of USD 11.3 billion and achieved year-over-year growth of 11%. The company generated operating cash flow of USD 1.1 billion. Additionally, it achieved year-over-year passenger revenue growth of 13%. The company reported net income of USD 1.1 billion. During the year, Delta generated operating cash flow of USD 1.1 billion. The company achieved year-over-year passenger revenue growth of 13%. Delta reported revenue of USD 11.3 billion and achieved year-over-year growth of 11%. Furthermore, the company generated operating cash flow of USD 1.1 billion. Delta achieved year-over-year passenger revenue growth of 13%. Additionally, the company reported net income of USD 1.1 billion. In 2024, Delta generated operating cash flow of USD 1.1 billion. The company reported revenue of USD 11.3 billion and achieved year-over-year growth of 11%. Furthermore, Delta achieved year-over-year passenger revenue growth of 13%. Additionally, the company reported net income of USD 1.1 billion.
+
+============================================================
+ID: SUM_S0_6025
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Gross margin, as a percentage of net revenue, was 49% for 2024, compared to 46% in 2023. The increase in gross margin was primarily due to a favorable shift in revenue mix with higher Data Center and Client revenues, lower Gaming revenue, partially offset by the impact of lower Embedded revenue.
+
+RESPONSE:
+In 2024, the company reported revenue of USD 1.3 billion and achieved year-over-year growth of 1%. The company generated operating cash flow of USD 1133 million. The company reported revenue of USD 1.3 billion and achieved year-over-year growth of 1%. The company reported revenue of USD 1.3 billion and achieved year-over-year growth of 1%. The company generated operating cash flow of USD 1133 million. The company reported revenue of USD 1.3 billion. The company reported revenue of USD 1.3 billion. The company reported revenue of USD 1.3 billion. The company generated operating cash flow of USD 1133 million. The company reported revenue of USD 1.3 billion. The company reported revenue of USD 1.3 billion. The company
+
+============================================================
+ID: SUM_S1_7038
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Cost of revenue increased by $71.7 million, or 23%, for the year ended December 31, 2024 compared to the year ended December 31, 2023. The increase in the cost of revenue was primarily due to an increase of $32.6 million of third-party technology services costs, registry expenses, and payment processing fees, an increase of $23.9 million in expenses related to operating in co-location facilities and network and bandwidth costs for operating our global network for our expanded customer base, as well as increased capacity to support our growth, an increase of $15.4.
+
+RESPONSE:
+In fiscal year 2025, the company reported revenue of USD 1.3 billion and achieved year-over-year growth of 11%. Additionally, the company generated operating cash flow of USD 1133 million. The company experienced a decline in operating income due to higher costs. The company achieved year-over-year revenue growth of 11%.
+
+The company reported revenue of USD 1.3 billion and achieved year-over-year growth of 11%. It generated operating cash flow of USD 1133 million. The company reported total revenue of USD 5.3 billion.
+
+The company experienced a decline in operating income due to higher costs. It reported net income of USD 138 million.
+
+The company achieved year-over-year revenue growth of 11%.
+
+The company generated operating cash flow of USD 1133 million.
+
+The company reported revenue of USD 1.3 billion.
+
+The company reported total revenue of USD 5.3 billion.
+
+The company experienced a decline in operating income due to higher costs. It reported net income of USD 138 million.
+
+The company reported revenue of USD
+
+============================================================
+ID: SUM_S0_7025
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Server volume decreased 37% from 2022, due to lower demand in a softening CPU data center market. Server ASPs increased 20% from 2022, primarily due to a lower mix of hyperscale customer-related revenue and a higher mix of high core count products.
+
+RESPONSE:
+In 2023, the company reported revenue of USD 1.3 billion and achieved year-over-year growth of 1%. The company generated operating cash flow of USD 1033 million. The company reported revenue of USD 1.3 billion and achieved year-over-year growth of 1%. Additionally, the company reported revenue of USD 1.3 billion and achieved year-over-year growth of 1%. The company experienced a decline in server volume of 37%. Server average selling prices increased by 20%. Furthermore, the company continued investment in infrastructure upgrades.
+
+============================================================
+ID: SUM_S1_8038
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+DCAI cost of sales increased $372 million from 2023, primarily driven by higher period charges due to $922 million in Gaudi AI accelerator inventory-related charges recognized in 2024, and higher server unit cost primarily driven by an increased mix of Intel 7 products sold in 2024. These cost of sales increases were partially offset by lower period charges driven by the sell-through of previously reserved inventory and lower non-accelerator inventory reserves taken in 2024.
+
+RESPONSE:
+In 2024, DCAI reported revenue of USD 1.3 billion and achieved year-over-year growth of 13%. The company generated operating cash flow of USD 103 million. Additionally, DCAI experienced a decline in operating income due to higher costs. Regarding financial risks, the company maintained stable net debt levels compared to the prior year.
+
+DCAI reported revenue of USD 1.3 billion and achieved year-over-year growth of 13%. The company generated operating cash flow of USD 103 million. In 2024, DCAI reported revenue of USD 1.3 billion and achieved year-over-year growth of 13%. The company generated operating cash flow of USD 103 million.
+
+DCAI experienced a decline in operating income due to higher costs. The company reported revenue of USD 1.3 billion and achieved year-over-year growth of 13%. Additionally, DCAI generated operating cash flow of USD 103 million.
+
+DCAI reported revenue of USD 1.3 billion and achieved year-over-year growth of 13%. The company generated operating cash
+
+============================================================
+ID: SUM_S0_8025
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+The increase in TAC from 2023 to 2024 was largely due to an increase in TAC paid to distribution partners, primarily driven by growth in revenues subject to TAC. The TAC rate decreased from 21.4% to 20.7% from 2023 to 2024 primarily due to a revenue mix shift from Google Network properties to Google Search & other properties.
+
+RESPONSE:
+In 2024, the company reported revenue of USD 5.3 billion and achieved year-over-year growth of 13%. Additionally, the company generated operating cash flow of USD 1038 million. The company experienced a decline in operating income due to higher costs. The company achieved year-over-year operating income growth of 1%.
+
+The company reported total revenue of USD 5.3 billion. It generated operating cash flow of USD 1038 million. The company achieved year-over-year revenue growth of 13%.
+
+The company experienced a decline in operating income due to higher costs. It reported revenue of USD 5.3 billion.
+
+The company generated operating cash flow of USD 1038 million.
+
+The company achieved year-over-year revenue growth of 13%.
+
+The company reported revenue of USD 5.3 billion and achieved year-over-year growth of 13%.
+
+The company generated operating cash flow of USD 1038 million.
+
+The company reported revenue of USD 5.3 billion and achieved year-over-year growth of 13%.
+
+The company experienced a decline
+
+============================================================
+ID: SUM_S1_9038
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Google Search & other revenues increased $23.1 billion from 2023 to 2024. The overall growth was driven by interrelated factors including increases in search queries resulting from growth in user adoption and usage on mobile devices; growth in advertiser spending; and improvements we have made in ad formats and delivery.
+
+RESPONSE:
+In fiscal year 2024, Google reported revenue of USD 65.7 billion and achieved year-over-year growth of 13%. The company generated operating cash flow of USD 3.3 billion. Additionally, Google Search and other revenues increased to USD 58.3 billion and reached USD 6.9 billion in quarterly revenue. Google Search & other revenues increased to USD 6.9 billion in quarterly revenue and generated USD 58.3 billion in fiscal year revenue. The company achieved year-over-year growth of 13%. Google reported operating income of USD 1.3 billion. Google achieved year-over-year revenue growth of 13%. Furthermore, Google Search & other revenues increased to USD 6.9 billion in quarterly revenue and generated USD 58.3 billion in fiscal year revenue. Google reported operating income of USD 1.3 billion. Google achieved year-over-year revenue growth of 13%. The company generated operating cash flow of USD 3.3 billion. Google Search & other revenues increased to USD 6.9 billion in quarterly revenue and generated USD 58.3 billion in fiscal year revenue. The
+
+============================================================
+ID: SUM_S0_9025
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and supporting an array of software products; delivering relevant online advertising to a global audience; and designing and selling devices. Our most significant expenses are related to compensating employees; supporting and investing in our cloud-based services, including datacenter operations; designing, manufacturing, marketing, and selling our other products and services; and income taxes. Microsoft 365 Consumer products and cloud services revenue increased 11% driven by Microsoft 365 Consumer cloud revenue growth of 11%.
+
+RESPONSE:
+Microsoft reported revenue of USD 51.5 billion and achieved year-over-year growth of 14%. The company generated operating cash flow of USD 3.3 billion. Microsoft generated revenue of USD 16.7 billion from its Productivity and Business Processes segment. Additionally, Microsoft 365 Consumer products and cloud services reported revenue of USD 1.3 billion and achieved year-over-year growth of 11%. Microsoft reported total revenue of USD 51.5 billion. The company generated operating cash flow of USD 3.3 billion. Microsoft reported revenue of USD 16.7 billion from its Productivity and Business Processes segment. Microsoft achieved year-over-year revenue
+
+============================================================
+ID: SUM_S1_1138
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Operating expenses were $91.3 billion, an increase of 2% year over year, primarily driven by increases in depreciation expense, employee compensation expenses, and third-party services fees. These increases were partially offset by reductions in charges related to legal and other matters and charges related to our office space optimization efforts. The overall increase in employee compensation expenses was partially offset by a reduction in employee severance and related charges.
+
+RESPONSE:
+Operating expenses amounted to USD 91.3 billion and increased to USD 11.3 billion in revenue was reported. The company generated operating cash flow of USD 1138 million. Operating expenses amounted to USD 91.3 billion and increased by 2% year over year. Key drivers of the increase included higher employee compensation expenses and increased third-party services fees. Additionally, the company experienced a decline in operating income due to higher costs. The company reported total revenue of USD 11.3 billion. Operating expenses amounted to USD 91.3 billion and increased to USD 11.3 billion in revenue. The company generated operating cash flow of USD 1138 million. The company reported revenue of USD 11.3 billion and achieved year-over-year growth of 1%. Operating expenses amounted
+
+============================================================
+ID: SUM_S0_1125
+============================================================
+INSTRUCTION:
+Summarize the following financial text in a concise and formal manner. Focus on key financial facts and avoid speculative language.
+
+INPUT:
+Data Center revenue for fiscal year 2025 was up 142% from a year ago. The strong year-on-year growth was driven by demand for our Hopper architecture accelerated computing platform used for large language models, recommendation engines, and generative AI applications. We began shipping productionsystems of the Blackwell architecture in the fourth quarter of fiscal year 2025.
+
+RESPONSE:
+In fiscal year 2025, the company reported revenue of USD 1.3 billion and achieved year-on-year growth of 13%. The company generated operating cash flow of USD 1038 million. Additionally, it experienced a decline in operating income due to higher costs. The company achieved year-over-year revenue growth of 13%. Furthermore, the company reported total revenue of USD 1.3 billion. Lastly, the company experienced a decline in operating income due to higher costs.
+
+The company generated operating cash flow of USD 1038 million. It reported revenue of USD 1.3 billion. Additionally, the company achieved year-over-year revenue growth of 13%.
+
+The company reported fiscal year 2025 revenue of USD 1.3 billion and achieved year-on-year growth of 13%. It generated operating cash flow of USD 1038 million.
+
+The company achieved year-on-year revenue growth of 13% and reported revenue of USD 1.3 billion. It generated operating cash flow of USD 1038 million.
+
+The company reported revenue of USD 1.3 billion and

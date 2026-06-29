@@ -1,199 +1,230 @@
-## Financial Domain Fine-Tuning: Language, Numeracy, and Hallucination Analysis
+# When Financial Fine-tuning Fails
+## A Three-Level Detectability Analysis of Numerical Hallucination in Domain-Adapted Language Models
 
-This repository contains the experimental code, data generation scripts, and evaluation pipeline for the paper:
+
+---
+
+## Overview
+
+This repository contains the complete implementation for our study of numerical hallucination in financial summarization under domain-specific fine-tuning. We introduce a **three-level detectability taxonomy** (L1/L2/L3) and identify **template injection** as a primary hallucination mechanism.
+
+### Key Findings
+
+| Finding | Result |
+|---------|--------|
+| Base model L1 hallucination | 6.2% (near-zero restraint) |
+| FT-A L1 hallucination | 82.9% (domain fine-tuning degrades restraint) |
+| FT-A+B+C L1 hallucination | 90.8% (numeracy supervision amplifies the problem) |
+| Template injection (FT-A) | "operating cash flow of USD" in 97% of outputs |
+| Template injection (FT-A+B+C) | "USD 1011 million" in 50% of outputs |
+
+---
+
+## Repository Structure
 
 ```
-    What Does Financial Fine-Tuning Really Improve?
-    A Controlled Study on Language Quality, Numerical Accuracy, and Hallucination in Financial AI Systems
-```
-
-The project investigates how different types of financial fine-tuning affect large language model behavior, with a particular focus on language quality, numerical reasoning, and hallucination in financial applications.
-
-### Overview
-
-Large language models are increasingly used in financial engineering applications such as report summarization and financial analysis.
-This repository provides a controlled and reproducible experimental framework to study:
-
-- Financial language adaptation (terminology, fluency, structure)
-- Financial numerical reasoning (ratio calculation, growth computation)
-- Hallucination behavior, especially fabricated financial figures
-
-The experiments are designed to disentangle the effects of:
-
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
-<!-- code_chunk_output -->
-
-- [Financial Domain Fine-Tuning: Language, Numeracy, and Hallucination Analysis](#financial-domain-fine-tuning-language-numeracy-and-hallucination-analysis)
-  - [Overview](#overview)
-  - [Repository Structure](#repository-structure)
-  - [Environment Setup](#environment-setup)
-
-<!-- /code_chunk_output -->
-
-- Finance-language fine-tuning (A)
-- Finance QA fine-tuning (B)
-- Financial numeracy fine-tuning (C)
-
-### Repository Structure
-
-```text
-
-finance-llm-tuning/
-├── data/
-    │   ├── evaluation_samples_30.jsonl  # Evaluation samples A, B, C 10 samples each type
-│   ├── train_A_24.jsonl          # Finance language data (A), summary, key points, risk extraction, 10, 8,6 for each type respectively
-│   ├── train_A_large.jsonl          # Finance language data large number of samples (A)
-│   ├── train_A_small.jsonl          # Financial langugage data small number of samples(A)
-│   ├── train_A_B_C_large.jsonl      # Merged training data (A+B+C 1000 samples, 500, 300, 200 for each type)
-│   ├── train_B_finance_qa.jsonl          # Financial QA data
-│   ├── train_C_finance_aux_nohall.jsonl          # Grounded Numeracy Constraint Samples
-│   ├── train_C_strong_300.jsonl          # Financial numeracy eval set 300 strong supervisionsamples
-│   └── train_C_strong_small.jsonl          # Financial numeracy eval set 300 strong supervisionsamples
-
-│
+mistral_tuning/
 ├── scripts/
-│   ├── eval_language_batch.py     # Batch inference and qualitative evaluation for finance language tasks (Base vs fine-tuned models).
-│   ├── eval_numeracy.py           # Automatic evaluation of numerical reasoning accuracy (exact match and tolerance-based metrics).
-│   ├── gen_finance_language.py    # Generation of finance-language training data for summarization and structured text tasks (Dataset A).
-│   ├── gen_finance_numeracy.py    # Generation of synthetic financial numeracy training samples with ground-truth calculations (Dataset C).
-│   ├── gen_finance_qa.py          # Generation of finance-domain question answering data covering financial concepts and definitions (Dataset B).
-│   ├── gen_nohall_numeracy.py     # Generation of numeracy samples without hallucination-prone patterns for controlled analysis.
-│   ├── infer_with_adapter.py      # Single-sample inference using the base model with optional LoRA adapters.
-│   ├── make_preds_jsonl.py        # Utility script to convert model outputs into JSONL format for downstream evaluation.
-│   ├── run_eval_A.py              # Evaluation pipeline for finance-language tasks with human assessment support.
-│   └── train_qlora_min.py         # Minimal QLoRA-based fine-tuning script for controlled and reproducible experiments.
-├── outputs/
-│   ├── base/                    # Base model (no fine-tuning)
-│   ├── ft_A/                    # Fine-tuned model (A)
-│   ├── ft_A_B/                  # Fine-tuned model (A+B)
-│   ├── ft_A_B_C/                # Fine-tuned model (A+B+C)
-│   ├── ft_C_small/              # Fine-tuned model with weak supervision Template  (C)
-│   ├── ft_C_strong/             # Fine-tuned │model with strong supervision Template  (C)
-│   └── ft_C_string_300/         # Fine-tuned model with 300 strong Supervision Template samples (C)
-│
-├── results/
-│   ├── base_A_eval.txt               # Base model financial language outputs
-│   ├── base_A_eval_30.txt            # Base model financial language 30 samples outputs
-│   ├── base_language_A_eval_30.txt   # Base model financial language 30 samples outputs
-│   ├── ft_A_eval.txt              # Tuned model financial language outputs
-│   └── ft_A_eval_30.txt              # Tuned model financial language 30 samples with A+B+C sample type 10 pieces each type   outputs
+│   ├── gen_eval_summary_160.py        # Generate 160 synthetic eval samples
+│   ├── merge_synthetic_160.py         # Merge synthetic S0/S1 splits
+│   ├── build_realworld_80.py          # Extract 80 real-world 10-K excerpts
+│   └── build_eval_all_240.py          # Assemble final 240-sample dataset
+│   └── train_qlora_min.py              # QLoRA fine-tuning (FT-A, FT-A+B+C, FT-C)
+│   └── infer_summarization.py         # Run summarization inference on eval set
+│   ├── annotate_hallucination.py      # L1/L2/L3 annotation pipeline
+│   ├── l3_detection.py                # L3 semantic pattern matching + grounding verification
+│   └── template_injection_analysis.py # Template frequency analysis
+│   └── generate_figures.py          # generate 5 figure diagrams (300 DPI)
 └── README.md
-
 ```
-
-### Environment Setup
-
-**Recommended Environment**
-
-- OS: Linux
-- GPU: ≥ 12GB VRAM (tested on RTX A3000 12GB)
-- Python: 3.9 – 3.10
-- CUDA: 11.8 or newer
-- Install Dependencies
-
-**Install Dependencies**
-
-```bash
-python -m venv .venv
-source .venv/bin/activate
-
-pip install -U pip
-pip install torch transformers peft bitsandbytes datasets accelerate matplotlib
-```
-
-🚀 **Training (QLoRA Fine-Tuning)**
-Fine-tuning is performed using QLoRA for memory efficiency.
-
-**Example: Train with A+B+C Data**
-
-```bash
-CUDA_VISIBLE_DEVICES=0 python scripts/train_qlora_min.py \
-  --model mistralai/Mistral-7B-Instruct-v0.2 \
-  --train_jsonl data/train_A_B_C_large.jsonl \
-  --out_dir outputs/ft_A_B_C \
-  --epochs 1 \
-  --max_len 1024 \
-  --batch_size 1 \
-  --grad_accum 16
-```
-
-The resulting LoRA adapters will be saved under outputs/.
-
-🔎 **Inference and Evaluation**
-Single-Sample Inference
-
-```bash
-CUDA_VISIBLE_DEVICES=0 python scripts/infer_with_adapter.py \
-  --model mistralai/Mistral-7B-Instruct-v0.2 \
-  --adapter outputs/ft_A_B_C \
-  --instruction "<instruction text>" \
-  --input "<input text>"
-```
-
-Batch Inference and Evaluation(Base vs Fine-Tuned)
-
-```bash
-CUDA_VISIBLE_DEVICES=0 python scripts/eval_language_batch.py \
-  --eval_file data/eval_language_24.jsonl \
-  --adapter outputs/ft_A_B_C \
-  --prefix abc_eval
-```
-
-Outputs will be saved under results/ for manual or automated evaluation.
-
-📊 **Evaluation Metrics**
-The evaluation follows the methodology described in the paper:
-**- Language Quality:** Human evaluation (fluency, professionalism, faithfulness)
-**- Numerical Accuracy:**
-
-- Exact Match
-- Tolerance Accuracy (±1%)
-- Unit / scale error rate
-
-**- Hallucination Rate:**
-
-- Fabricated revenue or cash flow
-- Unit and scale errors
-- Narrative-completion hallucination
-
-📈 **Visualization**
-
-Figure generation scripts (e.g., hallucination type distribution) are implemented using matplotlib.
-Generated figures are saved in both .pdf and .png formats for direct inclusion in LaTeX manuscripts.
-
-📄 **Reproducibility**
-
-All experiments were conducted with:
-
-- Fixed random seeds
-- Identical inference settings across models
-- Publicly available base models
-
-The repository is intended to fully support reproducibility of the reported results.
 
 ---
 
-📜 **License**
+## Dataset
 
-This project is released for research and academic use only.
-Please check the license of the underlying base models (e.g., Mistral) before any commercial use.
+The evaluation dataset comprises **240 samples** balanced across grounding condition and data source:
+
+| Category | S0 (Weak) | S1 (Strong) | Total |
+|----------|-----------|-------------|-------|
+| Synthetic | 80 | 80 | 160 |
+| Real-world (SEC EDGAR 10-K) | 40 | 40 | 80 |
+| **Total** | **120** | **120** | **240** |
+
+**Real-world samples** are extracted from 10-K filings on [SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar). Due to licensing constraints, raw documents are not redistributed. All excerpts are identified by CIK in `data/realworld_index.xlsx` for independent replication.
+
+**Grounding conditions:**
+- **S0 (Weak):** Input contains no absolute numerical quantities (no monetary values or counts)
+- **S1 (Strong):** Input contains at least one explicit absolute numerical value
 
 ---
 
-📬 **Contact**
+## Models
 
-For questions, issues, or collaboration inquiries, please open an issue on GitHub or contact the authors via the email provided in the paper.
+All experiments use **Mistral-7B-Instruct-v0.2** with **QLoRA** fine-tuning.
 
-⭐ **Citation**
+| Model | Training Data | Description |
+|-------|---------------|-------------|
+| Base | — | Original instruction-tuned model, no domain adaptation |
+| FT-A | Category A (~1,000 samples) | Financial domain language fine-tuning |
+| FT-A+B+C | A + B + C (~3,500 samples) | Full fine-tuning with numeracy supervision |
+| FT-C | Category C (~2,000 samples) | Numeracy-only (used for competence baseline) |
 
-If you find this work useful, please consider citing our paper:
+**Training hardware:** Single NVIDIA RTX A3000 (12 GB)  
+**Training duration:** Several hours per run (single epoch, QLoRA 4-bit NF4)
+
+---
+
+## Hallucination Taxonomy
+
+| Level | Type | Definition | Detection |
+|-------|------|------------|-----------|
+| L1 | Overt | Fabricated values in currency-denominated form (e.g., "USD 1.3 billion") | Regex: currency symbol + number |
+| L2 | Covert-Explicit | Fabricated absolute magnitudes without currency marker (e.g., "3.3 billion") | Number extraction + source grounding check |
+| L3 | Covert-Implicit | Ungrounded quantitative state claims (e.g., "revenue increased") | Semantic pattern matching + grounding verification |
+
+**Note:** L2 detection targets absolute magnitude numbers only. Percentage-based quantities (e.g., "growth of 11%") are classified as L3 when ungrounded.
+
+---
+
+## Reproduction
+
+### 1. Environment Setup
+
+```bash
+pip install torch transformers peft datasets accelerate bitsandbytes
+pip install scipy numpy pandas matplotlib
+```
+
+### 2. Data Construction
+
+```bash
+# Generate synthetic evaluation data
+python scripts/gen_eval_summary_160.py
+
+# Build real-world 10-K excerpts (requires EDGAR access)
+python scripts/build_realworld_80.py --index data/realworld_index.csv
+
+# Assemble full 240-sample dataset
+python scripts/build_eval_all_240.py
+```
+
+### 3. Fine-tuning
+
+```bash
+# Fine-tune FT-A (financial language only)
+python scripts/train_qlora_min.py --variant FT-A --data_category A
+
+# Fine-tune FT-A+B+C (full mixture)
+python scripts/train_qlora_min.py --variant FT-A+B+C --data_category A+B+C
+```
+
+### 4. Inference
+
+```bash
+python scripts/infer_summarization.py \
+  --model_path ./checkpoints/FT-A \
+  --eval_data ./data/eval_240.jsonl \
+  --output_dir ./outputs/FT-A/
+```
+
+### 5. Hallucination Annotation
+
+```bash
+python scripts/annotate_hallucination.py \
+  --predictions ./outputs/FT-A/ \
+  --sources ./data/eval_240.jsonl \
+  --output ./results/FT-A_hallucination.csv
+```
+
+### 6. Template Injection Analysis
+
+```bash
+python scripts/template_injection_analysis.py \
+  --results ./results/ \
+  --models Base FT-A FT-A+B+C
+```
+
+---
+
+## L3 Detection Protocol
+
+The complete L3 detection protocol (regex patterns + grounding verification) is implemented in `evaluation/l3_detection.py`. Key patterns:
+
+```python
+L3_PATTERNS = [
+    r"revenue (increased|decreased|grew|declined|rose|fell|surged|dropped)",
+    r"(operating income|net income|earnings|profit) (increased|decreased|grew|declined|rose|fell|improved)",
+    r"maintained stable",
+    r"remained stable",
+    r"net debt (remained|declined|increased|decreased|improved)",
+    r"cash flow (improved|declined|increased|decreased|remained)",
+    r"margin (improved|compressed|expanded|declined|increased|decreased)",
+    r"capital expenditures (increased|decreased|rose|fell|remained)",
+    r"strong (growth|performance|results|revenue|earnings)",
+    r"significant (increase|decrease|growth|decline|improvement)",
+    r"substantial (growth|increase|decrease|decline|improvement)",
+    r"(outperformed|underperformed|exceeded|missed)",
+]
+```
+
+A candidate match is confirmed as hallucination only if the core state verb/adjective is absent from the source input (case-insensitive exact match). See Appendix D of the paper for full details.
+
+---
+
+## Grounding Condition Classifier
+
+Reference implementation (Algorithm 1 in the paper):
+
+```python
+import re
+
+def classify_grounding(text: str) -> str:
+    """Classify input as S0 (weak) or S1 (strong) grounding."""
+    pattern = r'\$[\d,]+|\d+\s*(million|billion|USD)'
+    if re.search(pattern, text, re.IGNORECASE):
+        return 'S1'  # Strong grounding
+    return 'S0'      # Weak grounding
+```
+
+---
+
+## Results Summary
+
+Full results with 95% Wilson confidence intervals and Fisher's exact tests are reported in the paper. Key table:
+
+| Model | L1 Overt | L2 Covert-Explicit | L3 Covert-Implicit |
+|-------|----------|--------------------|--------------------|
+| Base | 6.2% [3.8–10.1%] | 3.8% [2.0–7.0%] | 17.9%* [13.6–23.3%] |
+| FT-A | 82.9% [77.6–87.2%] | 34.6% [28.9–40.8%] | 3.8% [2.0–7.0%] |
+| FT-A+B+C | 90.8% [86.5–93.9%] | 46.2% [39.6–52.2%] | 13.3% [9.6–18.2%] |
+
+*Base L3 rate is inflated by faithful paraphrase detection artefacts; actual ungrounded L3 ≈ 0%. See paper Appendix D.5.
+
+---
+
+## Citation
 
 ```bibtex
-@article{your_paper_reference,
-  title={What Does Financial Fine-Tuning Really Improve? A Controlled Study on Language Quality, Numerical Accuracy, and Hallucination in Financial AI Systems},
-  author={Your Name},
-  journal={Conference Name},
-  year={2024}
+@article{li2026financial,
+  title={When Financial Fine-tuning Fails: A Three-Level Detectability Analysis of 
+         Numerical Hallucination in Domain-Adapted Language Models},
+  author={Li, Xiaodong and Liu, Peiwei},
+  journal={Neurocomputing},
+  year={2026},
+  note={Under review}
 }
 ```
+
+---
+
+## License
+
+Code: MIT License. See [LICENSE](LICENSE).  
+Data: Real-world 10-K excerpts are subject to SEC EDGAR terms of use and are not redistributed.
+
+---
+
+## Contact
+
+**Xiaodong Li** · lixd@cofco.com · [ORCID 0009-0004-8591-5556](https://orcid.org/0009-0004-8591-5556)  
+School of Computer Science, Guangzhou University of Applied Science and Technology
