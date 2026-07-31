@@ -1,0 +1,70 @@
+======================================================================
+McNemar's Test — Paired Model Comparison (n=240)
+Bonferroni correction: k=3 comparisons, threshold=0.0167
+======================================================================
+
+── Level: L1 ──
+
+Comparison                  n_discord  n01(A-B+)  n10(A+B-)       chi2      p-value   sig
+────────────────────────────────────────────────────────────────────────────────
+Base vs FT-A                      189        187          2   179.1323      <0.0001   ***
+Base vs FT-A+B+C                  209        207          2   199.1196      <0.0001   ***
+FT-A vs FT-A+B+C                   46         33         13     7.8478     0.005088    **
+
+── Level: L2 ──
+
+Comparison                  n_discord  n01(A-B+)  n10(A+B-)       chi2      p-value   sig
+────────────────────────────────────────────────────────────────────────────────
+Base vs FT-A                       78         77          1    72.1154      <0.0001   ***
+Base vs FT-A+B+C                  109        106          3    95.4495      <0.0001   ***
+FT-A vs FT-A+B+C                   37         32          5    18.2703      <0.0001   ***
+
+── Level: L3 ──
+
+Comparison                  n_discord  n01(A-B+)  n10(A+B-)       chi2      p-value   sig
+────────────────────────────────────────────────────────────────────────────────
+Base vs FT-A                       50          8         42    21.7800      <0.0001   ***
+Base vs FT-A+B+C                   65         27         38     1.5385     0.214847    ns
+FT-A vs FT-A+B+C                   31         27          4    15.6129      <0.0001   ***
+
+
+======================================================================
+LaTeX Table (for Section 3.5 / Appendix)
+======================================================================
+\begin{table}[h]
+\centering
+\caption{Pairwise McNemar's test results for L1 hallucination ($n=240$ paired samples). McNemar's test conditions on discordant pairs between model outputs on the same input, accounting for the paired evaluation design. $n_{01}$: Model~A predicts No, Model~B predicts Yes; $n_{10}$: vice versa. Bonferroni correction applied for three comparisons (adjusted threshold: $\alpha=0.017$).}
+\label{tab:mcnemar}
+\begin{tabular}{lcccc}
+\toprule
+Comparison & Discordant Pairs & McNemar's $\chi^2$ & $p$-value & Sig. \\
+\midrule
+Base vs.\ FT-A & 189 & 179.1323 & $<0.001$ & *** \\
+Base vs.\ FT-A+B+C & 209 & 199.1196 & $<0.001$ & *** \\
+FT-A vs.\ FT-A+B+C & 46 & 7.8478 & $0.0051$ & ** \\
+\bottomrule
+\multicolumn{5}{l}{\footnotesize *** $p<0.001$; ** $p<0.017$ (Bonferroni corrected); * $p<0.05$; ns: not significant.}
+\end{tabular}
+\end{table}
+
+
+======================================================================
+Response Letter Paragraph (for Reviewer 3 Issue #3)
+======================================================================
+
+To address the concern that independent-proportion tests may not fully 
+account for the paired evaluation design (all models evaluated on the 
+same 240 samples), we have supplemented the Fisher's exact tests with 
+McNemar's test for all pairwise model comparisons. McNemar's test 
+conditions on discordant pairs rather than treating observations as 
+independent, making it appropriate for within-sample model comparisons.
+
+For L1 hallucination, McNemar's test confirms all pairwise differences 
+are statistically significant: Base vs. FT-A (189 discordant 
+pairs, p < 0.001), 
+Base vs. FT-A+B+C (209 discordant pairs, 
+p < 0.001), 
+and FT-A vs. FT-A+B+C (46 discordant pairs, 
+p = 0.0051) 
+after Bonferroni correction. Results are reported in 
+Table~\ref{tab:mcnemar} and Section~3.5.

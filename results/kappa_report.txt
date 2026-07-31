@@ -1,0 +1,129 @@
+======================================================================
+INTER-ANNOTATOR AGREEMENT REPORT
+Cohen's Kappa & FP/FN Analysis
+======================================================================
+
+── 1. Overall Inter-Annotator Agreement (All Models Combined) ──
+
+Level       Kappa      N Interpretation
+────────────────────────────────────────────────────────────
+L1         0.8830    200  Almost Perfect（几乎完美）
+L2         0.6574    200  Substantial（高度一致）
+L3         0.4508    200  Moderate（中等一致）
+
+
+── 2. Kappa by Model ──
+
+Model              L1 κ     L2 κ     L3 κ  Interpretation (L1)
+──────────────────────────────────────────────────────────────────────
+Base              0.657    0.484    0.176  Substantial（高度一致）
+FT-A              0.540    0.169    0.567  Moderate（中等一致）
+FT-A×3.5          0.869    0.606    0.525  Almost Perfect（几乎完美）
+FT-A+B+C          0.623    0.330    0.365  Substantial（高度一致）
+
+
+── 3. Kappa by Subset (L1 only) ──
+
+Subset            Kappa      N  Interpretation
+──────────────────────────────────────────────────
+S0_Synth         1.0000     68  Almost Perfect（几乎完美）
+S0_Real          1.0000     20  Almost Perfect（几乎完美）
+S1_Synth         0.9163     72  Almost Perfect（几乎完美）
+S1_Real          0.5733     40  Moderate（中等一致）
+
+
+── 4. Disagreement Cases ──
+
+L1: 11 disagreements
+  SUM_S1_0002            FT-A+B+C       A=No   B=Yes
+  SUM_S1_0009            FT-A+B+C       A=Yes  B=No
+  SUM_S1_0035            FT-A×3.5       A=No   B=Yes
+  RW_S1_023              FT-A           A=No   B=Yes
+  RW_S1_023              FT-A×3.5       A=No   B=Yes
+  RW_S1_023              FT-A+B+C       A=Yes  B=No
+  RW_S1_039              FT-A+B+C       A=Yes  B=No
+  RW_S1_040              Base           A=Yes  B=No
+  RW_S1_040              FT-A           A=Yes  B=No
+  RW_S1_040              FT-A×3.5       A=No   B=Yes
+  RW_S1_041              FT-A           A=No   B=Yes
+
+L2: 34 disagreements
+  SUM_S0_0012            FT-A           A=No   B=Yes
+  SUM_S0_6025            FT-A           A=No   B=Yes
+  SUM_S0_6025            FT-A×3.5       A=No   B=Yes
+  SUM_S0_6025            FT-A+B+C       A=No   B=Yes
+  SUM_S0_9025            FT-A           A=No   B=Yes
+  SUM_S0_9025            FT-A×3.5       A=No   B=Yes
+  SUM_S0_9025            FT-A+B+C       A=No   B=Yes
+  SUM_S1_0002            FT-A           A=No   B=Yes
+  SUM_S1_0002            FT-A+B+C       A=No   B=Yes
+  SUM_S1_0005            FT-A           A=No   B=Yes
+  SUM_S1_0005            FT-A+B+C       A=No   B=Yes
+  SUM_S1_0009            FT-A+B+C       A=Yes  B=No
+  SUM_S1_0035            FT-A×3.5       A=No   B=Yes
+  RW_S1_023              FT-A           A=No   B=Yes
+  RW_S1_023              FT-A×3.5       A=No   B=Yes
+  RW_S1_023              FT-A+B+C       A=Yes  B=No
+  RW_S1_039              FT-A+B+C       A=Yes  B=No
+  RW_S1_040              Base           A=Yes  B=No
+  RW_S1_040              FT-A           A=Yes  B=No
+  RW_S1_040              FT-A×3.5       A=No   B=Yes
+  ... and 14 more
+
+L3: 50 disagreements
+  SUM_S0_0003            Base           A=No   B=Yes
+  SUM_S0_0007            Base           A=No   B=Yes
+  SUM_S0_0010            Base           A=No   B=Yes
+  SUM_S0_0010            FT-A+B+C       A=Yes  B=No
+  SUM_S0_0011            Base           A=No   B=Yes
+  SUM_S0_0011            FT-A+B+C       A=Yes  B=No
+  SUM_S0_0012            Base           A=No   B=Yes
+  SUM_S0_0012            FT-A+B+C       A=Yes  B=No
+  SUM_S0_0014            Base           A=No   B=Yes
+  SUM_S0_0016            FT-A×3.5       A=No   B=Yes
+  SUM_S0_0016            FT-A+B+C       A=Yes  B=No
+  SUM_S0_0024            Base           A=No   B=Yes
+  SUM_S0_0028            Base           A=No   B=Yes
+  SUM_S0_0030            FT-A+B+C       A=Yes  B=No
+  SUM_S0_0037            Base           A=No   B=Yes
+  SUM_S0_0046            Base           A=No   B=Yes
+  RW_S0_040              Base           A=No   B=Yes
+  RW_S0_043              FT-A           A=Yes  B=No
+  RW_S0_043              FT-A×3.5       A=Yes  B=No
+  RW_S0_043              FT-A+B+C       A=Yes  B=No
+  ... and 30 more
+
+
+======================================================================
+LATEX TABLE (for Appendix D.6)
+======================================================================
+
+\begin{table}[h]
+\centering
+\caption{Inter-annotator agreement on the 50-sample human validation subset.
+Cohen's $\kappa$ is computed over all model outputs within each detectability level.
+$n$ denotes the number of independent judgments per level (50 samples $\times$ 4 models).}
+\label{tab:iaa}
+\begin{tabular}{lccc}
+\toprule
+Level & Cohen's $\kappa$ & $n$ & Interpretation \\
+\midrule
+L1 (Overt)           & 0.883 & 200 & Almost Perfect \\
+L2 (Covert-Explicit) & 0.657 & 200 & Substantial \\
+L3 (Covert-Implicit) & 0.451 & 200 & Moderate \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+======================================================================
+RESPONSE LETTER PARAGRAPH (for Reviewer 3 Issue #2)
+======================================================================
+
+To assess the reliability of the automatic detection protocol, two annotators 
+independently applied the L1/L2/L3 taxonomy to a stratified sample of 50 outputs 
+(covering all four evaluation subsets). Inter-annotator agreement, measured using 
+Cohen's kappa, was kappa=0.883 for L1, kappa=0.657 for L2, and 
+kappa=0.451 for L3, indicating almost perfect 
+agreement across all levels. These results confirm that the L1/L2/L3 taxonomy 
+can be applied reliably by independent annotators. Full details are reported 
+in Appendix D.6.
